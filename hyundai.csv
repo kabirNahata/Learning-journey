@@ -1,0 +1,1322 @@
+,Name,Location,Year,Kilometers_Driven,Fuel_Type,Transmission,Owner_Type,Mileage,Engine,Power,Seats,New_Price,Price,Car_Age,Brand,Model
+1,Hyundai Creta 1.6 CRDi SX Option,Pune,2015,41000,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,12.5,10,Hyundai,Creta1.6
+23,Hyundai i20 1.2 Magna,Kolkata,2010,45807,Petrol,Manual,First,18.5 kmpl,1197 CC,80 bhp,5,,1.87,15,Hyundai,i201.2
+43,Hyundai i20 Magna Optional 1.2,Kochi,2014,35487,Petrol,Manual,First,18.5 kmpl,1197 CC,82.9 bhp,5,,4.74,11,Hyundai,i20Magna
+44,Hyundai Elantra 2.0 SX Option AT,Bangalore,2014,46374,Petrol,Automatic,First,14.62 kmpl,1999 CC,149.92 bhp,5,23.64 Lakh,8.85,11,Hyundai,Elantra2.0
+46,Hyundai Elantra CRDi,Ahmedabad,2008,58005,Diesel,Manual,Second,14.9 kmpl,1991 CC,112.2 bhp,5,,4.25,17,Hyundai,ElantraCRDi
+48,Hyundai Xcent 1.1 CRDi S,Jaipur,2014,75000,Diesel,Manual,First,24.4 kmpl,1120 CC,71 bhp,5,,3.85,11,Hyundai,Xcent1.1
+54,Hyundai Grand i10 Sportz,Chennai,2015,54000,Petrol,Manual,Third,18.9 kmpl,1197 CC,82 bhp,5,,3.6,10,Hyundai,Grandi10
+57,Hyundai i10 Asta,Kolkata,2010,32000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.07,15,Hyundai,i10Asta
+69,Hyundai Creta 1.4 E Plus Diesel,Mumbai,2018,13000,Diesel,Manual,First,22.1 kmpl,1396 CC,88.7 bhp,5,11.81 Lakh,10.5,7,Hyundai,Creta1.4
+72,Hyundai i10 Sportz 1.2 AT,Kochi,2012,45178,Petrol,Automatic,First,16.95 kmpl,1197 CC,78.9 bhp,5,,3.48,13,Hyundai,i10Sportz
+79,Hyundai Santro Xing XL,Hyderabad,2005,87591,Petrol,Manual,First,0.0 kmpl,1086 CC,null bhp,5,,1.3,20,Hyundai,SantroXing
+87,Hyundai i10 Sportz 1.2,Pune,2009,95980,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.25,16,Hyundai,i10Sportz
+88,Hyundai Grand i10 Sportz,Bangalore,2016,16000,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,5.75,9,Hyundai,Grandi10
+89,Hyundai Santro Xing XO,Hyderabad,2007,73745,Petrol,Manual,First,17.0 kmpl,1086 CC,null bhp,5,,2.1,18,Hyundai,SantroXing
+97,Hyundai Verna Transform SX VGT CRDi,Ahmedabad,2010,70002,Diesel,Manual,First,16.2 kmpl,1493 CC,110 bhp,5,,3.45,15,Hyundai,VernaTransform
+100,Hyundai i20 1.4 CRDi Sportz,Pune,2011,78958,Diesel,Manual,Second,23.0 kmpl,1396 CC,90 bhp,5,,3.8,14,Hyundai,i201.4
+101,Hyundai i20 Asta 1.2,Mumbai,2014,30180,Petrol,Manual,First,18.5 kmpl,1197 CC,82.85 bhp,5,,4.65,11,Hyundai,i20Asta
+104,Hyundai i20 2015-2017 Asta,Pune,2009,66000,Petrol,Manual,Second,17.0 kmpl,1197 CC,80 bhp,5,,2.7,16,Hyundai,i202015-2017
+109,Hyundai Verna 1.6 SX CRDI (O) AT,Kolkata,2014,40000,Diesel,Automatic,First,22.32 kmpl,1582 CC,126.32 bhp,5,,5.25,11,Hyundai,Verna1.6
+120,Hyundai Santro Xing XL eRLX Euro III,Mumbai,2005,102000,Petrol,Manual,Second,17.0 kmpl,1086 CC,null bhp,5,,0.85,20,Hyundai,SantroXing
+122,Hyundai Verna CRDi 1.6 SX Option,Kolkata,2018,10250,Diesel,Manual,First,22.0 kmpl,1582 CC,126.2 bhp,5,14.44 Lakh,10.95,7,Hyundai,VernaCRDi
+135,Hyundai Verna VTVT 1.6 AT SX Plus,Kochi,2019,12645,Petrol,Automatic,First,17.0 kmpl,1591 CC,121.3 bhp,5,13.49 Lakh,11.5,6,Hyundai,VernaVTVT
+143,Hyundai Santro Xing XO eRLX Euro II,Kochi,2008,80759,Petrol,Manual,Third,17.0 kmpl,1086 CC,null bhp,5,,1.67,17,Hyundai,SantroXing
+155,Hyundai EON Magna Plus,Kochi,2019,14322,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,4.23,6,Hyundai,EONMagna
+171,Hyundai i10 Magna 1.2,Delhi,2013,60000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.75,12,Hyundai,i10Magna
+173,Hyundai Grand i10 1.2 Kappa Asta,Kolkata,2019,1000,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,7.39 Lakh,6.5,6,Hyundai,Grandi10
+177,Hyundai i20 Asta 1.4 CRDi,Bangalore,2014,29000,Diesel,Manual,First,22.54 kmpl,1396 CC,88.73 bhp,5,,8.35,11,Hyundai,i20Asta
+188,Hyundai Verna 1.6 SX,Delhi,2012,62000,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,4.6,13,Hyundai,Verna1.6
+189,Hyundai i10 Magna 1.1,Kochi,2017,52340,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,4.04,8,Hyundai,i10Magna
+196,Hyundai i10 Magna,Jaipur,2015,43571,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,3.55,10,Hyundai,i10Magna
+202,Hyundai i20 Asta Option 1.2,Kochi,2016,61012,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,6.0,9,Hyundai,i20Asta
+211,Hyundai Verna 1.6 SX,Jaipur,2012,117837,Diesel,Manual,Second,22.32 kmpl,1582 CC,126.32 bhp,5,,4.75,13,Hyundai,Verna1.6
+213,Hyundai Creta 1.6 VTVT S,Delhi,2015,27057,Petrol,Manual,Second,15.29 kmpl,1591 CC,121.3 bhp,5,,8.15,10,Hyundai,Creta1.6
+217,Hyundai i10 Magna 1.1,Pune,2012,44000,Petrol,Manual,Second,19.81 kmpl,1086 CC,68.05 bhp,5,,2.9,13,Hyundai,i10Magna
+220,Hyundai i20 Active 1.2 SX,Coimbatore,2018,25166,Petrol,Manual,First,17.19 kmpl,1197 CC,81.86 bhp,5,,8.22,7,Hyundai,i20Active
+236,Hyundai Santa Fe 4x4 AT,Mumbai,2011,67000,Diesel,Automatic,Second,11.72 kmpl,2199 CC,194.3 bhp,7,,7.0,14,Hyundai,SantaFe
+238,Hyundai i20 1.2 Magna Executive,Kochi,2018,14960,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,6.27,7,Hyundai,i201.2
+241,Hyundai i20 Sportz 1.4 CRDi,Kochi,2015,56847,Diesel,Manual,First,22.54 kmpl,1396 CC,88.73 bhp,5,,7.2,10,Hyundai,i20Sportz
+245,Hyundai Santro Xing XO eRLX Euro II,Mumbai,2007,72000,Petrol,Manual,Third,17.0 kmpl,1086 CC,null bhp,5,,0.95,18,Hyundai,SantroXing
+248,Hyundai Grand i10 CRDi Era,Mumbai,2017,33000,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,4.75,8,Hyundai,Grandi10
+251,Hyundai Accent CRDi,Kochi,2006,160538,Diesel,Manual,First,13.1 kmpl,1493 CC,82 bhp,5,,1.8,19,Hyundai,AccentCRDi
+254,Hyundai i10 Era,Jaipur,2010,83000,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,1.75,15,Hyundai,i10Era
+255,Hyundai Tucson 2.0 e-VGT 2WD AT GLS,Kochi,2018,51346,Diesel,Automatic,First,16.38 kmpl,1995 CC,183 bhp,5,,21.99,7,Hyundai,Tucson2.0
+259,Hyundai Grand i10 Magna,Mumbai,2014,16514,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,3.75,11,Hyundai,Grandi10
+261,Hyundai Verna CRDi 1.6 SX,Hyderabad,2008,143275,Diesel,Manual,First,22.0 kmpl,1582 CC,126.2 bhp,5,14.07 Lakh,2.6,17,Hyundai,VernaCRDi
+262,Hyundai Santro Xing XL,Hyderabad,2006,99000,Petrol,Manual,First,0.0 kmpl,1086 CC,null bhp,5,,1.75,19,Hyundai,SantroXing
+263,Hyundai i20 1.2 Sportz,Mumbai,2010,52000,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,2.8,15,Hyundai,i201.2
+267,Hyundai Creta 1.6 CRDi SX,Bangalore,2016,28000,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,13.75,9,Hyundai,Creta1.6
+272,Hyundai i10 Sportz,Bangalore,2010,36000,Petrol,Manual,Second,20.36 kmpl,1197 CC,78.9 bhp,5,,3.25,15,Hyundai,i10Sportz
+284,Hyundai Verna 1.6 SX VTVT (O),Kochi,2012,54308,Petrol,Manual,First,17.1 kmpl,1591 CC,121.3 bhp,5,,4.28,13,Hyundai,Verna1.6
+286,Hyundai i20 Magna Optional 1.4 CRDi,Kolkata,2013,46000,Diesel,Manual,First,21.9 kmpl,1396 CC,88.8 bhp,5,,3.11,12,Hyundai,i20Magna
+287,Hyundai i20 Sportz AT 1.4,Coimbatore,2014,45051,Petrol,Automatic,First,15.0 kmpl,1396 CC,98.6 bhp,5,,5.96,11,Hyundai,i20Sportz
+295,Hyundai i10 Magna 1.2,Hyderabad,2010,74000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,3.1,15,Hyundai,i10Magna
+297,Hyundai i10 Magna 1.2 iTech SE,Pune,2012,45275,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.8,13,Hyundai,i10Magna
+307,Hyundai Santro Xing XL,Chennai,2006,58000,Petrol,Manual,Second,0.0 kmpl,1086 CC,null bhp,5,,1.5,19,Hyundai,SantroXing
+329,Hyundai i20 1.4 CRDi Asta,Pune,2012,83000,Diesel,Manual,First,23.0 kmpl,1396 CC,90 bhp,5,,5.5,13,Hyundai,i201.4
+330,Hyundai i10 Sportz AT,Bangalore,2009,37000,Petrol,Automatic,Third,16.95 kmpl,1197 CC,78.9 bhp,5,,2.95,16,Hyundai,i10Sportz
+333,Hyundai i20 Asta 1.2,Pune,2011,79152,Petrol,Manual,Second,18.5 kmpl,1197 CC,82.85 bhp,5,,3.3,14,Hyundai,i20Asta
+342,Hyundai i20 Asta Option 1.2,Coimbatore,2016,24973,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,7.66,9,Hyundai,i20Asta
+347,Hyundai EON D Lite Plus,Coimbatore,2016,27904,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,3.55,9,Hyundai,EOND
+349,Hyundai Verna 1.6 SX,Bangalore,2012,80000,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,5.25,13,Hyundai,Verna1.6
+358,Hyundai i10 Magna 1.2,Chennai,2009,620000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.7,16,Hyundai,i10Magna
+371,Hyundai Grand i10 AT Asta,Coimbatore,2015,37081,Petrol,Automatic,First,18.9 kmpl,1197 CC,82 bhp,5,,5.77,10,Hyundai,Grandi10
+381,Hyundai Xcent 1.1 CRDi Base,Kochi,2015,74310,Diesel,Manual,First,24.4 kmpl,1120 CC,71 bhp,5,,4.0,10,Hyundai,Xcent1.1
+386,Hyundai Santro Xing XL eRLX Euro III,Hyderabad,2007,50958,Petrol,Manual,First,17.0 kmpl,1086 CC,null bhp,5,,1.95,18,Hyundai,SantroXing
+388,Hyundai Verna Transform VTVT,Pune,2010,95000,Petrol,Manual,First,16.2 kmpl,1599 CC,103.2 bhp,5,,2.5,15,Hyundai,VernaTransform
+393,Hyundai EON Magna Plus,Chennai,2014,37000,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,3.25,11,Hyundai,EONMagna
+405,Hyundai Verna 1.6 SX VTVT,Pune,2011,49768,Petrol,Manual,Second,17.01 kmpl,1591 CC,121.3 bhp,5,,4.95,14,Hyundai,Verna1.6
+416,Hyundai Accent GLE,Pune,2005,5834,Petrol,Manual,First,13.2 kmpl,1495 CC,94 bhp,5,,0.8,20,Hyundai,AccentGLE
+417,Hyundai i20 Active SX Petrol,Jaipur,2017,40250,Petrol,Manual,First,17.19 kmpl,1197 CC,81.86 bhp,5,9.74 Lakh,6.9,8,Hyundai,i20Active
+419,Hyundai EON Magna Plus,Kolkata,2015,20800,Petrol,Manual,Second,21.1 kmpl,814 CC,55.2 bhp,5,,2.25,10,Hyundai,EONMagna
+420,Hyundai Grand i10 SportZ Edition,Kochi,2018,40322,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,,5.5,7,Hyundai,Grandi10
+425,Hyundai Creta 1.6 SX Plus Dual Tone Petrol,Coimbatore,2017,23163,Petrol,Manual,First,15.29 kmpl,1591 CC,121.3 bhp,5,,12.03,8,Hyundai,Creta1.6
+428,Hyundai Santro Xing XO eRLX Euro II,Pune,2006,108000,Petrol,Manual,Second,17.0 kmpl,1086 CC,null bhp,5,,1.2,19,Hyundai,SantroXing
+433,Hyundai EON Era Plus,Kochi,2018,13102,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,4.06,7,Hyundai,EONEra
+443,Hyundai Santro GLS I - Euro I,Coimbatore,2012,50243,Petrol,Manual,First,0.0 kmpl,1086 CC,null bhp,5,,3.35,13,Hyundai,SantroGLS
+444,Hyundai EON D Lite,Hyderabad,2014,20600,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,2.6,11,Hyundai,EOND
+445,Hyundai Creta 1.6 SX Plus Petrol Automatic,Coimbatore,2017,29952,Petrol,Automatic,First,13.0 kmpl,1591 CC,121.3 bhp,5,,13.77,8,Hyundai,Creta1.6
+450,Hyundai i20 1.2 Asta Option,Coimbatore,2017,26185,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,7.98,8,Hyundai,i201.2
+460,Hyundai i20 2015-2017 Asta 1.2,Pune,2016,6800,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,7.2,9,Hyundai,i202015-2017
+462,Hyundai Xcent 1.1 CRDi S Celebration Edition,Pune,2016,51000,Diesel,Manual,First,24.4 kmpl,1120 CC,71 bhp,5,,5.25,9,Hyundai,Xcent1.1
+465,Hyundai Grand i10 CRDi Magna,Kolkata,2017,14000,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,4.6,8,Hyundai,Grandi10
+468,Hyundai Santro Xing GLS,Bangalore,2008,46000,Petrol,Manual,Second,17.92 kmpl,1086 CC,62.1 bhp,5,,2.22,17,Hyundai,SantroXing
+476,Hyundai Grand i10 Sportz,Delhi,2015,27000,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,4.5,10,Hyundai,Grandi10
+487,Hyundai Verna 1.6 SX,Kolkata,2013,37873,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,4.8,12,Hyundai,Verna1.6
+491,Hyundai Creta 1.6 CRDi AT SX Plus,Bangalore,2016,32000,Diesel,Automatic,First,17.01 kmpl,1582 CC,126.2 bhp,5,,15.5,9,Hyundai,Creta1.6
+492,Hyundai i10 Era,Jaipur,2010,59000,Petrol,Manual,Second,19.81 kmpl,1086 CC,68.05 bhp,5,,2.32,15,Hyundai,i10Era
+508,Hyundai Grand i10 Sportz,Mumbai,2017,8500,Petrol,Manual,Second,18.9 kmpl,1197 CC,82 bhp,5,,4.8,8,Hyundai,Grandi10
+511,Hyundai Santro Xing GLS,Hyderabad,2009,80227,Petrol,Manual,First,17.92 kmpl,1086 CC,62.1 bhp,5,,2.3,16,Hyundai,SantroXing
+512,Hyundai Creta 1.6 SX Plus Dual Tone Petrol,Kochi,2019,8587,Petrol,Manual,First,15.29 kmpl,1591 CC,121.3 bhp,5,,13.56,6,Hyundai,Creta1.6
+519,Hyundai Creta 1.6 SX,Chennai,2016,69434,Petrol,Manual,First,15.8 kmpl,1591 CC,121.3 bhp,5,14.84 Lakh,8.0,9,Hyundai,Creta1.6
+534,Hyundai Santa Fe 4X4,Coimbatore,2013,65278,Diesel,Manual,First,14.66 kmpl,2199 CC,194.3 bhp,7,,8.36,12,Hyundai,SantaFe
+542,Hyundai i20 Asta 1.4 CRDi,Delhi,2014,43900,Diesel,Manual,First,22.54 kmpl,1396 CC,88.73 bhp,5,,6.75,11,Hyundai,i20Asta
+572,Hyundai Verna 1.6 SX CRDI (O) AT,Coimbatore,2019,77240,Diesel,Automatic,First,22.32 kmpl,1582 CC,126.32 bhp,5,,8.31,6,Hyundai,Verna1.6
+575,Hyundai Santro Xing XO,Chennai,2006,83072,Petrol,Manual,First,17.0 kmpl,1086 CC,null bhp,5,,1.4,19,Hyundai,SantroXing
+582,Hyundai i20 1.2 Spotz,Kochi,2016,42362,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,6.15,9,Hyundai,i201.2
+588,Hyundai i20 1.2 Magna,Bangalore,2015,59000,Petrol,Manual,First,18.5 kmpl,1197 CC,80 bhp,5,,5.75,10,Hyundai,i201.2
+607,Hyundai Verna 1.6 SX CRDi (O),Jaipur,2012,72000,Diesel,Manual,Second,22.32 kmpl,1582 CC,126.32 bhp,5,,5.8,13,Hyundai,Verna1.6
+610,Hyundai Verna 1.6 CRDi SX,Coimbatore,2017,38056,Diesel,Manual,First,23.9 kmpl,1582 CC,126.2 bhp,5,,10.7,8,Hyundai,Verna1.6
+614,Hyundai Xcent 1.2 Kappa S,Mumbai,2014,7400,Petrol,Manual,First,19.1 kmpl,1197 CC,82 bhp,5,,4.35,11,Hyundai,Xcent1.2
+616,Hyundai EON Era Plus,Hyderabad,2015,68764,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,2.9,10,Hyundai,EONEra
+620,Hyundai EON Sportz,Coimbatore,2016,14077,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,3.95,9,Hyundai,EONSportz
+627,Hyundai i20 Asta 1.4 CRDi,Delhi,2014,67407,Diesel,Manual,First,21.27 kmpl,1396 CC,88.76 bhp,5,,4.65,11,Hyundai,i20Asta
+631,Hyundai Santro LS zipPlus,Chennai,2002,70000,Petrol,Manual,Third,0.0 kmpl,1086 CC,null bhp,5,,0.65,23,Hyundai,SantroLS
+634,Hyundai i20 Sportz Option,Delhi,2013,48454,Petrol,Manual,Second,17.0 kmpl,1197 CC,80 bhp,5,,3.5,12,Hyundai,i20Sportz
+638,Hyundai Xcent 1.2 Kappa S Option,Jaipur,2017,28360,Petrol,Manual,First,19.1 kmpl,1197 CC,81.86 bhp,5,,5.12,8,Hyundai,Xcent1.2
+642,Hyundai i10 Sportz,Kolkata,2013,25000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.65,12,Hyundai,i10Sportz
+643,Hyundai Verna 1.6 CRDI,Coimbatore,2016,37882,Diesel,Manual,First,22.32 kmpl,1582 CC,126.3 bhp,5,,9.19,9,Hyundai,Verna1.6
+647,Hyundai Santro Xing XP,Jaipur,2004,200000,Petrol,Manual,First,0.0 kmpl,1086 CC,null bhp,5,,0.8,21,Hyundai,SantroXing
+656,Hyundai i20 1.4 Magna ABS,Chennai,2009,47000,Diesel,Manual,First,21.9 kmpl,1396 CC,90 bhp,5,,2.8,16,Hyundai,i201.4
+661,Hyundai Grand i10 CRDi Sportz,Jaipur,2014,64000,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,4.15,11,Hyundai,Grandi10
+664,Hyundai Verna CRDi SX,Jaipur,2008,170000,Diesel,Manual,Second,16.8 kmpl,1493 CC,110 bhp,5,,1.5,17,Hyundai,VernaCRDi
+667,Hyundai i20 Asta Option 1.2,Pune,2016,21000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,6.3,9,Hyundai,i20Asta
+677,Hyundai i10 Magna Optional 1.1L,Hyderabad,2008,80400,Petrol,Manual,First,16.0 kmpl,1086 CC,66.7 bhp,5,,2.3,17,Hyundai,i10Magna
+678,Hyundai Verna 1.6 SX CRDi (O),Jaipur,2012,75200,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,5.25,13,Hyundai,Verna1.6
+684,Hyundai i20 Asta 1.4 CRDi,Hyderabad,2015,86157,Diesel,Manual,First,22.54 kmpl,1396 CC,88.73 bhp,5,,6.5,10,Hyundai,i20Asta
+689,Hyundai i20 Asta,Bangalore,2009,64000,Petrol,Manual,Second,17.0 kmpl,1197 CC,80 bhp,5,,4.1,16,Hyundai,i20Asta
+691,Hyundai EON Era Plus,Kochi,2016,36700,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,4.38,9,Hyundai,EONEra
+692,Hyundai i10 Sportz,Mumbai,2011,35000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.75,14,Hyundai,i10Sportz
+702,Hyundai Grand i10 Asta,Coimbatore,2017,74515,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,5.64,8,Hyundai,Grandi10
+705,Hyundai Verna 1.6 VTVT,Kochi,2017,37688,Petrol,Manual,First,17.01 kmpl,1591 CC,121.3 bhp,5,,7.88,8,Hyundai,Verna1.6
+713,Hyundai Xcent 1.2 Kappa SX Option,Kochi,2015,41721,Petrol,Manual,First,19.1 kmpl,1197 CC,82 bhp,5,,4.7,10,Hyundai,Xcent1.2
+727,Hyundai i20 1.2 Magna,Chennai,2010,67714,Petrol,Manual,First,18.5 kmpl,1197 CC,80 bhp,5,,3.25,15,Hyundai,i201.2
+729,Hyundai Verna Transform VTVT,Pune,2010,51000,Petrol,Manual,First,16.2 kmpl,1599 CC,103.2 bhp,5,,3.1,15,Hyundai,VernaTransform
+731,Hyundai Grand i10 1.2 CRDi Magna,Kolkata,2017,14000,Diesel,Manual,First,24.0 kmpl,1186 CC,73.97 bhp,5,7.46 Lakh,4.9,8,Hyundai,Grandi10
+737,Hyundai Accent GLS,Bangalore,2008,72000,Petrol,Manual,Second,13.2 kmpl,1495 CC,94 bhp,5,,2.0,17,Hyundai,AccentGLS
+748,Hyundai Santro Xing XO,Hyderabad,2007,71297,Petrol,Manual,First,17.0 kmpl,1086 CC,null bhp,5,,2.2,18,Hyundai,SantroXing
+776,Hyundai i10 Sportz AT,Coimbatore,2014,41016,Petrol,Automatic,Second,16.95 kmpl,1197 CC,78.9 bhp,5,,5.08,11,Hyundai,i10Sportz
+777,Hyundai Verna 1.6 SX,Bangalore,2012,67000,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,6.25,13,Hyundai,Verna1.6
+784,Hyundai Creta 1.6 SX,Ahmedabad,2016,21000,Petrol,Manual,First,15.8 kmpl,1591 CC,121.3 bhp,5,13.74 Lakh,10.9,9,Hyundai,Creta1.6
+793,Hyundai Verna 1.6 SX,Hyderabad,2011,98000,Diesel,Manual,Second,22.32 kmpl,1582 CC,126.32 bhp,5,,5.2,14,Hyundai,Verna1.6
+794,Hyundai i20 Magna 1.2,Mumbai,2018,19500,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,5.85,7,Hyundai,i20Magna
+805,Hyundai Verna 1.6 SX VTVT,Hyderabad,2014,67000,Petrol,Manual,First,17.01 kmpl,1591 CC,121.3 bhp,5,,5.6,11,Hyundai,Verna1.6
+807,Hyundai i20 1.2 Asta Option,Kolkata,2018,11000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,6.35,7,Hyundai,i201.2
+810,Hyundai Verna 1.6 SX VTVT (O),Kolkata,2013,35000,Petrol,Manual,First,17.1 kmpl,1591 CC,121.3 bhp,5,,4.5,12,Hyundai,Verna1.6
+815,Hyundai i10 Sportz,Kochi,2016,21456,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,4.55,9,Hyundai,i10Sportz
+817,Hyundai i20 Asta Option 1.2,Mumbai,2015,37000,Petrol,Manual,Second,18.6 kmpl,1197 CC,81.83 bhp,5,,5.25,10,Hyundai,i20Asta
+828,Hyundai i20 Asta Option 1.2,Kochi,2017,58620,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,7.14,8,Hyundai,i20Asta
+830,Hyundai i20 1.2 Sportz,Jaipur,2012,71172,Petrol,Manual,Third,17.0 kmpl,1197 CC,80 bhp,5,,3.5,13,Hyundai,i201.2
+831,Hyundai i20 1.4 Asta,Chennai,2017,12000,Diesel,Manual,First,22.54 kmpl,1396 CC,88.73 bhp,5,,7.3,8,Hyundai,i201.4
+833,Hyundai i20 1.4 Asta Option,Bangalore,2017,43000,Diesel,Manual,Second,22.54 kmpl,1396 CC,88.73 bhp,5,,8.2,8,Hyundai,i201.4
+837,Hyundai Grand i10 CRDi Magna,Kochi,2016,52625,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,4.58,9,Hyundai,Grandi10
+840,Hyundai i10 Magna 1.1,Coimbatore,2014,60138,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,4.09,11,Hyundai,i10Magna
+851,Hyundai Verna 1.6 CRDi EX AT,Delhi,2013,66000,Diesel,Automatic,First,22.32 kmpl,1582 CC,126.3 bhp,5,,5.7,12,Hyundai,Verna1.6
+852,Hyundai Santro Xing GL Plus,Kolkata,2013,31000,Petrol,Manual,First,17.92 kmpl,1086 CC,62.1 bhp,5,,1.75,12,Hyundai,SantroXing
+857,Hyundai Verna 1.6 SX CRDi (O),Coimbatore,2015,72996,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,7.11,10,Hyundai,Verna1.6
+859,Hyundai i20 1.2 Asta Option,Coimbatore,2018,15985,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,7.77,7,Hyundai,i201.2
+861,Hyundai i20 Magna 1.2,Hyderabad,2014,70089,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,5.35,11,Hyundai,i20Magna
+868,Hyundai Grand i10 AT Asta,Coimbatore,2015,61717,Petrol,Automatic,First,18.9 kmpl,1197 CC,82 bhp,5,,5.57,10,Hyundai,Grandi10
+869,Hyundai Xcent 1.2 CRDi S,Jaipur,2018,25302,Diesel,Manual,First,25.4 kmpl,1186 CC,73.97 bhp,5,8.56 Lakh,5.9,7,Hyundai,Xcent1.2
+870,Hyundai Creta 1.6 VTVT S,Coimbatore,2016,47016,Petrol,Manual,First,15.29 kmpl,1591 CC,121.3 bhp,5,,9.43,9,Hyundai,Creta1.6
+871,Hyundai i10 Sportz,Bangalore,2010,69000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.9,15,Hyundai,i10Sportz
+882,Hyundai i10 Magna,Jaipur,2010,66770,Petrol,Manual,Second,20.36 kmpl,1197 CC,78.9 bhp,5,,2.6,15,Hyundai,i10Magna
+883,Hyundai i10 Magna 1.1,Kochi,2014,58472,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,3.41,11,Hyundai,i10Magna
+910,Hyundai EON Sportz,Jaipur,2017,23360,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,3.75,8,Hyundai,EONSportz
+927,Hyundai Creta 1.6 CRDi SX,Kolkata,2015,43000,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,9.25,10,Hyundai,Creta1.6
+938,Hyundai Creta 1.6 SX Plus Diesel,Coimbatore,2017,63770,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,13.55,8,Hyundai,Creta1.6
+945,Hyundai Elantra CRDi SX,Coimbatore,2015,53615,Diesel,Manual,First,22.7 kmpl,1582 CC,126.24 bhp,5,,8.44,10,Hyundai,ElantraCRDi
+949,Hyundai Verna CRDi SX,Hyderabad,2013,82966,Diesel,Manual,First,16.8 kmpl,1493 CC,110 bhp,5,,7.2,12,Hyundai,VernaCRDi
+955,Hyundai i20 1.2 Asta,Delhi,2013,71000,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,3.65,12,Hyundai,i201.2
+956,Hyundai i20 Sportz Diesel,Delhi,2012,71000,Diesel,Manual,First,23.0 kmpl,1396 CC,90 bhp,5,,3.7,13,Hyundai,i20Sportz
+958,Hyundai Xcent 1.2 Kappa Base,Kochi,2016,48163,Petrol,Manual,First,19.1 kmpl,1197 CC,82 bhp,5,,4.85,9,Hyundai,Xcent1.2
+959,Hyundai Grand i10 AT Asta,Coimbatore,2017,19168,Petrol,Automatic,First,18.9 kmpl,1197 CC,82 bhp,5,,6.93,8,Hyundai,Grandi10
+967,Hyundai i10 Era,Jaipur,2008,84000,Petrol,Manual,Second,19.81 kmpl,1086 CC,68.05 bhp,5,,1.8,17,Hyundai,i10Era
+971,Hyundai Accent GLS 1.6,Jaipur,2004,47300,Petrol,Manual,Second,14.4 kmpl,1599 CC,94 bhp,5,,1.2,21,Hyundai,AccentGLS
+976,Hyundai i20 1.2 Sportz,Pune,2011,41980,Petrol,Manual,Second,17.0 kmpl,1197 CC,80 bhp,5,,3.3,14,Hyundai,i201.2
+983,Hyundai Accent GLE,Ahmedabad,2010,58000,Petrol,Manual,Second,13.2 kmpl,1495 CC,94 bhp,5,,2.5,15,Hyundai,AccentGLE
+996,Hyundai Santro Xing GL,Pune,2008,93000,Petrol,Manual,First,0.0 kmpl,1086 CC,62 bhp,5,,1.45,17,Hyundai,SantroXing
+998,Hyundai Grand i10 AT Asta,Pune,2014,37632,Petrol,Automatic,First,18.9 kmpl,1197 CC,82 bhp,5,,4.5,11,Hyundai,Grandi10
+1002,Hyundai Verna 1.6 SX VTVT (O) AT,Coimbatore,2012,54957,Petrol,Automatic,First,17.1 kmpl,1591 CC,121.4 bhp,5,,5.37,13,Hyundai,Verna1.6
+1007,Hyundai i20 Sportz 1.4 CRDi,Hyderabad,2015,26000,Diesel,Manual,First,22.54 kmpl,1396 CC,88.73 bhp,5,,6.2,10,Hyundai,i20Sportz
+1014,Hyundai i20 1.2 Magna,Kolkata,2010,18000,Petrol,Manual,First,18.5 kmpl,1197 CC,80 bhp,5,,2.25,15,Hyundai,i201.2
+1015,Hyundai Verna 1.6 SX,Ahmedabad,2014,63003,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,6.75,11,Hyundai,Verna1.6
+1023,Hyundai i20 Asta (o) 1.4 CRDi (Diesel),Bangalore,2014,67000,Diesel,Manual,First,23.0 kmpl,1396 CC,90 bhp,5,,5.5,11,Hyundai,i20Asta
+1033,Hyundai Xcent 1.1 CRDi S,Coimbatore,2016,14656,Diesel,Manual,First,24.4 kmpl,1120 CC,71 bhp,5,,6.99,9,Hyundai,Xcent1.1
+1042,Hyundai Xcent 1.1 CRDi S,Chennai,2016,80000,Diesel,Manual,First,24.4 kmpl,1120 CC,71 bhp,5,,3.5,9,Hyundai,Xcent1.1
+1045,Hyundai Grand i10 Asta Option,Coimbatore,2016,44178,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,5.88,9,Hyundai,Grandi10
+1047,Hyundai i20 1.2 Magna,Kolkata,2015,35000,Petrol,Manual,First,18.5 kmpl,1197 CC,80 bhp,5,,4.6,10,Hyundai,i201.2
+1059,Hyundai Santro Xing GL,Hyderabad,2010,58163,Petrol,Manual,First,0.0 kmpl,1086 CC,62 bhp,5,,2.45,15,Hyundai,SantroXing
+1062,Hyundai i10 Era 1.1,Delhi,2012,51000,Petrol,Manual,Second,19.81 kmpl,1086 CC,68.05 bhp,5,,2.2,13,Hyundai,i10Era
+1064,Hyundai i10 Sportz,Kolkata,2009,43002,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,1.92,16,Hyundai,i10Sportz
+1067,Hyundai Grand i10 Sportz,Kolkata,2013,29000,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,3.2,12,Hyundai,Grandi10
+1070,Hyundai i20 Asta 1.4 CRDi (Diesel),Kochi,2010,93401,Diesel,Manual,First,23.0 kmpl,1396 CC,90 bhp,5,,3.48,15,Hyundai,i20Asta
+1081,Hyundai i20 1.2 Sportz Option,Bangalore,2010,61000,Petrol,Manual,Fourth & Above,17.0 kmpl,1197 CC,80 bhp,5,,3.25,15,Hyundai,i201.2
+1085,Hyundai Creta 1.6 VTVT S,Kochi,2016,36855,Petrol,Manual,Second,15.29 kmpl,1591 CC,121.3 bhp,5,,8.77,9,Hyundai,Creta1.6
+1086,Hyundai i10 Magna 1.2,Kochi,2013,46821,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,3.42,12,Hyundai,i10Magna
+1091,Hyundai i10 Asta AT,Mumbai,2011,64984,Petrol,Automatic,First,16.95 kmpl,1197 CC,78.9 bhp,5,,3.45,14,Hyundai,i10Asta
+1095,Hyundai EON D Lite Plus,Hyderabad,2013,17729,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,3.65,12,Hyundai,EOND
+1097,Hyundai Verna CRDi 1.6 SX Option,Kochi,2014,89614,Diesel,Manual,First,22.0 kmpl,1582 CC,126.2 bhp,5,15.57 Lakh,6.01,11,Hyundai,VernaCRDi
+1099,Hyundai i20 Sportz Option,Chennai,2012,50000,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,4.0,13,Hyundai,i20Sportz
+1102,Hyundai Verna CRDi SX,Pune,2012,94900,Diesel,Manual,First,16.8 kmpl,1493 CC,110 bhp,5,,5.35,13,Hyundai,VernaCRDi
+1109,Hyundai Verna 1.6 SX VTVT,Mumbai,2016,52001,Petrol,Manual,First,17.01 kmpl,1591 CC,121.3 bhp,5,,6.45,9,Hyundai,Verna1.6
+1112,Hyundai EON Era,Jaipur,2014,18000,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,2.5,11,Hyundai,EONEra
+1114,Hyundai i20 Magna 1.4 CRDi,Hyderabad,2016,33016,Diesel,Manual,First,22.54 kmpl,1396 CC,88.73 bhp,5,,6.85,9,Hyundai,i20Magna
+1124,Hyundai i10 Magna AT,Bangalore,2009,60000,Petrol,Automatic,First,19.2 kmpl,1197 CC,80 bhp,5,,2.99,16,Hyundai,i10Magna
+1130,Hyundai Grand i10 CRDi Magna,Kochi,2016,57738,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,5.04,9,Hyundai,Grandi10
+1139,Hyundai Grand i10 1.2 Kappa Magna,Delhi,2017,8471,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,6.54 Lakh,5.0,8,Hyundai,Grandi10
+1153,Hyundai Santro Xing XL eRLX Euro III,Kolkata,2007,43206,Petrol,Manual,First,17.0 kmpl,1086 CC,null bhp,5,,0.99,18,Hyundai,SantroXing
+1157,Hyundai Grand i10 1.2 Kappa Asta,Hyderabad,2017,20000,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,7.82 Lakh,5.98,8,Hyundai,Grandi10
+1159,Hyundai Grand i10 1.2 Kappa Magna,Kochi,2018,50234,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,6.32 Lakh,4.77,7,Hyundai,Grandi10
+1166,Hyundai Xcent 1.2 Kappa SX,Kolkata,2016,32000,Petrol,Manual,First,19.1 kmpl,1197 CC,82 bhp,5,,3.6,9,Hyundai,Xcent1.2
+1167,Hyundai i20 1.2 Magna,Ahmedabad,2010,65000,Petrol,Manual,First,18.5 kmpl,1197 CC,80 bhp,5,,3.0,15,Hyundai,i201.2
+1177,Hyundai i10 Era,Jaipur,2013,46230,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,3.1,12,Hyundai,i10Era
+1179,Hyundai i20 1.2 Asta,Jaipur,2018,5000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,6.5,7,Hyundai,i201.2
+1187,Hyundai Verna VTVT 1.6 AT SX Option,Mumbai,2015,40600,Petrol,Automatic,First,17.0 kmpl,1591 CC,121.3 bhp,5,15.14 Lakh,7.2,10,Hyundai,VernaVTVT
+1188,Hyundai Verna CRDi 1.6 AT SX Option,Ahmedabad,2013,87000,Diesel,Automatic,First,22.0 kmpl,1582 CC,126.2 bhp,5,15.72 Lakh,5.9,12,Hyundai,VernaCRDi
+1190,Hyundai i10 Magna Optional 1.1L,Kolkata,2010,27089,Petrol,Manual,First,16.0 kmpl,1086 CC,66.7 bhp,5,,1.95,15,Hyundai,i10Magna
+1210,Hyundai Verna 1.6 SX VTVT (O) AT,Mumbai,2017,16100,Petrol,Automatic,First,17.1 kmpl,1591 CC,121.4 bhp,5,,11.6,8,Hyundai,Verna1.6
+1232,Hyundai Xcent 1.1 CRDi Base,Mumbai,2016,170000,Diesel,Manual,First,24.4 kmpl,1120 CC,71 bhp,5,,4.0,9,Hyundai,Xcent1.1
+1234,Hyundai i10 Sportz,Pune,2009,62500,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.1,16,Hyundai,i10Sportz
+1238,Hyundai i20 Magna Optional 1.4 CRDi,Mumbai,2014,12400,Diesel,Manual,First,21.9 kmpl,1396 CC,88.8 bhp,5,,4.65,11,Hyundai,i20Magna
+1241,Hyundai Creta 1.6 SX Plus Diesel,Coimbatore,2017,52383,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,14.82,8,Hyundai,Creta1.6
+1250,Hyundai i10 Sportz,Kochi,2015,16900,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,3.87,10,Hyundai,i10Sportz
+1251,Hyundai i10 Sportz,Delhi,2013,62334,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.75,12,Hyundai,i10Sportz
+1253,Hyundai Accent Executive,Jaipur,2010,52325,Petrol,Manual,First,16.36 kmpl,1495 CC,93.7 bhp,5,,2.0,15,Hyundai,AccentExecutive
+1256,Hyundai Xcent 1.2 VTVT S,Bangalore,2014,54000,Petrol,Manual,First,20.14 kmpl,1197 CC,81.86 bhp,5,7.85 Lakh,5.5,11,Hyundai,Xcent1.2
+1261,Hyundai i20 Asta 1.4 CRDi,Kochi,2015,46950,Diesel,Manual,First,21.27 kmpl,1396 CC,88.76 bhp,5,,6.45,10,Hyundai,i20Asta
+1271,Hyundai Santro GLS I - Euro II,Jaipur,2009,89000,Petrol,Manual,Second,0.0 kmpl,999 CC,null bhp,5,,1.6,16,Hyundai,SantroGLS
+1273,Hyundai Grand i10 Sportz,Ahmedabad,2017,17125,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,5.4,8,Hyundai,Grandi10
+1280,Hyundai i20 1.2 Magna,Kolkata,2010,18000,Petrol,Manual,First,18.5 kmpl,1197 CC,80 bhp,5,,2.3,15,Hyundai,i201.2
+1281,Hyundai Grand i10 CRDi Sportz Celebration Edition,Kochi,2018,35070,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,5.99,7,Hyundai,Grandi10
+1283,Hyundai i10 Sportz 1.2,Kolkata,2009,40000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,1.7,16,Hyundai,i10Sportz
+1284,Hyundai i20 Asta,Kolkata,2009,43000,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,1.99,16,Hyundai,i20Asta
+1293,Hyundai Grand i10 AT Asta,Mumbai,2015,29631,Petrol,Automatic,First,18.9 kmpl,1197 CC,82 bhp,5,,4.9,10,Hyundai,Grandi10
+1304,Hyundai i20 Magna Optional 1.2,Delhi,2013,63777,Petrol,Manual,First,18.5 kmpl,1197 CC,82.9 bhp,5,,3.67,12,Hyundai,i20Magna
+1311,Hyundai Grand i10 CRDi Magna,Delhi,2014,45000,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,3.49,11,Hyundai,Grandi10
+1313,Hyundai Verna CRDi 1.4 E,Chennai,2008,121097,Diesel,Manual,Second,24.0 kmpl,1396 CC,88.76 bhp,5,10.73 Lakh,1.9,17,Hyundai,VernaCRDi
+1329,Hyundai i10 Sportz AT,Kochi,2014,61517,Petrol,Automatic,First,16.95 kmpl,1197 CC,78.9 bhp,5,,4.39,11,Hyundai,i10Sportz
+1331,Hyundai i20 Magna 1.4 CRDi,Delhi,2015,66823,Diesel,Manual,Second,22.54 kmpl,1396 CC,88.73 bhp,5,,4.83,10,Hyundai,i20Magna
+1333,Hyundai i20 Asta 1.4 CRDi,Chennai,2012,107000,Diesel,Manual,Second,21.27 kmpl,1396 CC,88.76 bhp,5,,4.5,13,Hyundai,i20Asta
+1338,Hyundai Xcent 1.2 Kappa SX,Mumbai,2016,10200,Petrol,Manual,First,19.1 kmpl,1197 CC,82 bhp,5,,4.99,9,Hyundai,Xcent1.2
+1354,Hyundai Santro Xing GL,Kochi,2011,20842,Petrol,Manual,First,0.0 kmpl,1086 CC,62 bhp,5,,2.78,14,Hyundai,SantroXing
+1355,Hyundai Santa Fe 4WD AT,Chennai,2014,110000,Diesel,Automatic,First,13.01 kmpl,2199 CC,194.3 bhp,7,,14.4,11,Hyundai,SantaFe
+1363,Hyundai Grand i10 1.2 Kappa Sportz AT,Coimbatore,2018,20667,Petrol,Automatic,First,18.9 kmpl,1197 CC,81.86 bhp,5,8.63 Lakh,7.55,7,Hyundai,Grandi10
+1368,Hyundai Grand i10 1.2 Kappa Sportz,Kochi,2019,18453,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,6.68 Lakh,6.17,6,Hyundai,Grandi10
+1369,Hyundai Verna CRDi 1.6 SX,Hyderabad,2008,96578,Diesel,Manual,First,22.0 kmpl,1582 CC,126.2 bhp,5,14.07 Lakh,2.5,17,Hyundai,VernaCRDi
+1371,Hyundai Verna 1.6 SX,Jaipur,2012,65900,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,5.75,13,Hyundai,Verna1.6
+1372,Hyundai Creta 1.6 VTVT E Plus,Bangalore,2017,26246,Petrol,Manual,First,15.29 kmpl,1591 CC,121.3 bhp,5,,10.75,8,Hyundai,Creta1.6
+1378,Hyundai i20 Era 1.4 CRDi,Kochi,2014,46566,Diesel,Manual,First,22.54 kmpl,1396 CC,88.76 bhp,5,,4.4,11,Hyundai,i20Era
+1383,Hyundai Getz 1.5 CRDi GVS,Jaipur,2009,97359,Diesel,Manual,Second,17.1 kmpl,1493 CC,110 bhp,5,,1.8,16,Hyundai,Getz1.5
+1391,Hyundai Verna 1.6 SX CRDi (O),Delhi,2012,70707,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,4.28,13,Hyundai,Verna1.6
+1393,Hyundai Grand i10 1.2 Kappa Magna AT,Bangalore,2018,3000,Petrol,Automatic,First,18.9 kmpl,1197 CC,81.86 bhp,5,7.98 Lakh,6.2,7,Hyundai,Grandi10
+1396,Hyundai i10 Era 1.1 iTech SE,Jaipur,2010,52000,Petrol,Manual,Second,19.81 kmpl,1086 CC,68.05 bhp,5,,2.25,15,Hyundai,i10Era
+1411,Hyundai Verna CRDi SX,Ahmedabad,2013,75000,Diesel,Manual,First,16.8 kmpl,1493 CC,110 bhp,5,,6.0,12,Hyundai,VernaCRDi
+1417,Hyundai i20 1.2 Spotz,Mumbai,2017,18673,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,6.22,8,Hyundai,i201.2
+1418,Hyundai EON Era Plus,Kolkata,2016,11583,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,2.75,9,Hyundai,EONEra
+1419,Hyundai Santro Xing XL,Chennai,2007,82000,Petrol,Manual,Second,0.0 kmpl,1086 CC,null bhp,5,,1.35,18,Hyundai,SantroXing
+1431,Hyundai Verna 1.6 SX CRDI (O) AT,Kochi,2016,44875,Diesel,Automatic,Second,22.32 kmpl,1582 CC,126.32 bhp,5,,8.01,9,Hyundai,Verna1.6
+1438,Hyundai i20 Asta 1.2,Mumbai,2015,42575,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,5.05,10,Hyundai,i20Asta
+1448,Hyundai Verna 1.6 VTVT S,Jaipur,2015,89000,Petrol,Manual,First,17.01 kmpl,1591 CC,121.3 bhp,5,,7.5,10,Hyundai,Verna1.6
+1449,Hyundai i20 1.4 Asta (AT),Chennai,2009,72000,Petrol,Automatic,Third,15.0 kmpl,1396 CC,100 bhp,5,,3.25,16,Hyundai,i201.4
+1452,Hyundai Elite i20 Petrol Asta,Kochi,2017,13460,Petrol,Manual,First,18.6 kmpl,1197 CC,81.86 bhp,5,,8.91,8,Hyundai,Elitei20
+1453,Hyundai Verna 1.6 VTVT EX AT,Kochi,2014,35642,Petrol,Automatic,First,17.01 kmpl,1591 CC,121.4 bhp,5,,6.69,11,Hyundai,Verna1.6
+1472,Hyundai Elantra 2.0 SX Option AT,Delhi,2017,9500,Petrol,Automatic,First,14.62 kmpl,1999 CC,149.92 bhp,5,21.77 Lakh,16.35,8,Hyundai,Elantra2.0
+1487,Hyundai i20 1.4 CRDi Asta,Kolkata,2011,37000,Diesel,Manual,First,23.0 kmpl,1396 CC,90 bhp,5,,2.95,14,Hyundai,i201.4
+1490,Hyundai Creta 1.6 SX Automatic Diesel,Chennai,2016,55000,Diesel,Automatic,First,17.6 kmpl,1582 CC,126.2 bhp,5,18.35 Lakh,12.5,9,Hyundai,Creta1.6
+1500,Hyundai i20 Asta (o),Delhi,2014,42365,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,5.5,11,Hyundai,i20Asta
+1527,Hyundai i10 Sportz,Chennai,2012,49000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,3.0,13,Hyundai,i10Sportz
+1533,Hyundai Verna 1.6 SX VTVT,Pune,2014,48000,Petrol,Manual,Second,17.01 kmpl,1591 CC,121.3 bhp,5,,5.2,11,Hyundai,Verna1.6
+1540,Hyundai Creta 1.6 SX Plus Dual Tone Petrol,Delhi,2016,68000,Petrol,Manual,First,15.29 kmpl,1591 CC,121.3 bhp,5,,9.85,9,Hyundai,Creta1.6
+1543,Hyundai Verna 1.6 CRDI,Mumbai,2011,74000,Diesel,Manual,Second,22.32 kmpl,1582 CC,126.3 bhp,5,,3.75,14,Hyundai,Verna1.6
+1561,Hyundai Creta 1.6 CRDi SX,Pune,2017,38767,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,12.6,8,Hyundai,Creta1.6
+1566,Hyundai Elantra CRDi SX AT,Mumbai,2013,51000,Diesel,Automatic,First,19.5 kmpl,1582 CC,126.24 bhp,5,,8.75,12,Hyundai,ElantraCRDi
+1572,Hyundai Verna 1.6 CRDI,Kolkata,2014,32000,Diesel,Manual,First,22.32 kmpl,1582 CC,126.3 bhp,5,,4.3,11,Hyundai,Verna1.6
+1576,Hyundai Grand i10 1.2 CRDi Sportz Option,Kolkata,2014,42277,Diesel,Manual,First,24.0 kmpl,1186 CC,73.97 bhp,5,,3.85,11,Hyundai,Grandi10
+1579,Hyundai Grand i10 Asta Option,Bangalore,2015,50000,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,5.75,10,Hyundai,Grandi10
+1580,Hyundai i10 Magna 1.2,Mumbai,2008,62000,Petrol,Manual,Second,20.36 kmpl,1197 CC,78.9 bhp,5,,1.65,17,Hyundai,i10Magna
+1586,Hyundai EON Era,Coimbatore,2013,65060,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,3.32,12,Hyundai,EONEra
+1593,Hyundai EON Magna Plus,Hyderabad,2013,20000,Petrol,Manual,Second,21.1 kmpl,814 CC,55.2 bhp,5,,2.3,12,Hyundai,EONMagna
+1607,Hyundai i20 1.2 Sportz Option,Chennai,2011,32200,Petrol,Manual,Second,17.0 kmpl,1197 CC,80 bhp,5,,3.25,14,Hyundai,i201.2
+1614,Hyundai i20 1.4 CRDi Asta,Hyderabad,2012,60788,Diesel,Manual,First,23.0 kmpl,1396 CC,90 bhp,5,,4.5,13,Hyundai,i201.4
+1617,Hyundai i20 1.2 Sportz,Bangalore,2012,52237,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,4.5,13,Hyundai,i201.2
+1618,Hyundai Verna 1.6 SX,Chennai,2012,128000,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,5.0,13,Hyundai,Verna1.6
+1619,Hyundai i10 Era 1.1,Delhi,2011,54000,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,2.2,14,Hyundai,i10Era
+1623,Hyundai i10 Magna(O) with Sun Roof,Pune,2008,68000,Petrol,Manual,Second,16.0 kmpl,1086 CC,66.7 bhp,5,,2.0,17,Hyundai,i10Magna(O)
+1624,Hyundai i10 Magna 1.2,Jaipur,2010,81402,Petrol,Manual,Second,20.36 kmpl,1197 CC,78.9 bhp,5,,2.1,15,Hyundai,i10Magna
+1630,Hyundai Creta 1.6 SX Plus Dual Tone Petrol,Mumbai,2018,2500,Petrol,Manual,First,15.29 kmpl,1591 CC,121.3 bhp,5,,12.75,7,Hyundai,Creta1.6
+1638,Hyundai Grand i10 CRDi Sportz Celebration Edition,Kochi,2017,34429,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,5.5,8,Hyundai,Grandi10
+1651,Hyundai Grand i10 AT Asta,Coimbatore,2017,23576,Petrol,Automatic,First,18.9 kmpl,1197 CC,82 bhp,5,,7.08,8,Hyundai,Grandi10
+1658,Hyundai Verna 1.6 SX VTVT (O),Coimbatore,2015,52191,Petrol,Manual,First,17.1 kmpl,1591 CC,121.3 bhp,5,,7.78,10,Hyundai,Verna1.6
+1659,Hyundai i20 1.4 Asta CRDi with AVN,Hyderabad,2016,77076,Diesel,Manual,First,23.0 kmpl,1396 CC,90 bhp,5,,6.75,9,Hyundai,i201.4
+1661,Hyundai i10 Magna,Kolkata,2013,21000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.35,12,Hyundai,i10Magna
+1665,Hyundai i20 1.2 Sportz Option,Kochi,2014,55804,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,4.76,11,Hyundai,i201.2
+1670,Hyundai EON Sportz,Hyderabad,2017,31829,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,3.65,8,Hyundai,EONSportz
+1674,Hyundai i20 1.2 Spotz,Coimbatore,2018,22684,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,7.8,7,Hyundai,i201.2
+1677,Hyundai Grand i10 1.2 Kappa Magna,Delhi,2017,12248,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,6.54 Lakh,4.9,8,Hyundai,Grandi10
+1682,Hyundai Grand i10 Sportz,Delhi,2016,81605,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,4.53,9,Hyundai,Grandi10
+1684,Hyundai Verna 1.6 SX VTVT AT,Pune,2014,34200,Petrol,Automatic,First,15.74 kmpl,1591 CC,121.3 bhp,5,,6.5,11,Hyundai,Verna1.6
+1692,Hyundai Grand i10 1.2 Kappa Sportz,Kochi,2018,10393,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,6.62 Lakh,6.03,7,Hyundai,Grandi10
+1694,Hyundai i10 Sportz AT,Chennai,2013,21000,Petrol,Automatic,First,16.95 kmpl,1197 CC,78.9 bhp,5,,3.96,12,Hyundai,i10Sportz
+1695,Hyundai i20 1.4 CRDi Asta,Hyderabad,2011,113562,Diesel,Manual,First,23.0 kmpl,1396 CC,90 bhp,5,,4.6,14,Hyundai,i201.4
+1698,Hyundai i20 1.2 Magna Executive,Jaipur,2017,58500,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,6.25,8,Hyundai,i201.2
+1700,Hyundai Verna CRDi SX,Chennai,2011,108242,Diesel,Manual,First,16.8 kmpl,1493 CC,110 bhp,5,,4.25,14,Hyundai,VernaCRDi
+1705,Hyundai i10 Era 1.1,Kochi,2013,34697,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,3.7,12,Hyundai,i10Era
+1706,Hyundai i20 1.2 Sportz,Hyderabad,2012,58000,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,4.0,13,Hyundai,i201.2
+1711,Hyundai Accent GLE,Kolkata,2005,45200,Petrol,Manual,First,13.2 kmpl,1495 CC,94 bhp,5,,0.9,20,Hyundai,AccentGLE
+1720,Hyundai Grand i10 Sportz,Coimbatore,2015,36840,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,5.64,10,Hyundai,Grandi10
+1733,Hyundai Elite i20 Petrol Asta,Coimbatore,2018,32851,Petrol,Manual,First,18.6 kmpl,1197 CC,81.86 bhp,5,,8.34,7,Hyundai,Elitei20
+1737,Hyundai Grand i10 Sportz,Kochi,2016,19947,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,5.04,9,Hyundai,Grandi10
+1758,Hyundai i20 1.2 Magna,Chennai,2011,37442,Petrol,Manual,First,18.5 kmpl,1197 CC,80 bhp,5,,3.4,14,Hyundai,i201.2
+1761,Hyundai Grand i10 Magna,Jaipur,2014,42355,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,4.0,11,Hyundai,Grandi10
+1767,Hyundai i20 1.2 Magna Executive,Kochi,2016,28470,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,6.95,9,Hyundai,i201.2
+1768,Hyundai EON 1.0 Kappa Magna Plus Optional,Kolkata,2014,9759,Petrol,Manual,First,20.3 kmpl,998 CC,68.05 bhp,5,,2.75,11,Hyundai,EON1.0
+1770,Hyundai i20 Sportz 1.2,Chennai,2017,8000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,6.75,8,Hyundai,i20Sportz
+1774,Hyundai Xcent 1.2 Kappa AT S Option,Chennai,2015,53000,Petrol,Automatic,Second,16.9 kmpl,1197 CC,81.86 bhp,5,,4.0,10,Hyundai,Xcent1.2
+1776,Hyundai Verna 1.6 SX VTVT (O),Pune,2013,21107,Petrol,Manual,First,17.1 kmpl,1591 CC,121.3 bhp,5,,5.25,12,Hyundai,Verna1.6
+1778,Hyundai Creta 1.6 SX Plus Dual Tone Petrol,Coimbatore,2017,19623,Petrol,Manual,First,15.29 kmpl,1591 CC,121.3 bhp,5,,13.12,8,Hyundai,Creta1.6
+1784,Hyundai Grand i10 1.2 Kappa Asta,Coimbatore,2016,43041,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,8.1 Lakh,6.01,9,Hyundai,Grandi10
+1793,Hyundai Grand i10 1.2 Kappa Magna,Kolkata,2017,31184,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,6.4 Lakh,5.0,8,Hyundai,Grandi10
+1804,Hyundai Verna 1.6 SX,Coimbatore,2014,83558,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,6.98,11,Hyundai,Verna1.6
+1806,Hyundai EON D Lite Plus,Kolkata,2013,36000,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,1.95,12,Hyundai,EOND
+1810,Hyundai Xcent 1.1 CRDi S,Pune,2015,58000,Diesel,Manual,First,24.4 kmpl,1120 CC,71 bhp,5,,5.5,10,Hyundai,Xcent1.1
+1813,Hyundai i20 Sportz Petrol,Mumbai,2010,73000,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,2.75,15,Hyundai,i20Sportz
+1814,Hyundai Elantra CRDi SX,Jaipur,2012,98008,Diesel,Manual,First,22.7 kmpl,1582 CC,126.24 bhp,5,,6.25,13,Hyundai,ElantraCRDi
+1816,Hyundai i20 1.2 Magna Executive,Kochi,2019,27339,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,6.27,6,Hyundai,i201.2
+1817,Hyundai Verna 1.6 CRDi SX,Kolkata,2017,25000,Diesel,Manual,First,23.9 kmpl,1582 CC,126.2 bhp,5,,8.65,8,Hyundai,Verna1.6
+1818,Hyundai Grand i10 Asta,Kolkata,2014,37000,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,3.5,11,Hyundai,Grandi10
+1821,Hyundai i20 Magna,Kolkata,2012,37000,Petrol,Manual,First,18.5 kmpl,1197 CC,80 bhp,5,,2.65,13,Hyundai,i20Magna
+1823,Hyundai Elantra 1.6 SX Option AT,Ahmedabad,2014,49000,Diesel,Automatic,First,18.23 kmpl,1582 CC,126.2 bhp,5,22.43 Lakh,8.9,11,Hyundai,Elantra1.6
+1829,Hyundai i20 Magna 1.4 CRDi,Pune,2015,29000,Diesel,Manual,Second,22.54 kmpl,1396 CC,88.73 bhp,5,,7.0,10,Hyundai,i20Magna
+1832,Hyundai i20 1.2 Magna,Jaipur,2011,82000,Petrol,Manual,Second,18.5 kmpl,1197 CC,80 bhp,5,,2.7,14,Hyundai,i201.2
+1836,Hyundai i10 Sportz 1.2,Chennai,2010,77000,Petrol,Manual,Second,20.36 kmpl,1197 CC,78.9 bhp,5,,2.1,15,Hyundai,i10Sportz
+1838,Hyundai i10 Era,Hyderabad,2007,70000,Petrol,Manual,Second,19.81 kmpl,1086 CC,68.05 bhp,5,,2.0,18,Hyundai,i10Era
+1842,Hyundai Grand i10 1.2 Kappa Magna,Kochi,2018,46493,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,6.32 Lakh,5.53,7,Hyundai,Grandi10
+1843,Hyundai i10 Sportz 1.2,Pune,2009,68000,Petrol,Manual,Third,20.36 kmpl,1197 CC,78.9 bhp,5,,1.95,16,Hyundai,i10Sportz
+1850,Hyundai i10 Era 1.1,Chennai,2008,85445,Petrol,Manual,Second,19.81 kmpl,1086 CC,68.05 bhp,5,,2.0,17,Hyundai,i10Era
+1851,Hyundai Xcent 1.1 CRDi Base,Delhi,2015,54000,Diesel,Manual,First,24.4 kmpl,1120 CC,71 bhp,5,,3.7,10,Hyundai,Xcent1.1
+1853,Hyundai i10 Sportz,Jaipur,2014,60000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,3.25,11,Hyundai,i10Sportz
+1856,Hyundai Grand i10 Sportz,Kolkata,2018,1800,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,5.1,7,Hyundai,Grandi10
+1857,Hyundai Santro DX,Hyderabad,2007,96000,Petrol,Manual,Second,0.0 kmpl,999 CC,null bhp,5,,2.2,18,Hyundai,SantroDX
+1879,Hyundai i20 Magna,Jaipur,2012,100000,Petrol,Manual,First,18.5 kmpl,1197 CC,82.85 bhp,5,,3.25,13,Hyundai,i20Magna
+1886,Hyundai Grand i10 1.2 Kappa Sportz,Delhi,2018,9434,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,6.71 Lakh,5.75,7,Hyundai,Grandi10
+1892,Hyundai Creta 1.6 CRDi AT SX Plus,Kochi,2017,37024,Diesel,Automatic,First,17.01 kmpl,1582 CC,126.2 bhp,5,,10.97,8,Hyundai,Creta1.6
+1894,Hyundai EON D Lite Plus,Kolkata,2014,26008,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,1.97,11,Hyundai,EOND
+1899,Hyundai i20 1.2 Sportz,Delhi,2015,42000,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,5.1,10,Hyundai,i201.2
+1927,Hyundai i10 Magna AT,Mumbai,2009,21000,Petrol,Automatic,First,19.2 kmpl,1197 CC,80 bhp,5,,2.6,16,Hyundai,i10Magna
+1928,Hyundai Creta 1.6 CRDi AT SX Plus,Ahmedabad,2016,55100,Diesel,Automatic,First,17.01 kmpl,1582 CC,126.2 bhp,5,,12.0,9,Hyundai,Creta1.6
+1931,Hyundai i10 Magna,Kolkata,2012,58235,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.45,13,Hyundai,i10Magna
+1936,Hyundai i20 Asta 1.4 CRDi,Coimbatore,2016,44487,Diesel,Manual,First,22.54 kmpl,1396 CC,88.73 bhp,5,,7.3,9,Hyundai,i20Asta
+1938,Hyundai i10 Magna,Delhi,2015,34951,Petrol,Manual,Second,20.36 kmpl,1197 CC,78.9 bhp,5,,3.15,10,Hyundai,i10Magna
+1950,Hyundai i20 Magna,Delhi,2012,54000,Petrol,Manual,First,18.5 kmpl,1197 CC,82.85 bhp,5,,3.3,13,Hyundai,i20Magna
+1953,Hyundai Creta 1.6 SX Plus Diesel,Pune,2017,44865,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,13.35,8,Hyundai,Creta1.6
+1955,Hyundai Verna VTVT 1.6 SX Option,Delhi,2013,57478,Petrol,Manual,Second,17.0 kmpl,1591 CC,121.3 bhp,5,13.59 Lakh,5.25,12,Hyundai,VernaVTVT
+1956,Hyundai i20 1.4 CRDi Magna,Hyderabad,2011,75000,Diesel,Manual,First,21.9 kmpl,1396 CC,90 bhp,5,,3.75,14,Hyundai,i201.4
+1958,Hyundai Verna 1.6 SX CRDI (O) AT,Bangalore,2018,75000,Diesel,Automatic,First,22.32 kmpl,1582 CC,126.32 bhp,5,,7.75,7,Hyundai,Verna1.6
+1960,Hyundai i10 Sportz 1.2,Mumbai,2010,62000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.1,15,Hyundai,i10Sportz
+1967,Hyundai Grand i10 Sportz,Kochi,2016,26038,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,5.43,9,Hyundai,Grandi10
+1979,Hyundai Elantra CRDi SX,Hyderabad,2012,125928,Diesel,Manual,First,22.7 kmpl,1582 CC,126.24 bhp,5,,9.0,13,Hyundai,ElantraCRDi
+1989,Hyundai i20 1.4 CRDi Magna,Hyderabad,2012,71360,Diesel,Manual,First,21.9 kmpl,1396 CC,90 bhp,5,,3.95,13,Hyundai,i201.4
+1998,Hyundai Xcent 1.2 VTVT SX,Mumbai,2014,64241,Petrol,Manual,First,20.14 kmpl,1197 CC,81.86 bhp,5,8.27 Lakh,3.67,11,Hyundai,Xcent1.2
+2007,Hyundai Verna 1.6 CRDi EX MT,Kochi,2016,37451,Diesel,Manual,First,22.32 kmpl,1582 CC,126.3 bhp,5,,6.64,9,Hyundai,Verna1.6
+2009,Hyundai Grand i10 Asta Option,Pune,2016,25000,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,5.0,9,Hyundai,Grandi10
+2013,Hyundai Grand i10 1.2 Kappa Magna AT,Kochi,2018,5354,Petrol,Automatic,First,18.9 kmpl,1197 CC,81.86 bhp,5,7.37 Lakh,6.76,7,Hyundai,Grandi10
+2021,Hyundai Santa Fe 4x4 AT,Bangalore,2012,43000,Diesel,Automatic,Second,11.72 kmpl,2199 CC,194.3 bhp,7,,10.75,13,Hyundai,SantaFe
+2035,Hyundai Grand i10 CRDi Magna,Hyderabad,2015,35000,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,4.88,10,Hyundai,Grandi10
+2038,Hyundai EON Era Plus,Kolkata,2012,60000,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,1.99,13,Hyundai,EONEra
+2039,Hyundai i10 Magna 1.2,Hyderabad,2010,70600,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.8,15,Hyundai,i10Magna
+2047,Hyundai Grand i10 AT Asta,Coimbatore,2017,22526,Petrol,Automatic,First,18.9 kmpl,1197 CC,82 bhp,5,,7.6,8,Hyundai,Grandi10
+2057,Hyundai Sonata Embera 2.0L CRDi MT,Kolkata,2009,65000,Diesel,Manual,Second,13.6 kmpl,1991 CC,142 bhp,5,,4.9,16,Hyundai,SonataEmbera
+2062,Hyundai Verna 1.4 VTVT,Kolkata,2015,33425,Petrol,Manual,First,17.43 kmpl,1396 CC,105.5 bhp,5,,4.5,10,Hyundai,Verna1.4
+2064,Hyundai Creta 1.6 CRDi SX Option,Chennai,2015,41000,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,11.9,10,Hyundai,Creta1.6
+2065,Hyundai i10 Magna 1.1,Delhi,2011,62000,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,2.1,14,Hyundai,i10Magna
+2068,Hyundai Accent GLE 1,Chennai,2007,55000,Petrol,Manual,First,13.2 kmpl,1495 CC,94 bhp,5,,2.65,18,Hyundai,AccentGLE
+2080,Hyundai Verna SX CRDi AT,Mumbai,2014,71000,Diesel,Automatic,Second,19.08 kmpl,1582 CC,126.32 bhp,5,,5.45,11,Hyundai,VernaSX
+2082,Hyundai i10 Sportz 1.2,Hyderabad,2012,45000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,3.65,13,Hyundai,i10Sportz
+2086,Hyundai Grand i10 1.2 Kappa Asta,Coimbatore,2016,37429,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,8.1 Lakh,5.89,9,Hyundai,Grandi10
+2098,Hyundai Grand i10 1.2 Kappa Sportz,Ahmedabad,2015,20780,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,6.82 Lakh,4.3,10,Hyundai,Grandi10
+2112,Hyundai Creta 1.6 CRDi SX,Jaipur,2015,83950,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,9.95,10,Hyundai,Creta1.6
+2120,Hyundai Elite i20 Asta Option,Coimbatore,2017,59450,Petrol,Manual,First,18.6 kmpl,1197 CC,81.86 bhp,5,9.78 Lakh,7.53,8,Hyundai,Elitei20
+2125,Hyundai i10 Sportz,Bangalore,2008,84000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.5,17,Hyundai,i10Sportz
+2129,Hyundai Santa Fe 2WD AT,Delhi,2012,86000,Diesel,Automatic,Second,13.01 kmpl,2199 CC,194.3 bhp,7,,9.5,13,Hyundai,SantaFe
+2130,Hyundai Santro GLS I - Euro II,Coimbatore,2012,51019,Petrol,Manual,First,0.0 kmpl,999 CC,null bhp,5,,3.48,13,Hyundai,SantroGLS
+2132,Hyundai i20 1.4 CRDi Magna,Jaipur,2012,51000,Diesel,Manual,First,21.9 kmpl,1396 CC,90 bhp,5,,3.9,13,Hyundai,i201.4
+2143,Hyundai EON D Lite Plus,Coimbatore,2015,31412,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,3.42,10,Hyundai,EOND
+2148,Hyundai EON D Lite Plus,Coimbatore,2013,54884,Petrol,Manual,Second,21.1 kmpl,814 CC,55.2 bhp,5,,3.69,12,Hyundai,EOND
+2157,Hyundai Creta 1.6 SX Option,Delhi,2016,24347,Petrol,Manual,First,15.8 kmpl,1591 CC,121.3 bhp,5,16.06 Lakh,11.0,9,Hyundai,Creta1.6
+2183,Hyundai i20 1.4 CRDi Magna,Kolkata,2012,60000,Diesel,Manual,First,21.9 kmpl,1396 CC,90 bhp,5,,2.74,13,Hyundai,i201.4
+2186,Hyundai Verna 1.6 SX,Chennai,2012,92000,Diesel,Manual,Third,22.32 kmpl,1582 CC,126.32 bhp,5,,4.0,13,Hyundai,Verna1.6
+2187,Hyundai Tucson 2.0 Dual VTVT 2WD AT GL,Mumbai,2016,13000,Petrol,Automatic,First,12.95 kmpl,1999 CC,152.88 bhp,5,25.75 Lakh,17.75,9,Hyundai,Tucson2.0
+2206,Hyundai i20 1.2 Era,Kolkata,2015,35000,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,3.4,10,Hyundai,i201.2
+2215,Hyundai i20 Asta 1.4 CRDi (Diesel),Ahmedabad,2009,68000,Diesel,Manual,Second,23.0 kmpl,1396 CC,90 bhp,5,,3.95,16,Hyundai,i20Asta
+2226,Hyundai Grand i10 AT Asta,Chennai,2016,18000,Petrol,Automatic,First,18.9 kmpl,1197 CC,82 bhp,5,,5.4,9,Hyundai,Grandi10
+2234,Hyundai i20 Magna,Delhi,2009,46946,Petrol,Manual,Second,18.5 kmpl,1197 CC,80 bhp,5,,2.35,16,Hyundai,i20Magna
+2244,Hyundai i20 Magna 1.4 CRDi,Kochi,2015,64399,Diesel,Manual,First,21.9 kmpl,1396 CC,90 bhp,5,,5.02,10,Hyundai,i20Magna
+2250,Hyundai Creta 1.6 SX Plus Diesel,Hyderabad,2016,41713,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,12.5,9,Hyundai,Creta1.6
+2259,Hyundai Santa Fe 4WD AT,Bangalore,2015,59000,Diesel,Automatic,First,13.01 kmpl,2199 CC,194.3 bhp,7,,21.0,10,Hyundai,SantaFe
+2271,Hyundai Verna 1.6 VTVT EX AT,Mumbai,2013,24000,Petrol,Automatic,First,17.01 kmpl,1591 CC,121.4 bhp,5,,5.95,12,Hyundai,Verna1.6
+2281,Hyundai i20 Sportz 1.2,Jaipur,2016,30292,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,6.3,9,Hyundai,i20Sportz
+2296,Hyundai i20 Sportz 1.4 CRDi,Delhi,2014,55000,Diesel,Manual,First,22.54 kmpl,1396 CC,88.73 bhp,5,,5.64,11,Hyundai,i20Sportz
+2302,Hyundai Creta 1.6 SX Plus Dual Tone Petrol,Coimbatore,2017,36458,Petrol,Manual,First,15.29 kmpl,1591 CC,121.3 bhp,5,,12.34,8,Hyundai,Creta1.6
+2308,Hyundai i10 Asta Sunroof AT,Mumbai,2011,54000,Petrol,Automatic,First,19.2 kmpl,1197 CC,80 bhp,5,,2.9,14,Hyundai,i10Asta
+2309,Hyundai Elantra 2.0 SX Option AT,Delhi,2016,28000,Petrol,Automatic,First,14.62 kmpl,1999 CC,149.92 bhp,5,21.77 Lakh,13.9,9,Hyundai,Elantra2.0
+2317,Hyundai i20 Sportz 1.2,Delhi,2015,50000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,4.95,10,Hyundai,i20Sportz
+2326,Hyundai Elantra 2.0 SX Option AT,Coimbatore,2015,58239,Petrol,Automatic,First,14.62 kmpl,1999 CC,149.92 bhp,5,23.64 Lakh,9.69,10,Hyundai,Elantra2.0
+2337,Hyundai i10 Sportz,Kochi,2012,42591,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,3.2,13,Hyundai,i10Sportz
+2338,Hyundai i20 1.4 CRDi Sportz,Bangalore,2012,67000,Diesel,Manual,First,23.0 kmpl,1396 CC,90 bhp,5,,4.5,13,Hyundai,i201.4
+2340,Hyundai Verna 1.6 SX CRDI (O) AT,Jaipur,2014,97000,Diesel,Automatic,First,22.32 kmpl,1582 CC,126.32 bhp,5,,8.0,11,Hyundai,Verna1.6
+2343,Hyundai Santro AT,Hyderabad,2006,74483,Petrol,Automatic,First,0.0 kmpl,999 CC,null bhp,5,,2.3,19,Hyundai,SantroAT
+2350,Hyundai Verna 1.6 VTVT,Bangalore,2012,73000,Petrol,Manual,First,17.01 kmpl,1591 CC,121.3 bhp,5,,5.5,13,Hyundai,Verna1.6
+2351,Hyundai Grand i10 Asta,Kolkata,2014,44300,Petrol,Manual,Second,18.9 kmpl,1197 CC,82 bhp,5,,2.3,11,Hyundai,Grandi10
+2353,Hyundai Xcent 1.2 Kappa S Option,Coimbatore,2016,21495,Petrol,Manual,First,19.1 kmpl,1197 CC,81.86 bhp,5,,6.16,9,Hyundai,Xcent1.2
+2354,Hyundai i10 Sportz,Delhi,2012,59000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.85,13,Hyundai,i10Sportz
+2358,Hyundai Verna 1.6 SX CRDi (O),Kolkata,2013,47000,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,4.35,12,Hyundai,Verna1.6
+2361,Hyundai i10 Sportz,Ahmedabad,2014,47003,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,3.67,11,Hyundai,i10Sportz
+2363,Hyundai Grand i10 Asta,Coimbatore,2018,20492,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,6.34,7,Hyundai,Grandi10
+2374,Hyundai i10 Magna,Kochi,2011,65423,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,3.16,14,Hyundai,i10Magna
+2379,Hyundai EON Era Plus,Jaipur,2017,52000,Petrol,Manual,Second,21.1 kmpl,814 CC,55.2 bhp,5,,3.5,8,Hyundai,EONEra
+2386,Hyundai Grand i10 CRDi Sportz,Kolkata,2014,25135,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,3.75,11,Hyundai,Grandi10
+2388,Hyundai i20 1.2 Sportz,Ahmedabad,2013,40000,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,4.9,12,Hyundai,i201.2
+2392,Hyundai Creta 1.6 CRDi SX,Kolkata,2016,51000,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,9.2,9,Hyundai,Creta1.6
+2396,Hyundai i20 2015-2017 1.4 Magna ABS,Pune,2012,64000,Diesel,Manual,First,21.9 kmpl,1396 CC,90 bhp,5,,4.25,13,Hyundai,i202015-2017
+2398,Hyundai i20 1.2 Sportz,Coimbatore,2015,29634,Petrol,Manual,Second,17.0 kmpl,1197 CC,80 bhp,5,,6.0,10,Hyundai,i201.2
+2412,Hyundai Verna 1.6 VTVT,Kolkata,2012,24000,Petrol,Manual,Second,17.01 kmpl,1591 CC,121.3 bhp,5,,6.2,13,Hyundai,Verna1.6
+2413,Hyundai Grand i10 1.2 CRDi Sportz,Kochi,2017,20773,Diesel,Manual,First,24.0 kmpl,1186 CC,73.97 bhp,5,8.17 Lakh,5.92,8,Hyundai,Grandi10
+2417,Hyundai Santro Xing GL Plus,Ahmedabad,2014,41125,Petrol,Manual,First,17.92 kmpl,1086 CC,62.1 bhp,5,,2.7,11,Hyundai,SantroXing
+2421,Hyundai Verna 1.6 VTVT,Pune,2011,68000,Petrol,Manual,First,17.01 kmpl,1591 CC,121.3 bhp,5,,3.7,14,Hyundai,Verna1.6
+2424,Hyundai i20 Magna 1.4 CRDi (Diesel),Jaipur,2013,51873,Diesel,Manual,First,21.9 kmpl,1396 CC,88.76 bhp,5,,3.9,12,Hyundai,i20Magna
+2427,Hyundai Xcent 1.2 Kappa S Option,Kolkata,2015,39871,Petrol,Manual,First,19.1 kmpl,1197 CC,81.86 bhp,5,,3.5,10,Hyundai,Xcent1.2
+2430,Hyundai i10 Magna,Kolkata,2007,71600,Petrol,Manual,Second,20.36 kmpl,1197 CC,78.9 bhp,5,,2.0,18,Hyundai,i10Magna
+2434,Hyundai Xcent 1.2 Kappa S Option,Kolkata,2014,42000,Petrol,Manual,First,19.1 kmpl,1197 CC,81.86 bhp,5,,3.45,11,Hyundai,Xcent1.2
+2435,Hyundai i20 Sportz 1.2,Kochi,2016,61823,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,6.14,9,Hyundai,i20Sportz
+2442,Hyundai EON Era Plus,Jaipur,2016,70000,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,3.0,9,Hyundai,EONEra
+2448,Hyundai Xcent 1.2 VTVT S,Coimbatore,2015,65743,Petrol,Manual,First,20.14 kmpl,1197 CC,81.86 bhp,5,7.85 Lakh,6.2,10,Hyundai,Xcent1.2
+2449,Hyundai i10 Magna 1.1,Coimbatore,2013,64466,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,3.96,12,Hyundai,i10Magna
+2452,Hyundai Xcent 1.2 CRDi E Plus,Mumbai,2017,69000,Diesel,Manual,First,25.4 kmpl,1186 CC,73.97 bhp,5,,3.55,8,Hyundai,Xcent1.2
+2454,Hyundai Creta 1.6 SX Option,Mumbai,2016,29477,Petrol,Manual,First,15.8 kmpl,1591 CC,121.3 bhp,5,16.36 Lakh,10.25,9,Hyundai,Creta1.6
+2486,Hyundai Grand i10 Sportz,Kochi,2016,59767,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,4.78,9,Hyundai,Grandi10
+2489,Hyundai i20 2015-2017 1.2 Asta,Pune,2010,72000,Petrol,Manual,Second,17.0 kmpl,1197 CC,80 bhp,5,,2.75,15,Hyundai,i202015-2017
+2490,Hyundai Verna 1.6 SX VTVT,Mumbai,2014,11000,Petrol,Manual,First,17.01 kmpl,1591 CC,121.3 bhp,5,,5.95,11,Hyundai,Verna1.6
+2494,Hyundai i10 Era 1.1,Jaipur,2011,70000,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,2.15,14,Hyundai,i10Era
+2500,Hyundai Santro Xing GLS,Hyderabad,2007,69775,Petrol,Manual,Second,17.92 kmpl,1086 CC,62.1 bhp,5,,1.85,18,Hyundai,SantroXing
+2508,Hyundai Verna CRDi ABS,Chennai,2008,120000,Diesel,Manual,Second,18.1 kmpl,1493 CC,110 bhp,5,,2.0,17,Hyundai,VernaCRDi
+2511,Hyundai Grand i10 CRDi Asta,Ahmedabad,2014,116905,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,4.0,11,Hyundai,Grandi10
+2512,Hyundai i10 Sportz AT,Coimbatore,2011,32824,Petrol,Automatic,First,16.95 kmpl,1197 CC,78.9 bhp,5,,3.83,14,Hyundai,i10Sportz
+2514,Hyundai Santro Xing GLS,Kolkata,2010,35008,Petrol,Manual,First,17.92 kmpl,1086 CC,62.1 bhp,5,,1.36,15,Hyundai,SantroXing
+2517,Hyundai Verna 1.4 VTVT,Bangalore,2016,36000,Petrol,Manual,First,17.43 kmpl,1396 CC,105.5 bhp,5,,8.0,9,Hyundai,Verna1.4
+2526,Hyundai i20 Sportz 1.2,Mumbai,2017,14001,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,5.75,8,Hyundai,i20Sportz
+2540,Hyundai EON Magna Plus,Jaipur,2017,12000,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,3.5,8,Hyundai,EONMagna
+2557,Hyundai EON D Lite Plus,Hyderabad,2013,84600,Petrol,Manual,Second,21.1 kmpl,814 CC,55.2 bhp,5,,2.5,12,Hyundai,EOND
+2565,Hyundai Verna 1.6 SX,Delhi,2011,103814,Diesel,Manual,Second,22.32 kmpl,1582 CC,126.32 bhp,5,,4.5,14,Hyundai,Verna1.6
+2567,Hyundai i10 Era,Kochi,2013,56075,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,3.12,12,Hyundai,i10Era
+2572,Hyundai Creta 1.6 CRDi AT SX Plus,Kochi,2016,38593,Diesel,Automatic,First,17.01 kmpl,1582 CC,126.2 bhp,5,,13.23,9,Hyundai,Creta1.6
+2577,Hyundai i10 Magna,Mumbai,2008,38235,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,1.95,17,Hyundai,i10Magna
+2578,Hyundai i10 Sportz 1.2,Kolkata,2011,37000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.2,14,Hyundai,i10Sportz
+2579,Hyundai Santro Xing XG eRLX Euro III,Mumbai,2006,50888,Petrol,Manual,First,17.0 kmpl,1086 CC,null bhp,5,,1.15,19,Hyundai,SantroXing
+2582,Hyundai Grand i10 Asta,Chennai,2013,90000,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,3.55,12,Hyundai,Grandi10
+2584,Hyundai i10 Sportz,Coimbatore,2012,47324,Petrol,Manual,Second,20.36 kmpl,1197 CC,78.9 bhp,5,,4.52,13,Hyundai,i10Sportz
+2591,Hyundai i20 2015-2017 Magna 1.2,Pune,2016,20600,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,5.4,9,Hyundai,i202015-2017
+2594,Hyundai i20 Sportz Option 1.2,Delhi,2016,38000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,5.95,9,Hyundai,i20Sportz
+2596,Hyundai i10 Sportz 1.2,Hyderabad,2011,60000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,3.2,14,Hyundai,i10Sportz
+2597,Hyundai Santro Xing XP,Pune,2007,70000,Petrol,Manual,First,0.0 kmpl,1086 CC,null bhp,5,,1.12,18,Hyundai,SantroXing
+2600,Hyundai i20 Magna,Kolkata,2009,30675,Petrol,Manual,First,18.5 kmpl,1197 CC,80 bhp,5,,2.25,16,Hyundai,i20Magna
+2602,Hyundai EON Magna,Pune,2015,55000,Petrol,Manual,First,22.0 kmpl,814 CC,55 bhp,5,,2.61,10,Hyundai,EONMagna
+2607,Hyundai Verna CRDi 1.6 SX Option,Pune,2017,50000,Diesel,Manual,First,22.0 kmpl,1582 CC,126.2 bhp,5,15.72 Lakh,11.5,8,Hyundai,VernaCRDi
+2608,Hyundai EON Era Plus,Jaipur,2015,38000,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,2.75,10,Hyundai,EONEra
+2619,Hyundai Grand i10 CRDi Sportz,Jaipur,2016,46522,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,4.5,9,Hyundai,Grandi10
+2624,Hyundai Grand i10 CRDi SportZ Edition,Kochi,2015,66337,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,4.96,10,Hyundai,Grandi10
+2628,Hyundai Verna Transform SX VTVT,Bangalore,2011,61000,Petrol,Manual,Second,16.2 kmpl,1599 CC,103.2 bhp,5,,3.4,14,Hyundai,VernaTransform
+2631,Hyundai Creta 1.6 CRDi SX Option,Coimbatore,2016,11554,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,14.25,9,Hyundai,Creta1.6
+2634,Hyundai Getz GLS ABS,Pune,2005,91000,Petrol,Manual,Third,16.8 kmpl,1341 CC,83 bhp,5,,0.8,20,Hyundai,GetzGLS
+2635,Hyundai Santro Xing XG eRLX Euro III,Kochi,2007,58815,Petrol,Manual,First,17.0 kmpl,1086 CC,null bhp,5,,1.99,18,Hyundai,SantroXing
+2636,Hyundai Grand i10 AT Asta,Coimbatore,2015,33931,Petrol,Automatic,Second,18.9 kmpl,1197 CC,82 bhp,5,,5.91,10,Hyundai,Grandi10
+2637,Hyundai Grand i10 1.2 Kappa Sportz Option,Coimbatore,2019,13916,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,,6.44,6,Hyundai,Grandi10
+2639,Hyundai Grand i10 Sportz,Jaipur,2015,14000,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,4.6,10,Hyundai,Grandi10
+2641,Hyundai i20 Asta 1.2,Coimbatore,2016,17560,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,7.21,9,Hyundai,i20Asta
+2647,Hyundai i20 1.2 Asta Option,Jaipur,2017,8000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,7.5,8,Hyundai,i201.2
+2650,Hyundai Creta 1.6 CRDi SX,Mumbai,2017,27000,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,12.9,8,Hyundai,Creta1.6
+2657,Hyundai i10 Era,Ahmedabad,2012,60000,Petrol,Manual,Second,19.81 kmpl,1086 CC,68.05 bhp,5,,2.65,13,Hyundai,i10Era
+2671,Hyundai i10 Sportz AT,Ahmedabad,2012,37229,Petrol,Automatic,First,16.95 kmpl,1197 CC,78.9 bhp,5,,3.41,13,Hyundai,i10Sportz
+2676,Hyundai Creta 1.6 CRDi SX,Kochi,2017,40459,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,13.28,8,Hyundai,Creta1.6
+2680,Hyundai i10 Magna,Coimbatore,2012,43766,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,4.3,13,Hyundai,i10Magna
+2682,Hyundai i20 1.4 Sportz,Coimbatore,2018,18521,Diesel,Manual,First,22.54 kmpl,1396 CC,88.73 bhp,5,,9.18,7,Hyundai,i201.4
+2691,Hyundai Verna 1.6 SX CRDI (O) AT,Kolkata,2014,48000,Diesel,Automatic,First,22.32 kmpl,1582 CC,126.32 bhp,5,,5.1,11,Hyundai,Verna1.6
+2693,Hyundai Verna 1.6 SX,Delhi,2014,62000,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,5.7,11,Hyundai,Verna1.6
+2704,Hyundai Tucson CRDi,Jaipur,2007,103515,Diesel,Manual,Third,12.6 kmpl,1991 CC,112 bhp,7,,5.0,18,Hyundai,TucsonCRDi
+2705,Hyundai Santro Xing GLS,Hyderabad,2008,68282,Petrol,Manual,First,17.92 kmpl,1086 CC,62.1 bhp,5,,2.25,17,Hyundai,SantroXing
+2712,Hyundai EON Era Plus,Jaipur,2017,8500,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,3.42,8,Hyundai,EONEra
+2714,Hyundai i20 Active 1.2 SX Dual Tone,Pune,2016,6000,Petrol,Manual,First,17.19 kmpl,1197 CC,81.86 bhp,5,,7.25,9,Hyundai,i20Active
+2726,Hyundai Verna CRDi,Hyderabad,2011,70000,Diesel,Manual,First,16.8 kmpl,1493 CC,110 bhp,5,,5.1,14,Hyundai,VernaCRDi
+2727,Hyundai i20 Active S Diesel,Jaipur,2015,81310,Diesel,Manual,First,21.19 kmpl,1396 CC,88.76 bhp,5,,5.9,10,Hyundai,i20Active
+2734,Hyundai Grand i10 Sportz,Jaipur,2017,23000,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,4.5,8,Hyundai,Grandi10
+2736,Hyundai Verna 1.6 CRDi S,Chennai,2016,31000,Diesel,Manual,First,23.9 kmpl,1582 CC,126.2 bhp,5,,9.0,9,Hyundai,Verna1.6
+2748,Hyundai Creta 1.6 CRDi AT SX Plus,Coimbatore,2017,50170,Diesel,Automatic,First,17.01 kmpl,1582 CC,126.2 bhp,5,,14.79,8,Hyundai,Creta1.6
+2751,Hyundai Santa Fe 2WD AT,Delhi,2014,110000,Diesel,Automatic,First,13.01 kmpl,2199 CC,194.3 bhp,7,,12.9,11,Hyundai,SantaFe
+2752,Hyundai EON D Lite Plus Option,Kolkata,2017,60000,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,2.5,8,Hyundai,EOND
+2753,Hyundai i20 Sportz 1.2,Delhi,2013,92408,Petrol,Manual,First,18.5 kmpl,1197 CC,82.85 bhp,5,,3.65,12,Hyundai,i20Sportz
+2754,Hyundai Verna 1.6 SX VTVT (O),Bangalore,2014,45000,Petrol,Manual,First,17.1 kmpl,1591 CC,121.3 bhp,5,,7.5,11,Hyundai,Verna1.6
+2764,Hyundai i10 Sportz,Kolkata,2016,7000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,3.6,9,Hyundai,i10Sportz
+2766,Hyundai i20 Magna 1.4 CRDi (Diesel),Hyderabad,2017,14061,Diesel,Manual,First,21.9 kmpl,1396 CC,88.76 bhp,5,,7.4,8,Hyundai,i20Magna
+2769,Hyundai Getz GLE,Bangalore,2006,44000,Petrol,Manual,Second,15.3 kmpl,1341 CC,83 bhp,5,,1.75,19,Hyundai,GetzGLE
+2772,Hyundai Verna 1.6 SX VTVT (O),Mumbai,2011,61600,Petrol,Manual,First,17.1 kmpl,1591 CC,121.3 bhp,5,,4.2,14,Hyundai,Verna1.6
+2782,Hyundai i20 Asta (o) 1.4 CRDi (Diesel),Jaipur,2014,82450,Diesel,Manual,First,23.0 kmpl,1396 CC,90 bhp,5,,5.85,11,Hyundai,i20Asta
+2788,Hyundai Grand i10 1.2 Kappa Sportz,Kochi,2018,20689,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,6.68 Lakh,6.07,7,Hyundai,Grandi10
+2792,Hyundai i20 1.2 Magna,Coimbatore,2012,38214,Petrol,Manual,Second,18.5 kmpl,1197 CC,80 bhp,5,,4.05,13,Hyundai,i201.2
+2797,Hyundai Creta 1.6 CRDi AT SX Plus,Coimbatore,2016,58671,Diesel,Automatic,First,17.01 kmpl,1582 CC,126.2 bhp,5,,14.25,9,Hyundai,Creta1.6
+2806,Hyundai i20 1.4 CRDi Sportz,Pune,2012,90000,Diesel,Manual,First,23.0 kmpl,1396 CC,90 bhp,5,,4.11,13,Hyundai,i201.4
+2809,Hyundai i10 Era,Mumbai,2010,55000,Petrol,Manual,Second,19.81 kmpl,1086 CC,68.05 bhp,5,,1.59,15,Hyundai,i10Era
+2812,Hyundai Grand i10 1.2 Kappa Sportz,Mumbai,2018,3958,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,7.14 Lakh,5.55,7,Hyundai,Grandi10
+2818,Hyundai Verna 1.6 SX CRDi (O),Kochi,2016,16159,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,7.83,9,Hyundai,Verna1.6
+2819,Hyundai Accent CRDi,Mumbai,2005,150000,Diesel,Manual,First,13.1 kmpl,1493 CC,82 bhp,5,,0.85,20,Hyundai,AccentCRDi
+2821,Hyundai i20 Active 1.2 SX,Coimbatore,2017,35043,Petrol,Manual,First,17.19 kmpl,1197 CC,81.86 bhp,5,,8.19,8,Hyundai,i20Active
+2840,Hyundai Verna 1.6 SX VTVT (O),Coimbatore,2013,66930,Petrol,Manual,First,17.1 kmpl,1591 CC,121.3 bhp,5,,6.15,12,Hyundai,Verna1.6
+2841,Hyundai Santa Fe 4WD AT,Pune,2015,100000,Diesel,Automatic,Second,13.01 kmpl,2199 CC,194.3 bhp,7,,14.5,10,Hyundai,SantaFe
+2845,Hyundai i20 Sportz 1.2,Kolkata,2013,40300,Petrol,Manual,First,18.5 kmpl,1197 CC,82.85 bhp,5,,2.8,12,Hyundai,i20Sportz
+2847,Hyundai Getz GLS,Pune,2005,86000,Petrol,Manual,Second,15.3 kmpl,1341 CC,83 bhp,5,,0.45,20,Hyundai,GetzGLS
+2850,Hyundai i10 Magna 1.2,Mumbai,2012,51000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.85,13,Hyundai,i10Magna
+2861,Hyundai Grand i10 Asta,Coimbatore,2016,61578,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,6.4,9,Hyundai,Grandi10
+2867,Hyundai EON Era Plus,Kochi,2018,15334,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,3.69,7,Hyundai,EONEra
+2887,Hyundai i20 Asta Option 1.2,Mumbai,2015,39000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,5.5,10,Hyundai,i20Asta
+2892,Hyundai i20 Sportz Diesel,Coimbatore,2011,68439,Diesel,Manual,First,23.0 kmpl,1396 CC,90 bhp,5,,3.37,14,Hyundai,i20Sportz
+2897,Hyundai Creta 1.6 CRDi AT SX Plus,Jaipur,2015,65800,Diesel,Automatic,First,17.01 kmpl,1582 CC,126.2 bhp,5,,12.5,10,Hyundai,Creta1.6
+2903,Hyundai EON Era Plus,Pune,2013,22000,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,2.6,12,Hyundai,EONEra
+2906,Hyundai Grand i10 1.2 CRDi Sportz Option,Jaipur,2017,26877,Diesel,Manual,First,24.0 kmpl,1186 CC,73.97 bhp,5,,5.75,8,Hyundai,Grandi10
+2909,Hyundai Santro Xing GLS,Hyderabad,2008,95291,Petrol,Manual,First,17.92 kmpl,1086 CC,62.1 bhp,5,,2.3,17,Hyundai,SantroXing
+2911,Hyundai i20 Sportz 1.2,Kolkata,2015,32000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,4.8,10,Hyundai,i20Sportz
+2915,Hyundai Grand i10 1.2 Kappa Sportz,Jaipur,2018,10000,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,6.96 Lakh,5.85,7,Hyundai,Grandi10
+2926,Hyundai Accent GLS,Bangalore,2008,80000,Petrol,Manual,Second,13.2 kmpl,1495 CC,94 bhp,5,,1.9,17,Hyundai,AccentGLS
+2956,Hyundai Grand i10 Era,Kolkata,2014,19500,Petrol,Manual,Second,18.9 kmpl,1197 CC,82 bhp,5,,2.85,11,Hyundai,Grandi10
+2958,Hyundai Grand i10 Asta Option,Bangalore,2014,30000,Petrol,Manual,Second,18.9 kmpl,1197 CC,82 bhp,5,,4.9,11,Hyundai,Grandi10
+2969,Hyundai Grand i10 Sportz,Mumbai,2016,10770,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,4.75,9,Hyundai,Grandi10
+2971,Hyundai EON Era Plus,Jaipur,2015,91000,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,2.5,10,Hyundai,EONEra
+2972,Hyundai i20 1.2 Spotz,Mumbai,2017,14000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,5.95,8,Hyundai,i201.2
+2976,Hyundai i20 1.4 CRDi Magna,Hyderabad,2010,94500,Diesel,Manual,Second,21.9 kmpl,1396 CC,90 bhp,5,,3.1,15,Hyundai,i201.4
+2982,Hyundai Creta 1.6 SX Plus Petrol Automatic,Coimbatore,2018,32807,Petrol,Automatic,First,13.0 kmpl,1591 CC,121.3 bhp,5,,14.76,7,Hyundai,Creta1.6
+2987,Hyundai Verna 1.6 SX VTVT,Mumbai,2014,9000,Petrol,Manual,Second,17.01 kmpl,1591 CC,121.3 bhp,5,,5.5,11,Hyundai,Verna1.6
+2995,Hyundai i10 Magna AT,Bangalore,2008,58483,Petrol,Automatic,Second,19.2 kmpl,1197 CC,80 bhp,5,,2.95,17,Hyundai,i10Magna
+2997,Hyundai i10 Sportz 1.2,Hyderabad,2010,50000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,3.0,15,Hyundai,i10Sportz
+3003,Hyundai Verna 1.6 EX VTVT,Kolkata,2014,58000,Petrol,Manual,First,17.01 kmpl,1591 CC,121.3 bhp,5,,4.59,11,Hyundai,Verna1.6
+3007,Hyundai i20 Asta Option 1.2,Hyderabad,2017,19860,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,6.95,8,Hyundai,i20Asta
+3020,Hyundai Tucson CRDi,Delhi,2006,80000,Diesel,Manual,Second,12.6 kmpl,1991 CC,112 bhp,7,,1.75,19,Hyundai,TucsonCRDi
+3023,Hyundai Verna 1.6 SX,Hyderabad,2014,39791,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,7.49,11,Hyundai,Verna1.6
+3026,Hyundai i20 Asta 1.2,Bangalore,2015,39000,Petrol,Manual,Second,18.6 kmpl,1197 CC,81.83 bhp,5,,6.3,10,Hyundai,i20Asta
+3033,Hyundai Santro Xing XP,Jaipur,2005,120000,Petrol,Manual,First,0.0 kmpl,1086 CC,null bhp,5,,1.15,20,Hyundai,SantroXing
+3042,Hyundai Verna 1.6 VTVT,Kolkata,2011,36226,Petrol,Manual,First,17.01 kmpl,1591 CC,121.3 bhp,5,,2.95,14,Hyundai,Verna1.6
+3044,Hyundai Santro Xing GL,Kolkata,2009,60170,Petrol,Manual,First,0.0 kmpl,1086 CC,62 bhp,5,,1.15,16,Hyundai,SantroXing
+3046,Hyundai i10 Magna 1.2,Kochi,2017,49045,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,4.07,8,Hyundai,i10Magna
+3052,Hyundai Xcent 1.2 CRDi S,Mumbai,2016,50000,Diesel,Manual,First,25.4 kmpl,1186 CC,73.97 bhp,5,8.84 Lakh,3.5,9,Hyundai,Xcent1.2
+3053,Hyundai Verna CRDi SX ABS,Hyderabad,2008,150000,Diesel,Manual,First,18.1 kmpl,1493 CC,110 bhp,5,,3.0,17,Hyundai,VernaCRDi
+3054,Hyundai Verna 1.6 SX VTVT,Mumbai,2014,11000,Petrol,Manual,First,17.01 kmpl,1591 CC,121.3 bhp,5,,6.1,11,Hyundai,Verna1.6
+3061,Hyundai Santro GS,Ahmedabad,2005,58000,Petrol,Manual,Second,0.0 kmpl,999 CC,null bhp,5,,1.51,20,Hyundai,SantroGS
+3072,Hyundai EON Era Plus,Pune,2015,66510,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,2.95,10,Hyundai,EONEra
+3081,Hyundai i20 1.4 Asta CRDi with AVN,Pune,2012,75000,Diesel,Manual,First,23.0 kmpl,1396 CC,90 bhp,5,,4.0,13,Hyundai,i201.4
+3090,Hyundai Verna CRDi,Bangalore,2010,72010,Diesel,Manual,First,16.8 kmpl,1493 CC,110 bhp,5,,4.45,15,Hyundai,VernaCRDi
+3095,Hyundai i20 1.4 Asta,Mumbai,2015,57000,Diesel,Manual,First,22.54 kmpl,1396 CC,88.73 bhp,5,,6.35,10,Hyundai,i201.4
+3099,Hyundai i20 1.2 Magna,Mumbai,2011,52359,Petrol,Manual,First,18.5 kmpl,1197 CC,80 bhp,5,,3.25,14,Hyundai,i201.2
+3108,Hyundai i20 Magna Optional 1.4 CRDi,Ahmedabad,2012,55362,Diesel,Manual,First,21.9 kmpl,1396 CC,88.8 bhp,5,,4.25,13,Hyundai,i20Magna
+3109,Hyundai Creta 1.6 CRDi AT SX Plus,Chennai,2017,13000,Diesel,Automatic,First,17.01 kmpl,1582 CC,126.2 bhp,5,,14.5,8,Hyundai,Creta1.6
+3113,Hyundai Xcent 1.1 CRDi Base,Mumbai,2016,135000,Diesel,Manual,First,24.4 kmpl,1120 CC,71 bhp,5,,4.2,9,Hyundai,Xcent1.1
+3116,Hyundai i20 1.4 Sportz,Coimbatore,2019,32251,Diesel,Manual,First,22.54 kmpl,1396 CC,88.73 bhp,5,,8.61,6,Hyundai,i201.4
+3125,Hyundai i10 Sportz AT,Bangalore,2009,60510,Petrol,Automatic,Second,16.95 kmpl,1197 CC,78.9 bhp,5,,3.1,16,Hyundai,i10Sportz
+3135,Hyundai Verna 1.6 VTVT,Chennai,2013,34620,Petrol,Manual,Second,17.01 kmpl,1591 CC,121.3 bhp,5,,5.35,12,Hyundai,Verna1.6
+3136,Hyundai i10 Era 1.1,Bangalore,2010,56000,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,2.85,15,Hyundai,i10Era
+3139,Hyundai i10 Sportz,Coimbatore,2013,32776,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,4.64,12,Hyundai,i10Sportz
+3143,Hyundai i20 Asta,Kochi,2010,30754,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,3.38,15,Hyundai,i20Asta
+3146,Hyundai Grand i10 Sportz,Coimbatore,2017,33284,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,5.84,8,Hyundai,Grandi10
+3156,Hyundai Grand i10 1.2 Kappa Magna AT,Coimbatore,2019,12153,Petrol,Automatic,First,18.9 kmpl,1197 CC,81.86 bhp,5,7.98 Lakh,6.84,6,Hyundai,Grandi10
+3165,Hyundai Grand i10 Magna,Jaipur,2016,22000,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,4.25,9,Hyundai,Grandi10
+3172,Hyundai Grand i10 1.2 Kappa Sportz Option,Jaipur,2017,14700,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,,5.6,8,Hyundai,Grandi10
+3174,Hyundai Verna 1.6 SX,Kolkata,2011,34994,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,3.9,14,Hyundai,Verna1.6
+3183,Hyundai Creta 1.6 SX Plus Petrol Automatic,Coimbatore,2018,23875,Petrol,Automatic,First,13.0 kmpl,1591 CC,121.3 bhp,5,,14.36,7,Hyundai,Creta1.6
+3184,Hyundai Grand i10 Asta,Bangalore,2016,51866,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,5.5,9,Hyundai,Grandi10
+3186,Hyundai Grand i10 1.2 Kappa Asta,Coimbatore,2017,62788,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,8.1 Lakh,6.08,8,Hyundai,Grandi10
+3189,Hyundai Santro GS zipDrive - Euro II,Chennai,2002,67000,Petrol,Manual,Third,0.0 kmpl,999 CC,null bhp,5,,1.2,23,Hyundai,SantroGS
+3192,Hyundai EON D Lite,Pune,2013,30000,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,2.1,12,Hyundai,EOND
+3193,Hyundai Elantra CRDi SX,Bangalore,2012,36000,Diesel,Manual,Second,22.7 kmpl,1582 CC,126.24 bhp,5,,7.5,13,Hyundai,ElantraCRDi
+3214,Hyundai Verna 1.6 EX VTVT,Kolkata,2012,14800,Petrol,Manual,First,17.01 kmpl,1591 CC,121.3 bhp,5,,4.4,13,Hyundai,Verna1.6
+3227,Hyundai Verna SX CRDi AT,Hyderabad,2011,104000,Diesel,Automatic,First,19.08 kmpl,1582 CC,126.32 bhp,5,,5.75,14,Hyundai,VernaSX
+3231,Hyundai i20 Sportz AT 1.4,Bangalore,2013,72000,Petrol,Automatic,First,15.0 kmpl,1396 CC,98.6 bhp,5,,4.75,12,Hyundai,i20Sportz
+3232,Hyundai Creta 1.6 CRDi SX,Coimbatore,2019,54321,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,13.54,6,Hyundai,Creta1.6
+3251,Hyundai Verna 1.6 SX VTVT,Chennai,2016,51000,Petrol,Manual,First,17.01 kmpl,1591 CC,121.3 bhp,5,,6.5,9,Hyundai,Verna1.6
+3257,Hyundai Verna 1.6 CRDi EX AT,Pune,2013,114000,Diesel,Automatic,First,22.32 kmpl,1582 CC,126.3 bhp,5,,6.75,12,Hyundai,Verna1.6
+3271,Hyundai Santro Xing GL,Bangalore,2008,35268,Petrol,Manual,Second,0.0 kmpl,1086 CC,62 bhp,5,,1.88,17,Hyundai,SantroXing
+3279,Hyundai Santro Xing GLS,Coimbatore,2012,43337,Petrol,Manual,First,17.92 kmpl,1086 CC,62.1 bhp,5,,3.32,13,Hyundai,SantroXing
+3285,Hyundai Grand i10 Magna AT,Mumbai,2016,9000,Petrol,Automatic,First,18.9 kmpl,1197 CC,82 bhp,5,,5.45,9,Hyundai,Grandi10
+3304,Hyundai Verna Transform CRDi VGT SX ABS,Hyderabad,2010,120000,Diesel,Manual,Second,16.2 kmpl,1493 CC,110 bhp,5,,3.5,15,Hyundai,VernaTransform
+3306,Hyundai Creta 1.6 CRDi SX,Coimbatore,2017,37247,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,13.69,8,Hyundai,Creta1.6
+3308,Hyundai Sonata Transform 2.4 GDi MT,Mumbai,2014,12000,Petrol,Manual,First,13.44 kmpl,2359 CC,198.25 bhp,5,,12.75,11,Hyundai,SonataTransform
+3309,Hyundai Creta 1.6 CRDi SX Option,Pune,2017,40158,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,13.75,8,Hyundai,Creta1.6
+3319,Hyundai Elantra CRDi SX AT,Pune,2013,48823,Diesel,Automatic,First,19.5 kmpl,1582 CC,126.24 bhp,5,,8.5,12,Hyundai,ElantraCRDi
+3320,Hyundai i10 Magna 1.2,Kolkata,2011,35082,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.21,14,Hyundai,i10Magna
+3329,Hyundai Grand i10 CRDi Sportz,Hyderabad,2016,75700,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,5.7,9,Hyundai,Grandi10
+3333,Hyundai i10 Asta 1.2 AT with Sunroof,Hyderabad,2011,54348,Petrol,Automatic,First,19.2 kmpl,1197 CC,80 bhp,5,,4.0,14,Hyundai,i10Asta
+3336,Hyundai i10 Magna 1.2,Jaipur,2013,75049,Petrol,Manual,Second,20.36 kmpl,1197 CC,78.9 bhp,5,,3.0,12,Hyundai,i10Magna
+3339,Hyundai i20 Sportz AT 1.4,Bangalore,2012,58000,Petrol,Automatic,Second,15.0 kmpl,1396 CC,98.6 bhp,5,,4.4,13,Hyundai,i20Sportz
+3344,Hyundai EON 1.0 Magna Plus Option O,Kochi,2017,30711,Petrol,Manual,First,20.3 kmpl,998 CC,68.05 bhp,5,,4.45,8,Hyundai,EON1.0
+3345,Hyundai i20 1.4 CRDi Magna,Kolkata,2011,38277,Diesel,Manual,First,21.9 kmpl,1396 CC,90 bhp,5,,2.4,14,Hyundai,i201.4
+3348,Hyundai i20 Magna 1.4 CRDi,Ahmedabad,2014,64000,Diesel,Manual,First,21.9 kmpl,1396 CC,90 bhp,5,,4.25,11,Hyundai,i20Magna
+3350,Hyundai Grand i10 Sportz,Chennai,2015,15000,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,4.9,10,Hyundai,Grandi10
+3351,Hyundai i20 1.4 CRDi Sportz,Mumbai,2014,32720,Diesel,Manual,First,23.0 kmpl,1396 CC,90 bhp,5,,4.5,11,Hyundai,i201.4
+3353,Hyundai Xcent 1.2 Kappa AT SX Option,Chennai,2015,59800,Petrol,Automatic,First,16.9 kmpl,1197 CC,82 bhp,5,,5.8,10,Hyundai,Xcent1.2
+3357,Hyundai Verna 1.6 SX,Hyderabad,2012,65000,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,6.2,13,Hyundai,Verna1.6
+3360,Hyundai i20 Magna Optional 1.4 CRDi,Chennai,2012,70000,Diesel,Manual,First,21.9 kmpl,1396 CC,88.8 bhp,5,,4.0,13,Hyundai,i20Magna
+3364,Hyundai i10 Magna,Ahmedabad,2014,51000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,3.75,11,Hyundai,i10Magna
+3369,Hyundai Grand i10 Magna,Kolkata,2016,21000,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,3.75,9,Hyundai,Grandi10
+3371,Hyundai Grand i10 SportZ Edition,Bangalore,2015,50000,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,,4.75,10,Hyundai,Grandi10
+3378,Hyundai i10 Magna 1.1 iTech SE,Kochi,2017,42883,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,4.27,8,Hyundai,i10Magna
+3384,Hyundai Verna 1.6 CRDI AT SX Option,Chennai,2016,27000,Diesel,Automatic,First,19.08 kmpl,1582 CC,126.2 bhp,5,,8.6,9,Hyundai,Verna1.6
+3391,Hyundai i10 Sportz Option,Pune,2013,45000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,3.55,12,Hyundai,i10Sportz
+3392,Hyundai i20 1.2 Asta Option,Hyderabad,2018,11691,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,8.9,7,Hyundai,i201.2
+3394,Hyundai Verna Transform SX VGT CRDi,Hyderabad,2010,118077,Diesel,Manual,First,16.2 kmpl,1493 CC,110 bhp,5,,3.85,15,Hyundai,VernaTransform
+3395,Hyundai Verna 1.6 SX VTVT (O) AT,Chennai,2012,36300,Petrol,Automatic,Third,17.1 kmpl,1591 CC,121.4 bhp,5,,7.5,13,Hyundai,Verna1.6
+3396,Hyundai Getz GVS,Mumbai,2005,90000,Petrol,Manual,Second,15.3 kmpl,1341 CC,61 bhp,5,,1.8,20,Hyundai,GetzGVS
+3402,Hyundai i20 Sportz Option Diesel,Hyderabad,2012,42600,Diesel,Manual,First,23.0 kmpl,1396 CC,90 bhp,5,,4.99,13,Hyundai,i20Sportz
+3413,Hyundai i20 Sportz Option,Mumbai,2014,17858,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,5.32,11,Hyundai,i20Sportz
+3414,Hyundai i10 Sportz,Hyderabad,2012,53000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,3.2,13,Hyundai,i10Sportz
+3416,Hyundai EON Magna Plus,Hyderabad,2015,19000,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,3.0,10,Hyundai,EONMagna
+3422,Hyundai Santro Xing GLS,Hyderabad,2008,80931,Petrol,Manual,First,17.92 kmpl,1086 CC,62.1 bhp,5,,2.3,17,Hyundai,SantroXing
+3431,Hyundai i20 Asta 1.4 CRDi,Jaipur,2013,129000,Diesel,Manual,Third,21.27 kmpl,1396 CC,88.76 bhp,5,,4.11,12,Hyundai,i20Asta
+3437,Hyundai Getz GLS,Hyderabad,2006,63181,Petrol,Manual,First,15.3 kmpl,1341 CC,83 bhp,5,,1.85,19,Hyundai,GetzGLS
+3442,Hyundai Elite i20 Petrol Sportz,Delhi,2016,13460,Petrol,Manual,First,18.6 kmpl,1197 CC,81.86 bhp,5,,6.45,9,Hyundai,Elitei20
+3447,Hyundai Elite i20 Petrol Sportz,Jaipur,2016,30292,Petrol,Manual,First,18.6 kmpl,1197 CC,81.86 bhp,5,,6.1,9,Hyundai,Elitei20
+3451,Hyundai Grand i10 1.2 Kappa Asta,Bangalore,2014,61325,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,8.1 Lakh,4.4,11,Hyundai,Grandi10
+3459,Hyundai i10 Sportz,Chennai,2010,26966,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,3.0,15,Hyundai,i10Sportz
+3466,Hyundai i20 1.2 Asta Option,Hyderabad,2017,12000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,7.75,8,Hyundai,i201.2
+3468,Hyundai Grand i10 Magna,Kochi,2014,48031,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,4.98,11,Hyundai,Grandi10
+3476,Hyundai i10 Magna AT,Hyderabad,2009,50902,Petrol,Automatic,First,19.2 kmpl,1197 CC,80 bhp,5,,3.0,16,Hyundai,i10Magna
+3478,Hyundai Elantra CRDi SX,Mumbai,2013,40000,Diesel,Manual,Second,22.7 kmpl,1582 CC,126.24 bhp,5,,6.95,12,Hyundai,ElantraCRDi
+3480,Hyundai Grand i10 1.2 Kappa Sportz,Coimbatore,2014,33496,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,7.45 Lakh,5.5,11,Hyundai,Grandi10
+3481,Hyundai i20 Asta Option 1.2,Mumbai,2015,25000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,5.65,10,Hyundai,i20Asta
+3484,Hyundai Creta 1.6 CRDi SX,Pune,2016,42244,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,12.0,9,Hyundai,Creta1.6
+3487,Hyundai i20 Sportz Option 1.2,Coimbatore,2016,44238,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,6.72,9,Hyundai,i20Sportz
+3493,Hyundai Sonata Transform 2.4 GDi AT,Kolkata,2013,41000,Petrol,Automatic,First,12.37 kmpl,2359 CC,198.25 bhp,5,,6.0,12,Hyundai,SonataTransform
+3494,Hyundai Verna 1.6 SX,Hyderabad,2012,83678,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,5.5,13,Hyundai,Verna1.6
+3497,Hyundai Xcent 1.1 CRDi S Option,Delhi,2015,58000,Diesel,Manual,First,24.4 kmpl,1120 CC,71.01 bhp,5,,4.95,10,Hyundai,Xcent1.1
+3502,Hyundai i20 Asta 1.4 CRDi,Pune,2015,54339,Diesel,Manual,Second,22.54 kmpl,1396 CC,88.73 bhp,5,,6.0,10,Hyundai,i20Asta
+3509,Hyundai i20 Asta Option 1.4 CRDi,Coimbatore,2017,24153,Diesel,Manual,Second,22.54 kmpl,1396 CC,88.73 bhp,5,,9.18,8,Hyundai,i20Asta
+3510,Hyundai Creta 1.6 SX Plus Petrol Automatic,Mumbai,2016,27000,Petrol,Automatic,First,13.0 kmpl,1591 CC,121.3 bhp,5,,11.45,9,Hyundai,Creta1.6
+3516,Hyundai Santro GLS I - Euro I,Pune,2011,65400,Petrol,Manual,First,0.0 kmpl,1086 CC,null bhp,5,,2.1,14,Hyundai,SantroGLS
+3527,Hyundai Verna 1.4 EX,Hyderabad,2012,93000,Diesel,Manual,First,23.5 kmpl,1396 CC,88.7 bhp,5,,5.55,13,Hyundai,Verna1.4
+3531,Hyundai Grand i10 Asta Option AT,Coimbatore,2017,27417,Petrol,Automatic,First,18.9 kmpl,1197 CC,82 bhp,5,,6.89,8,Hyundai,Grandi10
+3541,Hyundai i20 Magna Optional 1.2,Kochi,2014,44525,Petrol,Manual,First,18.5 kmpl,1197 CC,82.9 bhp,5,,4.65,11,Hyundai,i20Magna
+3552,Hyundai Grand i10 1.2 CRDi Sportz,Chennai,2018,48000,Diesel,Manual,First,24.0 kmpl,1186 CC,73.97 bhp,5,8.28 Lakh,5.95,7,Hyundai,Grandi10
+3554,Hyundai Verna 1.4 CX VTVT,Kolkata,2014,19000,Petrol,Manual,First,17.43 kmpl,1396 CC,105.5 bhp,5,,5.25,11,Hyundai,Verna1.4
+3566,Hyundai i10 Asta Sunroof AT,Hyderabad,2013,89000,Petrol,Automatic,First,19.2 kmpl,1197 CC,80 bhp,5,,4.19,12,Hyundai,i10Asta
+3577,Hyundai Elantra CRDi SX AT,Delhi,2013,71000,Diesel,Automatic,First,22.7 kmpl,1582 CC,126.2 bhp,5,,6.8,12,Hyundai,ElantraCRDi
+3583,Hyundai Verna 1.6 SX VTVT,Mumbai,2011,58000,Petrol,Manual,Second,17.01 kmpl,1591 CC,121.3 bhp,5,,4.0,14,Hyundai,Verna1.6
+3585,Hyundai Sonata Embera 2.0L CRDi AT,Hyderabad,2009,94000,Diesel,Automatic,First,11.4 kmpl,1991 CC,142 bhp,5,,5.25,16,Hyundai,SonataEmbera
+3588,Hyundai EON Era Plus,Jaipur,2013,70000,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,1.8,12,Hyundai,EONEra
+3597,Hyundai Grand i10 CRDi Sportz,Delhi,2013,63210,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,3.71,12,Hyundai,Grandi10
+3598,Hyundai Xcent 1.2 VTVT E Plus,Pune,2018,31000,Petrol,Manual,First,20.14 kmpl,1197 CC,81.86 bhp,5,,5.0,7,Hyundai,Xcent1.2
+3599,Hyundai i10 Era,Ahmedabad,2008,60000,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,1.99,17,Hyundai,i10Era
+3602,Hyundai i10 Magna 1.2 iTech SE,Mumbai,2011,9489,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.95,14,Hyundai,i10Magna
+3610,Hyundai Creta 1.4 E Plus Diesel,Mumbai,2017,35000,Diesel,Manual,First,21.38 kmpl,1396 CC,88.7 bhp,5,,9.9,8,Hyundai,Creta1.4
+3617,Hyundai i20 1.2 Spotz,Coimbatore,2018,20632,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,7.58,7,Hyundai,i201.2
+3618,Hyundai Grand i10 CRDi Magna,Hyderabad,2014,73042,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,3.99,11,Hyundai,Grandi10
+3622,Hyundai Santa Fe 4WD AT,Coimbatore,2016,28881,Diesel,Automatic,First,13.01 kmpl,2199 CC,194.3 bhp,7,,21.37,9,Hyundai,SantaFe
+3625,Hyundai Verna 1.4 CRDi GL,Kolkata,2012,38000,Diesel,Manual,First,24.8 kmpl,1396 CC,88.7 bhp,5,,4.1,13,Hyundai,Verna1.4
+3629,Hyundai Verna 1.6 CRDi S,Delhi,2015,57000,Diesel,Manual,First,23.9 kmpl,1582 CC,126.2 bhp,5,,6.6,10,Hyundai,Verna1.6
+3630,Hyundai Creta 1.6 SX Plus Petrol Automatic,Coimbatore,2018,32434,Petrol,Automatic,First,13.0 kmpl,1591 CC,121.3 bhp,5,,14.35,7,Hyundai,Creta1.6
+3635,Hyundai Verna VTVT 1.6 AT EX,Pune,2013,37086,Petrol,Automatic,First,17.0 kmpl,1591 CC,121.3 bhp,5,,5.44,12,Hyundai,VernaVTVT
+3639,Hyundai i20 2015-2017 Sportz AT 1.4,Pune,2012,56200,Petrol,Automatic,First,15.0 kmpl,1396 CC,98.6 bhp,5,,3.85,13,Hyundai,i202015-2017
+3643,Hyundai Verna Transform VTVT,Hyderabad,2011,51500,Petrol,Manual,Second,16.2 kmpl,1599 CC,103.2 bhp,5,,2.6,14,Hyundai,VernaTransform
+3645,Hyundai Santro Xing XP,Bangalore,2004,167000,Petrol,Manual,First,0.0 kmpl,1086 CC,null bhp,5,,1.35,21,Hyundai,SantroXing
+3647,Hyundai Xcent 1.2 CRDi E Plus,Jaipur,2017,60500,Diesel,Manual,First,25.4 kmpl,1186 CC,73.97 bhp,5,,5.49,8,Hyundai,Xcent1.2
+3655,Hyundai Elantra CRDi SX AT,Ahmedabad,2016,22000,Diesel,Automatic,First,19.5 kmpl,1582 CC,126.24 bhp,5,,16.0,9,Hyundai,ElantraCRDi
+3657,Hyundai i20 1.2 Spotz,Mumbai,2017,3900,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,6.45,8,Hyundai,i201.2
+3658,Hyundai Xcent 1.1 CRDi Base,Hyderabad,2016,106092,Diesel,Manual,First,24.4 kmpl,1120 CC,71 bhp,5,,4.4,9,Hyundai,Xcent1.1
+3663,Hyundai Xcent 1.1 CRDi Base,Pune,2017,73000,Diesel,Manual,First,24.4 kmpl,1120 CC,71 bhp,5,,4.5,8,Hyundai,Xcent1.1
+3668,Hyundai i10 Sportz 1.2,Bangalore,2010,29000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,3.45,15,Hyundai,i10Sportz
+3669,Hyundai Santro Xing XO,Hyderabad,2007,57309,Petrol,Manual,First,17.0 kmpl,1086 CC,null bhp,5,,2.1,18,Hyundai,SantroXing
+3678,Hyundai Xcent 1.2 Kappa S,Chennai,2014,51000,Petrol,Manual,First,19.1 kmpl,1197 CC,82 bhp,5,,3.85,11,Hyundai,Xcent1.2
+3691,Hyundai Grand i10 Sportz,Pune,2016,13436,Petrol,Manual,Second,18.9 kmpl,1197 CC,82 bhp,5,,4.7,9,Hyundai,Grandi10
+3693,Hyundai Xcent 1.1 CRDi S,Mumbai,2016,63141,Diesel,Manual,Second,24.4 kmpl,1120 CC,71 bhp,5,,4.5,9,Hyundai,Xcent1.1
+3704,Hyundai Verna SX CRDi AT,Delhi,2013,51000,Diesel,Automatic,First,19.08 kmpl,1582 CC,126.32 bhp,5,,5.64,12,Hyundai,VernaSX
+3708,Hyundai Creta 1.6 CRDi AT SX Plus,Hyderabad,2016,33000,Diesel,Automatic,First,17.01 kmpl,1582 CC,126.2 bhp,5,,14.5,9,Hyundai,Creta1.6
+3729,Hyundai i20 Sportz Option Diesel,Kochi,2013,67914,Diesel,Manual,First,23.0 kmpl,1396 CC,90 bhp,5,,3.45,12,Hyundai,i20Sportz
+3734,Hyundai i10 Sportz AT,Delhi,2012,62282,Petrol,Automatic,First,16.95 kmpl,1197 CC,78.9 bhp,5,,2.9,13,Hyundai,i10Sportz
+3736,Hyundai Grand i10 Sportz,Kochi,2018,43698,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,5.8,7,Hyundai,Grandi10
+3737,Hyundai Grand i10 Asta Option AT,Coimbatore,2017,28052,Petrol,Automatic,First,18.9 kmpl,1197 CC,82 bhp,5,,7.22,8,Hyundai,Grandi10
+3738,Hyundai Grand i10 1.2 Kappa Sportz,Coimbatore,2016,29091,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,6.82 Lakh,4.87,9,Hyundai,Grandi10
+3743,Hyundai Verna 1.6 SX VTVT AT,Bangalore,2014,45000,Petrol,Automatic,First,15.74 kmpl,1591 CC,121.3 bhp,5,,7.5,11,Hyundai,Verna1.6
+3748,Hyundai i20 1.2 Spotz,Kochi,2017,51612,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,7.11,8,Hyundai,i201.2
+3753,Hyundai Grand i10 CRDi Magna,Mumbai,2013,71904,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,4.61,12,Hyundai,Grandi10
+3755,Hyundai Grand i10 CRDi Magna,Chennai,2014,33000,Diesel,Manual,Second,24.0 kmpl,1120 CC,70 bhp,5,,4.05,11,Hyundai,Grandi10
+3758,Hyundai i20 Magna 1.4 CRDi,Delhi,2015,44000,Diesel,Manual,First,22.54 kmpl,1396 CC,88.73 bhp,5,,5.35,10,Hyundai,i20Magna
+3768,Hyundai i20 2015-2017 1.2 Magna,Pune,2012,39000,Petrol,Manual,First,18.5 kmpl,1197 CC,80 bhp,5,,2.75,13,Hyundai,i202015-2017
+3773,Hyundai Grand i10 AT Asta,Chennai,2015,15000,Petrol,Automatic,First,18.9 kmpl,1197 CC,82 bhp,5,,5.5,10,Hyundai,Grandi10
+3775,Hyundai Xcent 1.2 Kappa S,Jaipur,2014,12500,Petrol,Manual,First,19.1 kmpl,1197 CC,82 bhp,5,,4.15,11,Hyundai,Xcent1.2
+3776,Hyundai Verna 1.6 SX CRDi (O),Ahmedabad,2012,52000,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,6.5,13,Hyundai,Verna1.6
+3778,Hyundai Verna CRDi,Hyderabad,2008,90000,Diesel,Manual,Second,16.8 kmpl,1493 CC,110 bhp,5,,2.25,17,Hyundai,VernaCRDi
+3785,Hyundai Creta 1.4 CRDi S,Delhi,2016,42784,Diesel,Manual,First,21.38 kmpl,1396 CC,88.7 bhp,5,,10.17,9,Hyundai,Creta1.4
+3787,Hyundai Verna 1.6 CRDI SX Option,Kochi,2019,30529,Diesel,Manual,First,23.9 kmpl,1582 CC,126.2 bhp,5,,14.28,6,Hyundai,Verna1.6
+3790,Hyundai EON Era,Hyderabad,2011,68128,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,2.3,14,Hyundai,EONEra
+3792,Hyundai EON Era,Hyderabad,2016,30000,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,3.25,9,Hyundai,EONEra
+3801,Hyundai i10 Sportz 1.2,Hyderabad,2013,59000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,3.45,12,Hyundai,i10Sportz
+3802,Hyundai Grand i10 Asta Option,Mumbai,2017,13000,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,5.15,8,Hyundai,Grandi10
+3804,Hyundai i20 Magna 1.4 CRDi (Diesel),Kolkata,2015,45000,Diesel,Manual,First,21.9 kmpl,1396 CC,88.76 bhp,5,,3.45,10,Hyundai,i20Magna
+3813,Hyundai Grand i10 Sportz,Mumbai,2013,26000,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,3.75,12,Hyundai,Grandi10
+3817,Hyundai i20 1.2 Spotz,Chennai,2017,5000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,6.95,8,Hyundai,i201.2
+3826,Hyundai i20 Magna,Kolkata,2010,38000,Petrol,Manual,First,18.5 kmpl,1197 CC,80 bhp,5,,2.23,15,Hyundai,i20Magna
+3827,Hyundai Xcent 1.2 Kappa SX Option,Bangalore,2016,50000,Petrol,Manual,First,19.1 kmpl,1197 CC,82 bhp,5,,2.5,9,Hyundai,Xcent1.2
+3832,Hyundai Santro Xing GLS,Chennai,2010,115000,Petrol,Manual,Second,17.92 kmpl,1086 CC,62.1 bhp,5,,1.5,15,Hyundai,SantroXing
+3833,Hyundai Verna 1.6 SX VTVT,Pune,2013,41500,Petrol,Manual,Second,17.01 kmpl,1591 CC,121.3 bhp,5,,5.0,12,Hyundai,Verna1.6
+3841,Hyundai Verna VTVT 1.6 SX,Kolkata,2018,5000,Petrol,Manual,First,17.0 kmpl,1591 CC,121.3 bhp,5,11.19 Lakh,8.7,7,Hyundai,VernaVTVT
+3843,Hyundai Accent GLE,Mumbai,2010,32773,Petrol,Manual,First,13.2 kmpl,1495 CC,94 bhp,5,,2.05,15,Hyundai,AccentGLE
+3844,Hyundai i20 1.2 Sportz,Kolkata,2016,19008,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,5.25,9,Hyundai,i201.2
+3845,Hyundai Verna VTVT 1.6 SX,Kochi,2012,32542,Petrol,Manual,First,17.0 kmpl,1591 CC,121.3 bhp,5,11.67 Lakh,5.77,13,Hyundai,VernaVTVT
+3849,Hyundai i20 1.2 Sportz,Ahmedabad,2011,72000,Petrol,Manual,Second,17.0 kmpl,1197 CC,80 bhp,5,,3.25,14,Hyundai,i201.2
+3854,Hyundai Sonata GOLD,Chennai,2003,44200,Petrol,Manual,Second,11.7 kmpl,1997 CC,134 bhp,5,,1.5,22,Hyundai,SonataGOLD
+3857,Hyundai i10 Sportz 1.1L,Kolkata,2016,7200,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,3.59,9,Hyundai,i10Sportz
+3860,Hyundai Grand i10 Sportz,Coimbatore,2017,23540,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,6.02,8,Hyundai,Grandi10
+3866,Hyundai i20 Sportz 1.2,Kolkata,2015,35000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,4.43,10,Hyundai,i20Sportz
+3868,Hyundai EON Magna,Ahmedabad,2014,47000,Petrol,Manual,First,22.0 kmpl,814 CC,55 bhp,5,,2.65,11,Hyundai,EONMagna
+3892,Hyundai Grand i10 AT Asta,Coimbatore,2015,69053,Petrol,Automatic,First,18.9 kmpl,1197 CC,82 bhp,5,,5.72,10,Hyundai,Grandi10
+3906,Hyundai Grand i10 CRDi Sportz,Kolkata,2014,43068,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,3.5,11,Hyundai,Grandi10
+3908,Hyundai i10 Magna,Coimbatore,2011,50436,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,3.65,14,Hyundai,i10Magna
+3909,Hyundai Grand i10 AT Asta,Bangalore,2014,21000,Petrol,Automatic,First,18.9 kmpl,1197 CC,82 bhp,5,,5.4,11,Hyundai,Grandi10
+3917,Hyundai Elantra CRDi SX,Kolkata,2014,45000,Diesel,Manual,First,22.7 kmpl,1582 CC,126.24 bhp,5,,7.0,11,Hyundai,ElantraCRDi
+3922,Hyundai Santro Xing GL Plus,Pune,2012,79000,Petrol,Manual,Second,17.92 kmpl,1086 CC,62.1 bhp,5,,1.6,13,Hyundai,SantroXing
+3923,Hyundai Accent GLE,Hyderabad,2004,110000,Petrol,Manual,First,13.2 kmpl,1495 CC,94 bhp,5,,0.6,21,Hyundai,AccentGLE
+3924,Hyundai EON D Lite Plus,Coimbatore,2014,45407,Petrol,Manual,Second,21.1 kmpl,814 CC,55.2 bhp,5,,3.39,11,Hyundai,EOND
+3958,Hyundai i10 Magna AT,Coimbatore,2011,50058,Petrol,Automatic,First,19.2 kmpl,1197 CC,80 bhp,5,,3.84,14,Hyundai,i10Magna
+3960,Hyundai Creta 1.4 E Plus Diesel,Kochi,2018,41641,Diesel,Manual,First,21.38 kmpl,1396 CC,88.7 bhp,5,,10.82,7,Hyundai,Creta1.4
+3967,Hyundai i20 1.2 Magna Executive,Mumbai,2018,17000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,6.5,7,Hyundai,i201.2
+3971,Hyundai i20 Asta,Chennai,2011,24000,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,4.25,14,Hyundai,i20Asta
+3979,Hyundai Grand i10 Asta,Kolkata,2015,15305,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,3.75,10,Hyundai,Grandi10
+3983,Hyundai Verna 1.6 VTVT AT SX,Kochi,2018,33858,Petrol,Automatic,First,17.01 kmpl,1591 CC,121.3 bhp,5,,9.03,7,Hyundai,Verna1.6
+3995,Hyundai i20 1.2 Sportz,Pune,2011,54000,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,3.2,14,Hyundai,i201.2
+3997,Hyundai i20 Active 1.4 SX Dual Tone,Kolkata,2015,27000,Diesel,Manual,First,21.19 kmpl,1396 CC,88.73 bhp,5,,5.99,10,Hyundai,i20Active
+4002,Hyundai i20 Sportz 1.4 CRDi,Bangalore,2013,60000,Diesel,Manual,First,21.9 kmpl,1396 CC,88.76 bhp,5,,5.45,12,Hyundai,i20Sportz
+4004,Hyundai Verna 1.6 SX VTVT (O) AT,Mumbai,2013,44000,Petrol,Automatic,First,17.1 kmpl,1591 CC,121.4 bhp,5,,5.6,12,Hyundai,Verna1.6
+4006,Hyundai i20 Asta Optional with Sunroof 1.2,Mumbai,2012,50000,Petrol,Manual,First,18.5 kmpl,1197 CC,82.85 bhp,5,,3.7,13,Hyundai,i20Asta
+4008,Hyundai i20 Sportz 1.4 CRDi,Kolkata,2013,25500,Diesel,Manual,First,21.9 kmpl,1396 CC,88.76 bhp,5,,3.55,12,Hyundai,i20Sportz
+4019,Hyundai i20 Sportz 1.4 CRDi,Jaipur,2013,70933,Diesel,Manual,Second,21.9 kmpl,1396 CC,88.76 bhp,5,,3.9,12,Hyundai,i20Sportz
+4023,Hyundai Verna 1.6 SX CRDi (O),Kolkata,2014,58000,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,5.75,11,Hyundai,Verna1.6
+4027,Hyundai Creta 1.6 SX Plus Petrol Automatic,Coimbatore,2017,21363,Petrol,Automatic,First,13.0 kmpl,1591 CC,121.3 bhp,5,,13.49,8,Hyundai,Creta1.6
+4032,Hyundai Grand i10 CRDi Magna,Delhi,2014,42000,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,3.5,11,Hyundai,Grandi10
+4034,Hyundai Creta 1.6 SX Automatic Diesel,Kolkata,2018,14000,Diesel,Automatic,First,17.6 kmpl,1582 CC,126.2 bhp,5,17 Lakh,11.25,7,Hyundai,Creta1.6
+4054,Hyundai i20 Sportz 1.4 CRDi,Delhi,2017,25500,Diesel,Manual,First,22.54 kmpl,1396 CC,88.73 bhp,5,,7.0,8,Hyundai,i20Sportz
+4056,Hyundai Creta 1.6 CRDi SX Option,Ahmedabad,2015,61786,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,10.5,10,Hyundai,Creta1.6
+4072,Hyundai i20 Sportz 1.2,Mumbai,2016,6000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,5.95,9,Hyundai,i20Sportz
+4075,Hyundai i10 Sportz 1.1L,Mumbai,2011,15590,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,2.25,14,Hyundai,i10Sportz
+4076,Hyundai i20 1.2 Sportz Option,Kochi,2016,69681,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,6.13,9,Hyundai,i201.2
+4081,Hyundai i10 Sportz 1.2 AT,Pune,2013,15200,Petrol,Automatic,Second,16.95 kmpl,1197 CC,78.9 bhp,5,,3.85,12,Hyundai,i10Sportz
+4084,Hyundai i20 Sportz 1.4 CRDi,Ahmedabad,2016,74000,Diesel,Manual,First,21.9 kmpl,1396 CC,88.76 bhp,5,,6.5,9,Hyundai,i20Sportz
+4090,Hyundai Verna 1.6 CRDi SX,Delhi,2015,62542,Diesel,Manual,Second,23.9 kmpl,1582 CC,126.2 bhp,5,,6.5,10,Hyundai,Verna1.6
+4097,Hyundai i20 Asta 1.2,Coimbatore,2016,40310,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,7.09,9,Hyundai,i20Asta
+4099,Hyundai Grand i10 1.2 Kappa Asta,Delhi,2018,10000,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,7.54 Lakh,6.5,7,Hyundai,Grandi10
+4111,Hyundai EON D Lite Plus Option,Mumbai,2016,25350,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,2.55,9,Hyundai,EOND
+4113,Hyundai Verna 1.6 SX VTVT,Bangalore,2014,45000,Petrol,Manual,Second,17.01 kmpl,1591 CC,121.3 bhp,5,,6.75,11,Hyundai,Verna1.6
+4122,Hyundai Creta 1.6 CRDi SX Option,Kochi,2017,44887,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,12.13,8,Hyundai,Creta1.6
+4130,Hyundai Creta 1.6 SX Plus Dual Tone Petrol,Coimbatore,2017,15731,Petrol,Manual,First,15.29 kmpl,1591 CC,121.3 bhp,5,,12.49,8,Hyundai,Creta1.6
+4133,Hyundai i20 1.2 Asta with AVN,Coimbatore,2015,20045,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,6.22,10,Hyundai,i201.2
+4137,Hyundai i10 Magna 1.2 iTech SE,Kolkata,2012,31000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.25,13,Hyundai,i10Magna
+4140,Hyundai EON D Lite Plus,Ahmedabad,2015,20000,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,2.66,10,Hyundai,EOND
+4145,Hyundai Creta 1.6 VTVT S,Pune,2016,26000,Petrol,Manual,First,15.29 kmpl,1591 CC,121.3 bhp,5,,12.5,9,Hyundai,Creta1.6
+4150,Hyundai i10 Magna 1.2,Jaipur,2011,40496,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.65,14,Hyundai,i10Magna
+4158,Hyundai Creta 1.6 VTVT S,Hyderabad,2015,48200,Petrol,Manual,First,15.29 kmpl,1591 CC,121.3 bhp,5,,9.0,10,Hyundai,Creta1.6
+4162,Hyundai EON Era Plus,Hyderabad,2012,60500,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,2.6,13,Hyundai,EONEra
+4164,Hyundai Creta 1.6 SX Option,Kochi,2017,47183,Petrol,Manual,Second,15.8 kmpl,1591 CC,121.3 bhp,5,15.86 Lakh,11.31,8,Hyundai,Creta1.6
+4171,Hyundai Elantra CRDi SX,Kolkata,2013,42000,Diesel,Manual,First,22.7 kmpl,1582 CC,126.24 bhp,5,,5.85,12,Hyundai,ElantraCRDi
+4176,Hyundai i10 Magna 1.1,Ahmedabad,2013,49000,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,3.2,12,Hyundai,i10Magna
+4177,Hyundai Verna 1.6 SX,Hyderabad,2012,65254,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,6.55,13,Hyundai,Verna1.6
+4178,Hyundai Verna 1.6 SX,Bangalore,2014,95000,Diesel,Manual,Second,22.32 kmpl,1582 CC,126.32 bhp,5,,6.9,11,Hyundai,Verna1.6
+4180,Hyundai Creta 1.6 SX Option Diesel,Coimbatore,2017,101065,Diesel,Manual,First,20.5 kmpl,1582 CC,126.2 bhp,5,19.18 Lakh,11.45,8,Hyundai,Creta1.6
+4182,Hyundai Verna 1.6 CRDI,Jaipur,2011,72000,Diesel,Manual,First,22.32 kmpl,1582 CC,126.3 bhp,5,,5.0,14,Hyundai,Verna1.6
+4184,Hyundai i20 1.2 Magna,Kolkata,2010,45000,Petrol,Manual,First,18.5 kmpl,1197 CC,80 bhp,5,,1.9,15,Hyundai,i201.2
+4189,Hyundai Xcent 1.2 Kappa AT S Option,Ahmedabad,2014,69000,Petrol,Automatic,First,16.9 kmpl,1197 CC,81.86 bhp,5,,5.25,11,Hyundai,Xcent1.2
+4192,Hyundai i10 Magna 1.1,Delhi,2013,53213,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,2.74,12,Hyundai,i10Magna
+4195,Hyundai i10 Era,Jaipur,2009,57000,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,2.25,16,Hyundai,i10Era
+4215,Hyundai Santro Xing GL Plus,Delhi,2012,53000,Petrol,Manual,First,17.92 kmpl,1086 CC,62.1 bhp,5,,2.35,13,Hyundai,SantroXing
+4220,Hyundai Verna VTVT 1.6 SX,Bangalore,2014,46676,Petrol,Manual,First,17.0 kmpl,1591 CC,121.3 bhp,5,12.27 Lakh,7.75,11,Hyundai,VernaVTVT
+4230,Hyundai i10 Asta,Kolkata,2011,43000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.49,14,Hyundai,i10Asta
+4252,Hyundai EON Era Plus,Coimbatore,2015,34063,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,4.01,10,Hyundai,EONEra
+4258,Hyundai i10 Magna 1.2,Kolkata,2011,38002,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.15,14,Hyundai,i10Magna
+4263,Hyundai Creta 1.6 SX Plus Dual Tone Petrol,Mumbai,2015,26000,Petrol,Manual,First,15.29 kmpl,1591 CC,121.3 bhp,5,,9.5,10,Hyundai,Creta1.6
+4266,Hyundai Xcent 1.2 Kappa S Option,Kochi,2016,36216,Petrol,Manual,First,19.1 kmpl,1197 CC,81.86 bhp,5,,5.44,9,Hyundai,Xcent1.2
+4283,Hyundai Verna 1.6 SX CRDI (O) AT,Pune,2014,57539,Diesel,Automatic,First,22.32 kmpl,1582 CC,126.32 bhp,5,,7.75,11,Hyundai,Verna1.6
+4285,Hyundai i20 Sportz Option,Delhi,2010,62489,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,2.6,15,Hyundai,i20Sportz
+4289,Hyundai Verna Transform Xxi ABS,Bangalore,2011,60000,Petrol,Manual,First,16.2 kmpl,1599 CC,103.2 bhp,5,,3.95,14,Hyundai,VernaTransform
+4290,Hyundai Accent GLE,Pune,2005,123200,Petrol,Manual,Second,13.2 kmpl,1495 CC,94 bhp,5,,1.0,20,Hyundai,AccentGLE
+4293,Hyundai i20 Sportz 1.2,Kochi,2015,40901,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,5.76,10,Hyundai,i20Sportz
+4294,Hyundai i10 Magna 1.2,Coimbatore,2013,36264,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,4.32,12,Hyundai,i10Magna
+4295,Hyundai i10 Magna 1.1L,Delhi,2009,60000,Petrol,Manual,Second,19.81 kmpl,1086 CC,68.05 bhp,5,,1.9,16,Hyundai,i10Magna
+4302,Hyundai Santro Xing GL,Delhi,2012,61449,Petrol,Manual,First,0.0 kmpl,1086 CC,62 bhp,5,,2.15,13,Hyundai,SantroXing
+4306,Hyundai i10 Era 1.1,Jaipur,2008,82203,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,1.8,17,Hyundai,i10Era
+4317,Hyundai i20 1.2 Magna,Kochi,2014,44612,Petrol,Manual,First,18.5 kmpl,1197 CC,80 bhp,5,,4.07,11,Hyundai,i201.2
+4332,Hyundai Grand i10 Asta Option AT,Mumbai,2016,15000,Petrol,Automatic,First,18.9 kmpl,1197 CC,82 bhp,5,,5.35,9,Hyundai,Grandi10
+4334,Hyundai Grand i10 1.2 Kappa Sportz,Coimbatore,2017,38712,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,7.45 Lakh,5.87,8,Hyundai,Grandi10
+4338,Hyundai i20 1.2 Magna,Bangalore,2010,52000,Petrol,Manual,First,18.5 kmpl,1197 CC,80 bhp,5,,3.65,15,Hyundai,i201.2
+4362,Hyundai EON Magna,Jaipur,2016,27886,Petrol,Manual,First,22.0 kmpl,814 CC,55 bhp,5,,2.85,9,Hyundai,EONMagna
+4372,Hyundai i20 Asta Option 1.4 CRDi,Coimbatore,2016,99362,Diesel,Manual,First,22.54 kmpl,1396 CC,88.73 bhp,5,,7.03,9,Hyundai,i20Asta
+4376,Hyundai Xcent 1.2 Kappa S,Kochi,2017,38932,Petrol,Manual,First,19.1 kmpl,1197 CC,82 bhp,5,,6.21,8,Hyundai,Xcent1.2
+4378,Hyundai Xcent 1.1 CRDi S,Mumbai,2016,29000,Diesel,Manual,First,24.4 kmpl,1120 CC,71 bhp,5,,5.95,9,Hyundai,Xcent1.1
+4383,Hyundai i10 Sportz,Hyderabad,2016,19947,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,4.5,9,Hyundai,i10Sportz
+4384,Hyundai i10 Sportz 1.2 AT,Chennai,2011,70816,Petrol,Automatic,First,16.95 kmpl,1197 CC,78.9 bhp,5,,3.1,14,Hyundai,i10Sportz
+4397,Hyundai Grand i10 Sportz,Coimbatore,2017,47774,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,6.04,8,Hyundai,Grandi10
+4414,Hyundai i20 Magna 1.2,Delhi,2015,21000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,4.9,10,Hyundai,i20Magna
+4422,Hyundai i10 Sportz,Pune,2014,90000,Petrol,Manual,Second,20.36 kmpl,1197 CC,78.9 bhp,5,,2.8,11,Hyundai,i10Sportz
+4431,Hyundai EON Era Plus,Kochi,2013,57759,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,3.84,12,Hyundai,EONEra
+4434,Hyundai i10 Asta,Mumbai,2015,75915,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,3.9,10,Hyundai,i10Asta
+4437,Hyundai Verna CRDi ABS,Chennai,2009,160000,Diesel,Manual,Second,18.1 kmpl,1493 CC,110 bhp,5,,3.5,16,Hyundai,VernaCRDi
+4439,Hyundai i20 Sportz 1.4 CRDi,Hyderabad,2015,72495,Diesel,Manual,First,21.9 kmpl,1396 CC,88.76 bhp,5,,7.0,10,Hyundai,i20Sportz
+4440,Hyundai Verna 1.6 CRDi AT S,Chennai,2016,33000,Diesel,Automatic,First,19.08 kmpl,1582 CC,126.2 bhp,5,,8.7,9,Hyundai,Verna1.6
+4444,Hyundai Grand i10 1.2 Kappa Magna,Kolkata,2018,4500,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,6.4 Lakh,4.8,7,Hyundai,Grandi10
+4447,Hyundai Grand i10 1.2 Kappa Asta,Kochi,2017,51223,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,7.48 Lakh,5.66,8,Hyundai,Grandi10
+4449,Hyundai Elite i20 Petrol Asta,Kochi,2016,56911,Petrol,Manual,First,18.6 kmpl,1197 CC,81.86 bhp,5,,6.54,9,Hyundai,Elitei20
+4461,Hyundai Elite i20 Petrol Asta,Kochi,2016,37540,Petrol,Manual,First,18.6 kmpl,1197 CC,81.86 bhp,5,,6.22,9,Hyundai,Elitei20
+4463,Hyundai Grand i10 1.2 Kappa Asta,Hyderabad,2017,22500,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,7.82 Lakh,5.99,8,Hyundai,Grandi10
+4464,Hyundai i20 1.2 Magna Executive,Delhi,2017,17431,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,6.0,8,Hyundai,i201.2
+4465,Hyundai Verna 1.6 SX VTVT (O),Delhi,2014,61566,Petrol,Manual,First,17.1 kmpl,1591 CC,121.3 bhp,5,,5.85,11,Hyundai,Verna1.6
+4475,Hyundai Verna 1.6 SX VTVT (O),Delhi,2013,52000,Petrol,Manual,First,17.1 kmpl,1591 CC,121.3 bhp,5,,5.25,12,Hyundai,Verna1.6
+4476,Hyundai Santa Fe 4x4 AT,Bangalore,2014,58000,Diesel,Automatic,First,11.72 kmpl,2199 CC,194.3 bhp,7,,17.0,11,Hyundai,SantaFe
+4477,Hyundai i10 Sportz AT,Ahmedabad,2012,58000,Petrol,Automatic,First,16.95 kmpl,1197 CC,78.9 bhp,5,,3.5,13,Hyundai,i10Sportz
+4479,Hyundai i10 Sportz,Coimbatore,2015,41008,Petrol,Manual,Second,20.36 kmpl,1197 CC,78.9 bhp,5,,4.87,10,Hyundai,i10Sportz
+4480,Hyundai Xcent 1.1 CRDi SX Option,Jaipur,2014,65000,Diesel,Manual,First,24.4 kmpl,1120 CC,71 bhp,5,,6.0,11,Hyundai,Xcent1.1
+4487,Hyundai Verna VTVT 1.6 SX Option,Kochi,2016,52378,Petrol,Manual,First,17.0 kmpl,1591 CC,121.3 bhp,5,13.6 Lakh,7.97,9,Hyundai,VernaVTVT
+4491,Hyundai i20 Magna Optional 1.2,Bangalore,2013,445000,Petrol,Manual,First,18.5 kmpl,1197 CC,82.9 bhp,5,,4.45,12,Hyundai,i20Magna
+4498,Hyundai i10 Sportz 1.2,Coimbatore,2014,47439,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,4.49,11,Hyundai,i10Sportz
+4514,Hyundai Xcent 1.2 Kappa AT SX Option,Kochi,2016,45560,Petrol,Automatic,First,16.9 kmpl,1197 CC,82 bhp,5,,6.34,9,Hyundai,Xcent1.2
+4521,Hyundai Elite i20 Petrol Asta,Kochi,2018,18553,Petrol,Manual,First,18.6 kmpl,1197 CC,81.86 bhp,5,,7.93,7,Hyundai,Elitei20
+4524,Hyundai Santa Fe 4X4,Bangalore,2011,148000,Diesel,Manual,Second,14.66 kmpl,2199 CC,194.3 bhp,7,,8.9,14,Hyundai,SantaFe
+4534,Hyundai i20 2015-2017 1.2 Asta with AVN,Pune,2010,50000,Petrol,Manual,Second,17.0 kmpl,1197 CC,80 bhp,5,,3.0,15,Hyundai,i202015-2017
+4546,Hyundai Verna CRDi SX,Hyderabad,2013,79663,Diesel,Manual,First,16.8 kmpl,1493 CC,110 bhp,5,,6.5,12,Hyundai,VernaCRDi
+4553,Hyundai Creta 1.6 SX Plus Petrol Automatic,Ahmedabad,2017,25000,Petrol,Automatic,First,13.0 kmpl,1591 CC,121.3 bhp,5,,12.75,8,Hyundai,Creta1.6
+4564,Hyundai Xcent 1.1 CRDi Base,Jaipur,2014,60000,Diesel,Manual,First,24.4 kmpl,1120 CC,71 bhp,5,,3.9,11,Hyundai,Xcent1.1
+4568,Hyundai i20 Asta 1.4 CRDi,Hyderabad,2012,80000,Diesel,Manual,First,21.27 kmpl,1396 CC,88.76 bhp,5,,4.5,13,Hyundai,i20Asta
+4572,Hyundai EON Magna Plus,Coimbatore,2015,26568,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,3.79,10,Hyundai,EONMagna
+4574,Hyundai Creta 1.6 CRDi SX Option,Bangalore,2016,51000,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,13.25,9,Hyundai,Creta1.6
+4582,Hyundai i20 1.2 Magna,Kolkata,2011,36000,Petrol,Manual,First,18.5 kmpl,1197 CC,80 bhp,5,,2.5,14,Hyundai,i201.2
+4583,Hyundai i10 Sportz 1.1L,Kolkata,2015,24350,Petrol,Manual,Second,19.81 kmpl,1086 CC,68.05 bhp,5,,3.0,10,Hyundai,i10Sportz
+4585,Hyundai EON Era,Kochi,2017,8243,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,3.21,8,Hyundai,EONEra
+4586,Hyundai Santro Xing GLS,Chennai,2009,136642,Petrol,Manual,Second,17.92 kmpl,1086 CC,62.1 bhp,5,,1.55,16,Hyundai,SantroXing
+4587,Hyundai Santro Xing GLS,Hyderabad,2011,60000,Petrol,Manual,First,17.92 kmpl,1086 CC,62.1 bhp,5,,2.59,14,Hyundai,SantroXing
+4594,Hyundai i20 Magna 1.2,Kochi,2017,14064,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,6.59,8,Hyundai,i20Magna
+4597,Hyundai i10 Era 1.1 iTech SE,Pune,2008,72672,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,1.9,17,Hyundai,i10Era
+4607,Hyundai i20 Magna,Jaipur,2013,59000,Petrol,Manual,Second,18.5 kmpl,1197 CC,80 bhp,5,,4.1,12,Hyundai,i20Magna
+4609,Hyundai Creta 1.6 CRDi SX Option,Coimbatore,2017,60083,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,13.78,8,Hyundai,Creta1.6
+4612,Hyundai Grand i10 1.2 CRDi Asta,Kochi,2015,81828,Diesel,Manual,First,24.0 kmpl,1186 CC,73.97 bhp,5,8.68 Lakh,5.43,10,Hyundai,Grandi10
+4616,Hyundai Grand i10 AT Asta,Ahmedabad,2015,46000,Petrol,Automatic,First,18.9 kmpl,1197 CC,82 bhp,5,,5.1,10,Hyundai,Grandi10
+4617,Hyundai Verna 1.6 SX CRDi (O),Hyderabad,2013,48158,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,6.7,12,Hyundai,Verna1.6
+4632,Hyundai Verna SX CRDi AT,Pune,2012,83000,Diesel,Automatic,First,19.08 kmpl,1582 CC,126.32 bhp,5,,6.0,13,Hyundai,VernaSX
+4635,Hyundai i20 Active 1.4 SX,Kochi,2018,37746,Diesel,Manual,First,21.19 kmpl,1396 CC,88.73 bhp,5,,7.59,7,Hyundai,i20Active
+4639,Hyundai EON D Lite Plus,Bangalore,2013,45010,Petrol,Manual,Second,21.1 kmpl,814 CC,55.2 bhp,5,,2.95,12,Hyundai,EOND
+4656,Hyundai Santro Xing GLS,Pune,2010,75000,Petrol,Manual,Second,17.92 kmpl,1086 CC,62.1 bhp,5,,1.7,15,Hyundai,SantroXing
+4660,Hyundai Santa Fe 2WD AT,Bangalore,2014,48000,Diesel,Automatic,First,13.01 kmpl,2199 CC,194.3 bhp,7,,16.25,11,Hyundai,SantaFe
+4667,Hyundai Grand i10 AT Asta,Coimbatore,2016,36139,Petrol,Automatic,Second,18.9 kmpl,1197 CC,82 bhp,5,,6.3,9,Hyundai,Grandi10
+4668,Hyundai Creta 1.6 CRDi SX,Delhi,2017,44000,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,12.5,8,Hyundai,Creta1.6
+4672,Hyundai Xcent 1.1 CRDi Base,Mumbai,2016,100000,Diesel,Manual,First,24.4 kmpl,1120 CC,71 bhp,5,,4.5,9,Hyundai,Xcent1.1
+4675,Hyundai i10 Magna,Mumbai,2010,55980,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.25,15,Hyundai,i10Magna
+4677,Hyundai i20 Sportz 1.4 CRDi,Pune,2012,49700,Diesel,Manual,Second,21.9 kmpl,1396 CC,88.76 bhp,5,,4.18,13,Hyundai,i20Sportz
+4678,Hyundai Verna 1.4 EX,Chennai,2013,79000,Diesel,Manual,First,23.5 kmpl,1396 CC,88.7 bhp,5,,6.5,12,Hyundai,Verna1.4
+4683,Hyundai Verna 1.6 CRDi AT SX,Kochi,2016,42876,Diesel,Automatic,First,19.08 kmpl,1582 CC,126.2 bhp,5,,9.31,9,Hyundai,Verna1.6
+4700,Hyundai i20 Sportz Petrol,Kochi,2011,62020,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,3.45,14,Hyundai,i20Sportz
+4702,Hyundai Elite i20 Petrol Sportz,Kochi,2018,14223,Petrol,Manual,First,18.6 kmpl,1197 CC,81.86 bhp,5,,7.32,7,Hyundai,Elitei20
+4707,Hyundai Grand i10 AT Asta,Hyderabad,2016,21000,Petrol,Automatic,First,18.9 kmpl,1197 CC,82 bhp,5,,6.2,9,Hyundai,Grandi10
+4710,Hyundai i20 Magna,Chennai,2010,95000,Petrol,Manual,Second,18.5 kmpl,1197 CC,80 bhp,5,,2.8,15,Hyundai,i20Magna
+4711,Hyundai Grand i10 AT Asta,Pune,2015,32000,Petrol,Automatic,First,18.9 kmpl,1197 CC,82 bhp,5,,4.8,10,Hyundai,Grandi10
+4717,Hyundai Xcent 1.2 Kappa Base,Ahmedabad,2015,23000,Petrol,Manual,First,19.1 kmpl,1197 CC,82 bhp,5,,4.9,10,Hyundai,Xcent1.2
+4720,Hyundai Accent GLE,Delhi,2012,56000,Petrol,Manual,First,13.2 kmpl,1495 CC,94 bhp,5,,2.45,13,Hyundai,AccentGLE
+4724,Hyundai Xcent 1.2 VTVT E,Pune,2018,40000,Petrol,Manual,First,20.14 kmpl,1197 CC,81.86 bhp,5,6.71 Lakh,5.0,7,Hyundai,Xcent1.2
+4728,Hyundai Verna VTVT 1.6 SX Option,Kochi,2019,12336,Petrol,Manual,First,17.0 kmpl,1591 CC,121.3 bhp,5,13.6 Lakh,11.88,6,Hyundai,VernaVTVT
+4729,Hyundai Verna Xi (Petrol),Chennai,2009,60000,Petrol,Manual,Third,13.9 kmpl,1599 CC,103.2 bhp,5,,2.25,16,Hyundai,VernaXi
+4736,Hyundai Xcent 1.2 Kappa AT SX Option,Mumbai,2015,41000,Petrol,Automatic,First,16.9 kmpl,1197 CC,82 bhp,5,,5.45,10,Hyundai,Xcent1.2
+4744,Hyundai Santro Xing XL eRLX Euro III,Kolkata,2005,45000,Petrol,Manual,First,17.0 kmpl,1086 CC,null bhp,5,,0.95,20,Hyundai,SantroXing
+4747,Hyundai i10 Era 1.1,Mumbai,2013,49000,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,2.75,12,Hyundai,i10Era
+4751,Hyundai Grand i10 1.2 Kappa Sportz Option,Pune,2017,15356,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,,4.75,8,Hyundai,Grandi10
+4762,Hyundai Creta 1.6 CRDi SX Option,Jaipur,2015,78046,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,10.9,10,Hyundai,Creta1.6
+4764,Hyundai EON D Lite Plus,Coimbatore,2016,64624,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,3.71,9,Hyundai,EOND
+4771,Hyundai Santa Fe 4X2,Jaipur,2013,74000,Diesel,Manual,First,14.66 kmpl,2199 CC,194.3 bhp,7,,12.25,12,Hyundai,SantaFe
+4773,Hyundai Elite i20 Sportz Plus,Kochi,2017,37460,Petrol,Manual,First,18.6 kmpl,1197 CC,81.86 bhp,5,8.03 Lakh,6.28,8,Hyundai,Elitei20
+4775,Hyundai Grand i10 Asta Option,Coimbatore,2017,31576,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,7.85,8,Hyundai,Grandi10
+4780,Hyundai Creta 1.6 SX Option Diesel,Bangalore,2016,93000,Diesel,Manual,First,20.5 kmpl,1582 CC,126.2 bhp,5,19.18 Lakh,10.8,9,Hyundai,Creta1.6
+4785,Hyundai Creta 1.6 SX Plus Diesel,Bangalore,2015,29000,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,13.0,10,Hyundai,Creta1.6
+4789,Hyundai Verna SX CRDi AT,Chennai,2012,41000,Diesel,Automatic,First,19.08 kmpl,1582 CC,126.32 bhp,5,,6.25,13,Hyundai,VernaSX
+4797,Hyundai i20 1.2 Asta,Chennai,2011,47000,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,4.5,14,Hyundai,i201.2
+4799,Hyundai Xcent 1.2 Kappa S,Coimbatore,2015,45960,Petrol,Manual,First,19.1 kmpl,1197 CC,82 bhp,5,,5.56,10,Hyundai,Xcent1.2
+4802,Hyundai i10 Magna,Mumbai,2011,41000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.65,14,Hyundai,i10Magna
+4803,Hyundai Verna 1.6 SX CRDi (O),Jaipur,2013,69573,Diesel,Manual,Second,22.32 kmpl,1582 CC,126.32 bhp,5,,5.85,12,Hyundai,Verna1.6
+4817,Hyundai Elantra CRDi SX,Coimbatore,2019,41871,Diesel,Manual,First,22.7 kmpl,1582 CC,126.2 bhp,5,,15.57,6,Hyundai,ElantraCRDi
+4825,Hyundai Creta 1.6 VTVT S,Bangalore,2016,40000,Petrol,Manual,First,15.29 kmpl,1591 CC,121.3 bhp,5,,11.5,9,Hyundai,Creta1.6
+4827,Hyundai Santa Fe 4X4,Coimbatore,2013,67901,Diesel,Manual,First,14.66 kmpl,2199 CC,194.3 bhp,7,,8.38,12,Hyundai,SantaFe
+4837,Hyundai EON Sportz,Kochi,2017,46897,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,3.61,8,Hyundai,EONSportz
+4857,Hyundai EON Era Plus,Jaipur,2015,54680,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,2.5,10,Hyundai,EONEra
+4863,Hyundai Santro D Lite,Chennai,2001,140000,Petrol,Manual,Third,20.3 kmpl,1086 CC,68 bhp,5,4.55 Lakh,0.7,24,Hyundai,SantroD
+4864,Hyundai Xcent 1.1 CRDi S,Kochi,2017,32257,Diesel,Manual,First,24.4 kmpl,1120 CC,71 bhp,5,,6.83,8,Hyundai,Xcent1.1
+4874,Hyundai Xcent 1.1 CRDi Base,Kolkata,2017,82000,Diesel,Manual,First,24.4 kmpl,1120 CC,71 bhp,5,,3.45,8,Hyundai,Xcent1.1
+4876,Hyundai i20 Sportz Option 1.2,Delhi,2015,36000,Petrol,Manual,Second,18.6 kmpl,1197 CC,81.83 bhp,5,,4.95,10,Hyundai,i20Sportz
+4878,Hyundai i20 Sportz 1.2,Coimbatore,2016,16725,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,6.79,9,Hyundai,i20Sportz
+4881,Hyundai i20 Sportz 1.4 CRDi,Bangalore,2012,68000,Diesel,Manual,First,21.9 kmpl,1396 CC,88.76 bhp,5,,4.4,13,Hyundai,i20Sportz
+4883,Hyundai i10 Sportz,Coimbatore,2014,31446,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,4.66,11,Hyundai,i10Sportz
+4884,Hyundai Grand i10 Asta,Chennai,2015,25000,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,5.5,10,Hyundai,Grandi10
+4885,Hyundai i20 Asta 1.2,Ahmedabad,2016,57000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,6.0,9,Hyundai,i20Asta
+4886,Hyundai Santro Xing XL AT eRLX Euro II,Hyderabad,2007,76000,Petrol,Automatic,First,17.0 kmpl,1086 CC,null bhp,5,,2.4,18,Hyundai,SantroXing
+4890,Hyundai i20 Sportz Diesel,Ahmedabad,2010,62000,Diesel,Manual,First,23.0 kmpl,1396 CC,90 bhp,5,,2.7,15,Hyundai,i20Sportz
+4891,Hyundai i10 Era,Coimbatore,2013,65807,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,3.39,12,Hyundai,i10Era
+4900,Hyundai Santro Xing XL AT eRLX Euro III,Hyderabad,2007,71000,Petrol,Automatic,First,17.0 kmpl,1086 CC,null bhp,5,,2.4,18,Hyundai,SantroXing
+4903,Hyundai EON Sportz,Coimbatore,2014,14799,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,4.14,11,Hyundai,EONSportz
+4905,Hyundai i20 1.4 CRDi Sportz,Hyderabad,2015,68525,Diesel,Manual,First,23.0 kmpl,1396 CC,90 bhp,5,,7.0,10,Hyundai,i201.4
+4912,Hyundai Creta 1.6 CRDi SX Option,Kochi,2016,52553,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,12.26,9,Hyundai,Creta1.6
+4913,Hyundai Xcent 1.1 CRDi SX,Mumbai,2014,58000,Diesel,Manual,Second,24.4 kmpl,1120 CC,71 bhp,5,,3.99,11,Hyundai,Xcent1.1
+4919,Hyundai Verna 1.6 SX VTVT (O),Kochi,2017,19387,Petrol,Manual,First,17.1 kmpl,1591 CC,121.3 bhp,5,,8.42,8,Hyundai,Verna1.6
+4921,Hyundai i20 Sportz 1.2,Mumbai,2016,24001,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,5.75,9,Hyundai,i20Sportz
+4926,Hyundai Creta 1.6 SX Option Executive,Coimbatore,2018,44383,Petrol,Manual,First,15.8 kmpl,1591 CC,121.3 bhp,5,17.7 Lakh,13.25,7,Hyundai,Creta1.6
+4929,Hyundai Creta 1.6 SX,Delhi,2016,69000,Petrol,Manual,First,15.8 kmpl,1591 CC,121.3 bhp,5,14.23 Lakh,9.7,9,Hyundai,Creta1.6
+4930,Hyundai Grand i10 CRDi Sportz,Coimbatore,2017,60993,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,5.21,8,Hyundai,Grandi10
+4932,Hyundai Grand i10 CRDi Sportz,Kochi,2014,51134,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,4.72,11,Hyundai,Grandi10
+4951,Hyundai i10 Sportz,Mumbai,2009,48000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.11,16,Hyundai,i10Sportz
+4973,Hyundai Verna CRDi 1.6 SX Option,Hyderabad,2008,109606,Diesel,Manual,First,22.0 kmpl,1582 CC,126.2 bhp,5,15.59 Lakh,2.9,17,Hyundai,VernaCRDi
+4984,Hyundai Creta 1.6 SX Option Diesel,Coimbatore,2019,24864,Diesel,Manual,First,20.5 kmpl,1582 CC,126.2 bhp,5,19.18 Lakh,16.27,6,Hyundai,Creta1.6
+5003,Hyundai i20 1.2 Magna,Mumbai,2010,57500,Petrol,Manual,First,18.5 kmpl,1197 CC,80 bhp,5,,2.75,15,Hyundai,i201.2
+5008,Hyundai Grand i10 CRDi SportZ Edition,Delhi,2014,58000,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,3.25,11,Hyundai,Grandi10
+5013,Hyundai Grand i10 CRDi Sportz,Jaipur,2016,57824,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,5.5,9,Hyundai,Grandi10
+5032,Hyundai i20 Active 1.4 SX,Hyderabad,2016,62679,Diesel,Manual,First,21.19 kmpl,1396 CC,88.73 bhp,5,,6.95,9,Hyundai,i20Active
+5037,Hyundai i10 Sportz 1.2,Kolkata,2015,18000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.85,10,Hyundai,i10Sportz
+5055,Hyundai EON Era Plus,Pune,2015,30158,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,3.05,10,Hyundai,EONEra
+5063,Hyundai Creta 1.6 SX Plus Petrol Automatic,Mumbai,2016,28000,Petrol,Automatic,First,13.0 kmpl,1591 CC,121.3 bhp,5,,11.85,9,Hyundai,Creta1.6
+5070,Hyundai i10 Magna AT,Kochi,2010,30566,Petrol,Automatic,First,19.2 kmpl,1197 CC,80 bhp,5,,3.32,15,Hyundai,i10Magna
+5071,Hyundai i10 Magna 1.2,Chennai,2012,55231,Petrol,Manual,Second,20.36 kmpl,1197 CC,78.9 bhp,5,,2.78,13,Hyundai,i10Magna
+5074,Hyundai Sonata 2.4 GDI,Ahmedabad,2013,45000,Petrol,Manual,First,11.7 kmpl,2359 CC,134 bhp,5,,7.9,12,Hyundai,Sonata2.4
+5079,Hyundai Elite i20 Asta Option,Coimbatore,2019,21134,Petrol,Manual,First,18.6 kmpl,1197 CC,81.86 bhp,5,9.78 Lakh,8.78,6,Hyundai,Elitei20
+5084,Hyundai Verna 1.6 SX,Kochi,2015,60519,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,6.24,10,Hyundai,Verna1.6
+5090,Hyundai Verna CRDi 1.6 SX Option,Mumbai,2013,79225,Diesel,Manual,First,22.0 kmpl,1582 CC,126.2 bhp,5,15.57 Lakh,5.5,12,Hyundai,VernaCRDi
+5093,Hyundai Verna 1.6 CRDi S,Chennai,2015,85000,Diesel,Manual,First,23.9 kmpl,1582 CC,126.2 bhp,5,,6.3,10,Hyundai,Verna1.6
+5109,Hyundai Grand i10 CRDi Magna,Delhi,2015,63776,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,3.96,10,Hyundai,Grandi10
+5110,Hyundai Elite i20 Petrol Asta,Mumbai,2015,28133,Petrol,Manual,First,18.6 kmpl,1197 CC,81.86 bhp,5,,5.6,10,Hyundai,Elitei20
+5112,Hyundai i20 Magna 1.4 CRDi,Jaipur,2015,55697,Diesel,Manual,First,22.54 kmpl,1396 CC,88.73 bhp,5,,5.5,10,Hyundai,i20Magna
+5119,Hyundai Santro Xing XP,Kolkata,2008,45500,Petrol,Manual,Second,0.0 kmpl,1086 CC,null bhp,5,,1.17,17,Hyundai,SantroXing
+5121,Hyundai i20 Magna,Mumbai,2010,58000,Petrol,Manual,Second,18.5 kmpl,1197 CC,80 bhp,5,,2.5,15,Hyundai,i20Magna
+5123,Hyundai Grand i10 Magna,Delhi,2014,31200,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,3.9,11,Hyundai,Grandi10
+5126,Hyundai EON Magna Plus,Chennai,2012,45000,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,2.5,13,Hyundai,EONMagna
+5131,Hyundai Verna 1.6 SX,Delhi,2011,67000,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,3.8,14,Hyundai,Verna1.6
+5138,Hyundai i20 Sportz 1.4 CRDi,Pune,2015,118211,Diesel,Manual,First,22.54 kmpl,1396 CC,88.73 bhp,5,,5.9,10,Hyundai,i20Sportz
+5144,Hyundai i10 Sportz,Mumbai,2015,20000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,3.75,10,Hyundai,i10Sportz
+5145,Hyundai Getz 1.3 GLS,Pune,2007,143000,Petrol,Manual,Second,14.2 kmpl,1341 CC,82.9 bhp,5,,1.1,18,Hyundai,Getz1.3
+5156,Hyundai i20 1.2 Spotz,Delhi,2016,32450,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,5.75,9,Hyundai,i201.2
+5160,Hyundai i20 Asta 1.2,Coimbatore,2015,35441,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,6.87,10,Hyundai,i20Asta
+5176,Hyundai EON D Lite Plus,Kochi,2016,29832,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,3.29,9,Hyundai,EOND
+5187,Hyundai Verna 1.6 SX VTVT AT,Mumbai,2014,48656,Petrol,Automatic,First,15.74 kmpl,1591 CC,121.3 bhp,5,,5.5,11,Hyundai,Verna1.6
+5188,Hyundai Verna CRDi 1.6 AT SX Plus,Bangalore,2012,79000,Diesel,Automatic,First,22.0 kmpl,1582 CC,126.2 bhp,5,16.6 Lakh,5.25,13,Hyundai,VernaCRDi
+5193,Hyundai Grand i10 CRDi Magna,Hyderabad,2014,79000,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,4.15,11,Hyundai,Grandi10
+5196,Hyundai i20 Asta 1.2,Kolkata,2015,41000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,4.75,10,Hyundai,i20Asta
+5220,Hyundai i20 Magna Optional 1.2,Coimbatore,2015,14925,Petrol,Manual,First,18.5 kmpl,1197 CC,82.9 bhp,5,,5.37,10,Hyundai,i20Magna
+5228,Hyundai Santro Xing XL eRLX Euro III,Pune,2005,126000,Petrol,Manual,Second,17.0 kmpl,1086 CC,null bhp,5,,1.2,20,Hyundai,SantroXing
+5231,Hyundai i20 Asta Optional with Sunroof 1.2,Kochi,2013,62132,Petrol,Manual,First,18.5 kmpl,1197 CC,82.85 bhp,5,,4.57,12,Hyundai,i20Asta
+5234,Hyundai i10 Era 1.1,Kolkata,2008,55410,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,1.65,17,Hyundai,i10Era
+5236,Hyundai Verna 1.6 SX CRDi (O),Chennai,2012,45000,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,6.25,13,Hyundai,Verna1.6
+5237,Hyundai Creta 1.6 SX Option,Kochi,2018,53322,Petrol,Manual,First,15.8 kmpl,1591 CC,121.3 bhp,5,16.06 Lakh,12.13,7,Hyundai,Creta1.6
+5243,Hyundai i10 Magna 1.2,Delhi,2010,62000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.4,15,Hyundai,i10Magna
+5244,Hyundai i20 1.2 Asta,Chennai,2014,41681,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,4.55,11,Hyundai,i201.2
+5250,Hyundai Verna XXi ABS (Petrol),Bangalore,2008,38000,Petrol,Manual,Second,13.9 kmpl,1599 CC,103.2 bhp,5,,2.6,17,Hyundai,VernaXXi
+5254,Hyundai Elantra 1.6 SX,Pune,2013,170000,Diesel,Manual,First,22.54 kmpl,1582 CC,126.2 bhp,5,20.87 Lakh,7.5,12,Hyundai,Elantra1.6
+5257,Hyundai Xcent 1.2 Kappa S,Kolkata,2016,146000,Petrol,Manual,Second,19.1 kmpl,1197 CC,82 bhp,5,,3.5,9,Hyundai,Xcent1.2
+5263,Hyundai i20 1.4 CRDi Magna,Kolkata,2013,60000,Diesel,Manual,First,21.9 kmpl,1396 CC,90 bhp,5,,2.95,12,Hyundai,i201.4
+5268,Hyundai i20 Asta,Mumbai,2009,28000,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,2.65,16,Hyundai,i20Asta
+5269,Hyundai Santa Fe 4X4,Ahmedabad,2012,58200,Diesel,Manual,First,14.66 kmpl,2199 CC,194.3 bhp,7,,7.5,13,Hyundai,SantaFe
+5272,Hyundai Creta 1.6 SX,Coimbatore,2018,17665,Petrol,Manual,First,15.8 kmpl,1591 CC,121.3 bhp,5,15.36 Lakh,11.78,7,Hyundai,Creta1.6
+5292,Hyundai i10 Magna,Kochi,2012,37333,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,3.22,13,Hyundai,i10Magna
+5293,Hyundai i20 1.2 Spotz,Kochi,2018,48407,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,7.65,7,Hyundai,i201.2
+5295,Hyundai i10 Sportz 1.2,Pune,2010,72400,Petrol,Manual,Second,20.36 kmpl,1197 CC,78.9 bhp,5,,2.3,15,Hyundai,i10Sportz
+5314,Hyundai Grand i10 1.2 CRDi Sportz,Kochi,2018,32663,Diesel,Manual,First,24.0 kmpl,1186 CC,73.97 bhp,5,8.18 Lakh,6.28,7,Hyundai,Grandi10
+5317,Hyundai EON Era Plus,Kochi,2015,43993,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,3.45,10,Hyundai,EONEra
+5322,Hyundai Grand i10 CRDi Sportz,Ahmedabad,2016,30000,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,5.5,9,Hyundai,Grandi10
+5324,Hyundai Grand i10 1.2 CRDi Sportz,Delhi,2015,59261,Diesel,Manual,First,24.0 kmpl,1186 CC,73.97 bhp,5,8.18 Lakh,4.25,10,Hyundai,Grandi10
+5326,Hyundai i20 1.2 Asta Option,Bangalore,2016,19000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,7.25,9,Hyundai,i201.2
+5330,Hyundai i10 Sportz 1.2 AT,Pune,2013,54534,Petrol,Automatic,First,16.95 kmpl,1197 CC,78.9 bhp,5,,3.65,12,Hyundai,i10Sportz
+5338,Hyundai i20 Sportz AT 1.4,Pune,2012,55000,Petrol,Automatic,Second,15.0 kmpl,1396 CC,98.6 bhp,5,,3.75,13,Hyundai,i20Sportz
+5339,Hyundai i20 Active SX Dual Tone Petrol,Pune,2019,1000,Petrol,Manual,First,17.19 kmpl,1197 CC,81.86 bhp,5,10.25 Lakh,8.6,6,Hyundai,i20Active
+5344,Hyundai i20 Magna 1.2,Bangalore,2015,53000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,5.5,10,Hyundai,i20Magna
+5345,Hyundai Creta 1.6 CRDi SX,Hyderabad,2017,50129,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,13.3,8,Hyundai,Creta1.6
+5349,Hyundai i10 Magna,Delhi,2013,63265,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.95,12,Hyundai,i10Magna
+5354,Hyundai Xcent 1.1 CRDi Base,Pune,2016,76000,Diesel,Manual,First,24.4 kmpl,1120 CC,71 bhp,5,,3.8,9,Hyundai,Xcent1.1
+5359,Hyundai Xcent 1.2 CRDi S,Kolkata,2017,51000,Diesel,Manual,First,25.4 kmpl,1186 CC,73.97 bhp,5,8.23 Lakh,4.2,8,Hyundai,Xcent1.2
+5371,Hyundai i20 Active 1.2 S,Mumbai,2015,12000,Petrol,Manual,First,17.19 kmpl,1197 CC,81.86 bhp,5,,5.8,10,Hyundai,i20Active
+5376,Hyundai Verna 1.6 CRDI AT SX Option,Coimbatore,2017,36931,Diesel,Automatic,First,19.08 kmpl,1582 CC,126.2 bhp,5,,9.48,8,Hyundai,Verna1.6
+5379,Hyundai i20 Asta Option 1.2,Delhi,2015,45000,Petrol,Manual,Second,18.6 kmpl,1197 CC,81.83 bhp,5,,5.5,10,Hyundai,i20Asta
+5380,Hyundai i20 1.2 Sportz,Hyderabad,2010,85155,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,3.55,15,Hyundai,i201.2
+5388,Hyundai Elantra CRDi S,Ahmedabad,2015,65000,Diesel,Manual,First,22.7 kmpl,1582 CC,126.2 bhp,5,,7.75,10,Hyundai,ElantraCRDi
+5393,Hyundai Grand i10 1.2 Kappa Magna,Pune,2010,45252,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,6.8 Lakh,2.25,15,Hyundai,Grandi10
+5395,Hyundai Verna 1.6 CRDi AT SX,Kochi,2016,42024,Diesel,Automatic,First,19.08 kmpl,1582 CC,126.2 bhp,5,,9.73,9,Hyundai,Verna1.6
+5401,Hyundai i20 2015-2017 Sportz 1.2,Pune,2017,10000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,6.5,8,Hyundai,i202015-2017
+5406,Hyundai Grand i10 CRDi Magna,Jaipur,2015,50000,Diesel,Manual,Second,24.0 kmpl,1120 CC,70 bhp,5,,4.0,10,Hyundai,Grandi10
+5408,Hyundai Grand i10 Sportz,Jaipur,2016,26946,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,4.45,9,Hyundai,Grandi10
+5409,Hyundai EON Era,Pune,2015,28700,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,2.6,10,Hyundai,EONEra
+5418,Hyundai Verna 1.6 SX,Chennai,2013,85350,Diesel,Manual,Second,22.32 kmpl,1582 CC,126.32 bhp,5,,5.7,12,Hyundai,Verna1.6
+5423,Hyundai Santa Fe 4x4 AT,Bangalore,2016,36000,Diesel,Automatic,First,11.72 kmpl,2199 CC,194.3 bhp,7,,23.0,9,Hyundai,SantaFe
+5425,Hyundai Grand i10 CRDi Sportz,Kochi,2015,58397,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,4.9,10,Hyundai,Grandi10
+5426,Hyundai Santro Xing XL,Chennai,2006,85000,Petrol,Manual,Third,0.0 kmpl,1086 CC,null bhp,5,,1.3,19,Hyundai,SantroXing
+5433,Hyundai i10 Era,Kochi,2016,34952,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,4.01,9,Hyundai,i10Era
+5449,Hyundai i20 1.2 Magna,Coimbatore,2013,56127,Petrol,Manual,First,18.5 kmpl,1197 CC,80 bhp,5,,5.15,12,Hyundai,i201.2
+5451,Hyundai Xcent 1.2 CRDi S,Kolkata,2016,26000,Diesel,Manual,First,25.4 kmpl,1186 CC,73.97 bhp,5,8.23 Lakh,5.0,9,Hyundai,Xcent1.2
+5453,Hyundai Accent GLE,Pune,2001,130000,Petrol,Manual,Second,13.2 kmpl,1495 CC,94 bhp,5,,0.75,24,Hyundai,AccentGLE
+5454,Hyundai Verna Xi (Petrol),Kochi,2009,137148,Petrol,Manual,Second,13.9 kmpl,1599 CC,103.2 bhp,5,,1.85,16,Hyundai,VernaXi
+5469,Hyundai i20 Magna,Chennai,2009,69000,Petrol,Manual,Second,18.5 kmpl,1197 CC,80 bhp,5,,2.4,16,Hyundai,i20Magna
+5480,Hyundai Grand i10 Asta Option,Mumbai,2015,26000,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,4.25,10,Hyundai,Grandi10
+5482,Hyundai i20 1.4 Asta,Mumbai,2017,27000,Diesel,Manual,First,22.54 kmpl,1396 CC,88.73 bhp,5,,6.95,8,Hyundai,i201.4
+5484,Hyundai Creta 1.6 SX Option Diesel,Coimbatore,2016,47392,Diesel,Manual,First,20.5 kmpl,1582 CC,126.2 bhp,5,19.18 Lakh,13.82,9,Hyundai,Creta1.6
+5486,Hyundai i20 Active 1.4 SX Dual Tone,Kochi,2016,49716,Diesel,Manual,First,21.19 kmpl,1396 CC,88.73 bhp,5,,6.2,9,Hyundai,i20Active
+5489,Hyundai Verna 1.4 CRDi,Bangalore,2016,79000,Diesel,Manual,First,24.8 kmpl,1396 CC,88.7 bhp,5,,7.25,9,Hyundai,Verna1.4
+5493,Hyundai i10 Sportz,Kochi,2012,57184,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,3.09,13,Hyundai,i10Sportz
+5495,Hyundai Creta 1.6 CRDi AT SX Plus,Mumbai,2015,26000,Diesel,Automatic,First,17.01 kmpl,1582 CC,126.2 bhp,5,,12.65,10,Hyundai,Creta1.6
+5496,Hyundai Grand i10 Magna,Delhi,2016,22129,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,4.25,9,Hyundai,Grandi10
+5499,Hyundai i10 Era,Hyderabad,2011,60634,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,3.3,14,Hyundai,i10Era
+5508,Hyundai Grand i10 Asta,Kolkata,2014,41000,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,3.14,11,Hyundai,Grandi10
+5528,Hyundai i10 Magna 1.2,Delhi,2012,62000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.5,13,Hyundai,i10Magna
+5529,Hyundai Santro LP - Euro II,Chennai,2005,105000,Petrol,Manual,First,0.0 kmpl,999 CC,null bhp,5,,1.75,20,Hyundai,SantroLP
+5532,Hyundai i20 1.2 Magna,Coimbatore,2011,63991,Petrol,Manual,First,18.5 kmpl,1197 CC,80 bhp,5,,3.61,14,Hyundai,i201.2
+5533,Hyundai Santro Xing XO eRLX Euro II,Pune,2007,72000,Petrol,Manual,Second,17.0 kmpl,1086 CC,null bhp,5,,1.11,18,Hyundai,SantroXing
+5540,Hyundai Creta 1.6 CRDi SX,Coimbatore,2016,37023,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,13.39,9,Hyundai,Creta1.6
+5544,Hyundai Creta 1.6 CRDi SX Option,Mumbai,2015,47250,Diesel,Manual,Second,19.67 kmpl,1582 CC,126.2 bhp,5,,11.0,10,Hyundai,Creta1.6
+5547,Hyundai Creta 1.6 SX Plus Dual Tone Petrol,Kochi,2017,17702,Petrol,Manual,First,15.29 kmpl,1591 CC,121.3 bhp,5,,11.94,8,Hyundai,Creta1.6
+5550,Hyundai Creta 1.6 SX Plus Dual Tone Petrol,Coimbatore,2017,38271,Petrol,Manual,First,15.29 kmpl,1591 CC,121.3 bhp,5,,12.53,8,Hyundai,Creta1.6
+5556,Hyundai Grand i10 Sportz,Kolkata,2013,28000,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,3.25,12,Hyundai,Grandi10
+5559,Hyundai Creta 1.6 SX Plus Petrol Automatic,Kochi,2018,32854,Petrol,Automatic,First,13.0 kmpl,1591 CC,121.3 bhp,5,,12.6,7,Hyundai,Creta1.6
+5565,Hyundai Verna SX CRDi AT,Bangalore,2012,97000,Diesel,Automatic,Second,19.08 kmpl,1582 CC,126.32 bhp,5,,6.5,13,Hyundai,VernaSX
+5566,Hyundai Creta 1.4 CRDi S Plus,Coimbatore,2016,55687,Diesel,Manual,First,21.38 kmpl,1396 CC,88.7 bhp,5,,12.15,9,Hyundai,Creta1.4
+5571,Hyundai i20 Asta 1.2,Bangalore,2014,31045,Petrol,Manual,Second,18.6 kmpl,1197 CC,81.83 bhp,5,,5.65,11,Hyundai,i20Asta
+5573,Hyundai Creta 1.6 SX Plus Diesel,Kochi,2018,35480,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,13.34,7,Hyundai,Creta1.6
+5575,Hyundai i20 Asta 1.4 CRDi,Coimbatore,2015,46162,Diesel,Manual,First,22.54 kmpl,1396 CC,88.73 bhp,5,,6.98,10,Hyundai,i20Asta
+5576,Hyundai Verna 1.6 SX VTVT,Mumbai,2014,9200,Petrol,Manual,First,17.01 kmpl,1591 CC,121.3 bhp,5,,5.75,11,Hyundai,Verna1.6
+5589,Hyundai Elantra CRDi SX,Ahmedabad,2018,35000,Diesel,Manual,First,22.7 kmpl,1582 CC,126.2 bhp,5,,15.0,7,Hyundai,ElantraCRDi
+5590,Hyundai Verna 1.6 i ABS,Pune,2007,80000,Petrol,Manual,Second,13.9 kmpl,1599 CC,103.2 bhp,5,,1.95,18,Hyundai,Verna1.6
+5593,Hyundai i10 Sportz,Chennai,2012,70000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,3.15,13,Hyundai,i10Sportz
+5597,Hyundai i10 Asta,Ahmedabad,2011,86000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,3.75,14,Hyundai,i10Asta
+5610,Hyundai Verna 1.6 SX VTVT,Coimbatore,2019,6028,Petrol,Manual,First,17.01 kmpl,1591 CC,121.3 bhp,5,,11.54,6,Hyundai,Verna1.6
+5615,Hyundai i10 Era 1.1 iTech SE,Kochi,2012,65727,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,2.97,13,Hyundai,i10Era
+5616,Hyundai Verna 1.6 VTVT,Pune,2013,70000,Petrol,Manual,First,17.01 kmpl,1591 CC,121.3 bhp,5,,4.75,12,Hyundai,Verna1.6
+5619,Hyundai i20 1.4 Asta Optional With Sunroof,Bangalore,2010,77332,Diesel,Manual,Second,23.0 kmpl,1396 CC,90 bhp,5,,3.65,15,Hyundai,i201.4
+5620,Hyundai Grand i10 Asta Option AT,Kochi,2017,17489,Petrol,Automatic,First,18.9 kmpl,1197 CC,82 bhp,5,,5.99,8,Hyundai,Grandi10
+5623,Hyundai Creta 1.6 SX Plus Petrol Automatic,Hyderabad,2016,22982,Petrol,Automatic,First,13.0 kmpl,1591 CC,121.3 bhp,5,,10.95,9,Hyundai,Creta1.6
+5624,Hyundai i10 Sportz,Pune,2013,54500,Petrol,Manual,Third,20.36 kmpl,1197 CC,78.9 bhp,5,,2.95,12,Hyundai,i10Sportz
+5631,Hyundai Verna VTVT 1.6 AT SX Plus,Mumbai,2012,75059,Petrol,Automatic,First,17.0 kmpl,1591 CC,121.3 bhp,5,13.7 Lakh,4.25,13,Hyundai,VernaVTVT
+5636,Hyundai Elite i20 Diesel Asta Option,Kolkata,2018,6820,Diesel,Manual,First,22.54 kmpl,1396 CC,88.76 bhp,5,,7.65,7,Hyundai,Elitei20
+5645,Hyundai Verna 1.6 SX VTVT (O),Kolkata,2013,49000,Petrol,Manual,First,17.1 kmpl,1591 CC,121.3 bhp,5,,4.5,12,Hyundai,Verna1.6
+5653,Hyundai Creta 1.6 CRDi SX,Mumbai,2016,29000,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,12.6,9,Hyundai,Creta1.6
+5654,Hyundai i20 Magna Optional 1.2,Kochi,2014,42315,Petrol,Manual,First,18.5 kmpl,1197 CC,82.9 bhp,5,,4.79,11,Hyundai,i20Magna
+5661,Hyundai Verna CRDi,Chennai,2009,64514,Diesel,Manual,First,16.8 kmpl,1493 CC,110 bhp,5,,2.9,16,Hyundai,VernaCRDi
+5662,Hyundai Verna 1.6 SX VTVT,Delhi,2016,35000,Petrol,Manual,First,17.01 kmpl,1591 CC,121.3 bhp,5,,7.4,9,Hyundai,Verna1.6
+5665,Hyundai Grand i10 Sportz,Jaipur,2015,53000,Petrol,Manual,Second,18.9 kmpl,1197 CC,82 bhp,5,,4.0,10,Hyundai,Grandi10
+5666,Hyundai i20 1.2 Asta,Delhi,2017,9000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,6.85,8,Hyundai,i201.2
+5669,Hyundai Verna SX CRDi AT,Hyderabad,2014,65000,Diesel,Automatic,First,19.08 kmpl,1582 CC,126.32 bhp,5,,8.99,11,Hyundai,VernaSX
+5672,Hyundai Verna 1.6 CRDi SX,Ahmedabad,2015,60000,Diesel,Manual,First,23.9 kmpl,1582 CC,126.2 bhp,5,,6.99,10,Hyundai,Verna1.6
+5680,Hyundai Grand i10 1.2 Kappa Magna,Delhi,2017,46000,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,6.54 Lakh,4.75,8,Hyundai,Grandi10
+5697,Hyundai Creta 1.4 CRDi S Plus,Jaipur,2015,32000,Diesel,Manual,First,21.38 kmpl,1396 CC,88.7 bhp,5,,10.25,10,Hyundai,Creta1.4
+5700,Hyundai i10 Magna 1.1,Kochi,2015,31965,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,3.55,10,Hyundai,i10Magna
+5703,Hyundai Verna 1.6 SX VTVT,Kochi,2017,41534,Petrol,Manual,First,17.01 kmpl,1591 CC,121.3 bhp,5,,7.99,8,Hyundai,Verna1.6
+5707,Hyundai i20 1.4 Sportz,Kochi,2018,40175,Diesel,Manual,Second,22.54 kmpl,1396 CC,88.73 bhp,5,,6.36,7,Hyundai,i201.4
+5709,Hyundai Xcent 1.2 Kappa SX,Kochi,2017,15029,Petrol,Manual,First,19.1 kmpl,1197 CC,82 bhp,5,,6.05,8,Hyundai,Xcent1.2
+5711,Hyundai Grand i10 CRDi Sportz,Hyderabad,2015,76362,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,5.5,10,Hyundai,Grandi10
+5714,Hyundai i10 Sportz 1.2 AT,Mumbai,2010,57000,Petrol,Automatic,Second,16.95 kmpl,1197 CC,78.9 bhp,5,,2.5,15,Hyundai,i10Sportz
+5720,Hyundai Accent GLE,Hyderabad,2008,62364,Petrol,Manual,First,13.2 kmpl,1495 CC,94 bhp,5,,2.3,17,Hyundai,AccentGLE
+5721,Hyundai Verna 1.6 SX CRDi (O),Pune,2012,89000,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,6.0,13,Hyundai,Verna1.6
+5731,Hyundai i10 Magna 1.2,Hyderabad,2009,84045,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.85,16,Hyundai,i10Magna
+5737,Hyundai i20 Sportz Option 1.2,Kochi,2019,12800,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,7.67,6,Hyundai,i20Sportz
+5743,Hyundai Santa Fe 4WD AT,Coimbatore,2016,45794,Diesel,Automatic,First,13.01 kmpl,2199 CC,194.3 bhp,7,,20.67,9,Hyundai,SantaFe
+5746,Hyundai Santro Xing GLS,Mumbai,2009,42000,Petrol,Manual,First,17.92 kmpl,1086 CC,62.1 bhp,5,,1.45,16,Hyundai,SantroXing
+5754,Hyundai Grand i10 CRDi Sportz,Delhi,2014,65000,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,3.99,11,Hyundai,Grandi10
+5755,Hyundai Santro Xing XL eRLX Euro III,Ahmedabad,2008,51000,Petrol,Manual,First,17.0 kmpl,1086 CC,null bhp,5,,1.75,17,Hyundai,SantroXing
+5759,Hyundai Santro Xing XL eRLX Euro III,Kolkata,2007,46707,Petrol,Manual,First,17.0 kmpl,1086 CC,null bhp,5,,0.99,18,Hyundai,SantroXing
+5760,Hyundai i10 Sportz 1.1L,Pune,2013,84000,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,2.95,12,Hyundai,i10Sportz
+5768,Hyundai Creta 1.6 CRDi SX,Kochi,2017,30519,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,12.81,8,Hyundai,Creta1.6
+5774,Hyundai Getz GLE,Hyderabad,2007,58307,Petrol,Manual,First,15.3 kmpl,1341 CC,83 bhp,5,,1.95,18,Hyundai,GetzGLE
+5777,Hyundai i20 Asta Option 1.2,Kolkata,2015,36000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,4.9,10,Hyundai,i20Asta
+5780,Hyundai i10 Sportz,Mumbai,2011,39000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.6,14,Hyundai,i10Sportz
+5785,Hyundai i20 Asta 1.4 CRDi,Kolkata,2012,33249,Diesel,Manual,First,21.27 kmpl,1396 CC,88.76 bhp,5,,3.25,13,Hyundai,i20Asta
+5786,Hyundai Xcent 1.2 Kappa S Option,Delhi,2014,52000,Petrol,Manual,First,19.1 kmpl,1197 CC,81.86 bhp,5,,3.75,11,Hyundai,Xcent1.2
+5793,Hyundai i10 Sportz 1.2,Hyderabad,2011,84912,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,3.5,14,Hyundai,i10Sportz
+5794,Hyundai Creta 1.6 CRDi SX Option,Pune,2015,70000,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,12.25,10,Hyundai,Creta1.6
+5797,Hyundai i10 Magna 1.2,Kolkata,2012,29000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,2.35,13,Hyundai,i10Magna
+5802,Hyundai Verna CRDi,Chennai,2006,200000,Diesel,Manual,Second,16.8 kmpl,1493 CC,110 bhp,5,,1.85,19,Hyundai,VernaCRDi
+5806,Hyundai i10 Sportz 1.2,Kolkata,2015,28000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,3.4,10,Hyundai,i10Sportz
+5812,Hyundai Grand i10 Sportz,Coimbatore,2017,22831,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,6.19,8,Hyundai,Grandi10
+5814,Hyundai Grand i10 Magna,Pune,2015,21000,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,3.75,10,Hyundai,Grandi10
+5822,Hyundai i20 Magna Optional 1.4 CRDi,Delhi,2013,64500,Diesel,Manual,First,21.9 kmpl,1396 CC,88.8 bhp,5,,3.65,12,Hyundai,i20Magna
+5827,Hyundai i20 1.4 Sportz,Ahmedabad,2018,30000,Diesel,Manual,First,22.54 kmpl,1396 CC,88.73 bhp,5,,7.75,7,Hyundai,i201.4
+5837,Hyundai i20 Sportz 1.4 CRDi,Kochi,2016,55036,Diesel,Manual,First,22.54 kmpl,1396 CC,88.73 bhp,5,,6.35,9,Hyundai,i20Sportz
+5846,Hyundai Santro Xing GL Plus,Delhi,2013,60000,Petrol,Manual,First,17.92 kmpl,1086 CC,62.1 bhp,5,,2.3,12,Hyundai,SantroXing
+5853,Hyundai Grand i10 CRDi Asta,Bangalore,2016,50000,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,5.5,9,Hyundai,Grandi10
+5854,Hyundai Grand i10 1.2 Kappa Sportz,Kochi,2016,28147,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,6.62 Lakh,5.07,9,Hyundai,Grandi10
+5855,Hyundai Grand i10 Sportz,Mumbai,2015,20000,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,3.85,10,Hyundai,Grandi10
+5856,Hyundai Elite i20 Petrol Asta,Chennai,2016,11000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.86 bhp,5,,7.95,9,Hyundai,Elitei20
+5861,Hyundai Santro Xing XO,Chennai,2007,79000,Petrol,Manual,First,17.0 kmpl,1086 CC,null bhp,5,,1.85,18,Hyundai,SantroXing
+5873,Hyundai Santro Xing XO eRLX Euro II,Pune,2006,47200,Petrol,Manual,Second,17.0 kmpl,1086 CC,null bhp,5,,1.2,19,Hyundai,SantroXing
+5878,Hyundai Grand i10 Asta,Kolkata,2014,37000,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,3.45,11,Hyundai,Grandi10
+5883,Hyundai i20 Sportz 1.2,Delhi,2015,42000,Petrol,Manual,Second,18.6 kmpl,1197 CC,81.83 bhp,5,,5.8,10,Hyundai,i20Sportz
+5890,Hyundai i20 Diesel Asta Option,Pune,2018,31000,Diesel,Manual,First,22.54 kmpl,1396 CC,88.73 bhp,5,,7.75,7,Hyundai,i20Diesel
+5894,Hyundai Creta 1.6 SX,Hyderabad,2018,9900,Petrol,Manual,First,15.8 kmpl,1591 CC,121.3 bhp,5,14.72 Lakh,13.2,7,Hyundai,Creta1.6
+5916,Hyundai Accent GLE,Kolkata,2005,50000,Petrol,Manual,First,13.2 kmpl,1495 CC,94 bhp,5,,0.7,20,Hyundai,AccentGLE
+5920,Hyundai Verna 1.6 SX,Kochi,2012,58646,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,4.74,13,Hyundai,Verna1.6
+5933,Hyundai i20 Magna 1.4 CRDi (Diesel),Kochi,2014,53340,Diesel,Manual,First,21.9 kmpl,1396 CC,88.76 bhp,5,,4.35,11,Hyundai,i20Magna
+5945,Hyundai Creta 1.6 CRDi SX,Hyderabad,2016,63738,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,11.9,9,Hyundai,Creta1.6
+5964,Hyundai Verna VTVT 1.6 AT SX Option,Mumbai,2018,8000,Petrol,Automatic,First,17.0 kmpl,1591 CC,121.3 bhp,5,15.14 Lakh,12.85,7,Hyundai,VernaVTVT
+5972,Hyundai Santro Xing GL,Mumbai,2008,65000,Petrol,Manual,Second,0.0 kmpl,1086 CC,62 bhp,5,,1.39,17,Hyundai,SantroXing
+5973,Hyundai Verna 1.6 CRDi EX MT,Kolkata,2013,53280,Diesel,Manual,First,22.32 kmpl,1582 CC,126.3 bhp,5,,4.7,12,Hyundai,Verna1.6
+5975,Hyundai i20 Asta Option 1.2,Coimbatore,2017,14618,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,8.11,8,Hyundai,i20Asta
+5980,Hyundai i20 2015-2017 Magna,Pune,2010,80561,Petrol,Manual,First,18.5 kmpl,1197 CC,80 bhp,5,,2.74,15,Hyundai,i202015-2017
+5986,Hyundai Getz GLS,Jaipur,2005,100000,Petrol,Manual,Second,15.3 kmpl,1341 CC,83 bhp,5,,0.85,20,Hyundai,GetzGLS
+5993,Hyundai Elantra SX,Mumbai,2014,55619,Petrol,Manual,First,16.3 kmpl,1797 CC,147.5 bhp,5,,8.3,11,Hyundai,ElantraSX
+6000,Hyundai i20 Sportz 1.2,Bangalore,2014,68010,Petrol,Manual,Second,18.5 kmpl,1197 CC,82.85 bhp,5,,5.25,11,Hyundai,i20Sportz
+6004,Hyundai Getz GLE,Coimbatore,2007,66800,Petrol,Manual,First,15.3 kmpl,1341 CC,83 bhp,5,,2.2,18,Hyundai,GetzGLE
+6015,Hyundai Xcent 1.1 CRDi S,Jaipur,2015,100000,Diesel,Manual,First,24.4 kmpl,1120 CC,71 bhp,5,,4.0,10,Hyundai,Xcent1.1
+6023,Hyundai i20 Magna,Mumbai,2014,29000,Petrol,Manual,First,18.5 kmpl,1197 CC,82.85 bhp,5,,,11,Hyundai,i20Magna
+6026,Hyundai EON Era Plus,Jaipur,2013,65000,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,,12,Hyundai,EONEra
+6030,Hyundai Grand i10 Magna,Jaipur,2016,21000,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,,9,Hyundai,Grandi10
+6048,Hyundai i20 1.2 Sportz,Mumbai,2011,133000,Petrol,Manual,Second,17.0 kmpl,1197 CC,80 bhp,5,,,14,Hyundai,i201.2
+6051,Hyundai i10 Era 1.1 iTech SE,Pune,2010,71000,Petrol,Manual,Second,19.81 kmpl,1086 CC,68.05 bhp,5,,,15,Hyundai,i10Era
+6056,Hyundai Creta 1.6 SX Plus Dual Tone Petrol,Bangalore,2016,13000,Petrol,Manual,First,15.29 kmpl,1591 CC,121.3 bhp,5,,,9,Hyundai,Creta1.6
+6073,Hyundai Verna 1.6 SX VTVT,Mumbai,2014,21000,Petrol,Manual,First,17.01 kmpl,1591 CC,121.3 bhp,5,,,11,Hyundai,Verna1.6
+6080,Hyundai Grand i10 Asta,Kochi,2017,35223,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,,8,Hyundai,Grandi10
+6081,Hyundai i20 Sportz 1.2,Kolkata,2015,48000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,,10,Hyundai,i20Sportz
+6090,Hyundai Santro Xing GL,Ahmedabad,2013,63831,Petrol,Manual,First,0.0 kmpl,1086 CC,62 bhp,5,,,12,Hyundai,SantroXing
+6093,Hyundai Santro Xing XL,Bangalore,2007,47000,Petrol,Manual,Second,0.0 kmpl,1086 CC,null bhp,5,,,18,Hyundai,SantroXing
+6097,Hyundai Xcent 1.2 VTVT E,Kolkata,2017,5044,Petrol,Manual,First,20.14 kmpl,1197 CC,81.86 bhp,5,6.41 Lakh,,8,Hyundai,Xcent1.2
+6102,Hyundai Verna 1.6 SX CRDi (O),Kochi,2014,76969,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,,11,Hyundai,Verna1.6
+6105,Hyundai i20 1.2 Sportz Option,Coimbatore,2014,59098,Petrol,Manual,Second,17.0 kmpl,1197 CC,80 bhp,5,,,11,Hyundai,i201.2
+6108,Hyundai i20 Asta 1.2,Coimbatore,2017,69627,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,,8,Hyundai,i20Asta
+6111,Hyundai i20 Magna,Delhi,2012,80800,Petrol,Manual,First,18.5 kmpl,1197 CC,82.85 bhp,5,,,13,Hyundai,i20Magna
+6113,Hyundai Santro Xing GLS,Kolkata,2009,62261,Petrol,Manual,First,17.92 kmpl,1086 CC,62.1 bhp,5,,,16,Hyundai,SantroXing
+6118,Hyundai Elantra CRDi SX,Kolkata,2013,37489,Diesel,Manual,First,22.7 kmpl,1582 CC,126.24 bhp,5,,,12,Hyundai,ElantraCRDi
+6128,Hyundai i20 Asta Option 1.2,Bangalore,2016,31000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,,9,Hyundai,i20Asta
+6133,Hyundai i10 Magna AT,Coimbatore,2011,21762,Petrol,Automatic,Second,19.2 kmpl,1197 CC,80 bhp,5,,,14,Hyundai,i10Magna
+6134,Hyundai Verna 1.6 SX VTVT,Coimbatore,2018,29738,Petrol,Manual,First,17.01 kmpl,1591 CC,121.3 bhp,5,,,7,Hyundai,Verna1.6
+6135,Hyundai i20 1.2 Magna Executive,Mumbai,2018,16053,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,,7,Hyundai,i201.2
+6147,Hyundai Grand i10 Asta Option,Coimbatore,2016,40587,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,,9,Hyundai,Grandi10
+6148,Hyundai Grand i10 Asta,Hyderabad,2015,27000,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,,10,Hyundai,Grandi10
+6156,Hyundai i20 1.4 CRDi Sportz,Hyderabad,2011,76000,Diesel,Manual,First,23.0 kmpl,1396 CC,90 bhp,5,,,14,Hyundai,i201.4
+6167,Hyundai i10 Magna,Mumbai,2010,41000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,,15,Hyundai,i10Magna
+6170,Hyundai Accent CRDi,Pune,2005,109000,Diesel,Manual,Second,13.1 kmpl,1493 CC,82 bhp,5,,,20,Hyundai,AccentCRDi
+6174,Hyundai Grand i10 CRDi Magna,Hyderabad,2013,41585,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,,12,Hyundai,Grandi10
+6175,Hyundai EON Era,Kolkata,2011,24000,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,,14,Hyundai,EONEra
+6182,Hyundai Creta 1.6 SX Automatic,Kochi,2018,36471,Petrol,Automatic,First,14.8 kmpl,1591 CC,121.3 bhp,5,15.93 Lakh,,7,Hyundai,Creta1.6
+6185,Hyundai i20 Magna,Kolkata,2010,46000,Petrol,Manual,First,18.5 kmpl,1197 CC,80 bhp,5,,,15,Hyundai,i20Magna
+6197,Hyundai i10 Sportz,Kochi,2014,68138,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,,11,Hyundai,i10Sportz
+6205,Hyundai Santro Xing GL,Ahmedabad,2007,78000,Petrol,Manual,First,0.0 kmpl,1086 CC,62 bhp,5,,,18,Hyundai,SantroXing
+6207,Hyundai Verna CRDi ABS,Chennai,2007,76000,Diesel,Manual,First,18.1 kmpl,1493 CC,110 bhp,5,,,18,Hyundai,VernaCRDi
+6215,Hyundai i20 1.2 Sportz,Kolkata,2010,89312,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,,15,Hyundai,i201.2
+6231,Hyundai Verna 1.6 SX,Jaipur,2014,80000,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,,11,Hyundai,Verna1.6
+6232,Hyundai i20 Active 1.2 S,Kolkata,2016,9201,Petrol,Manual,First,17.19 kmpl,1197 CC,81.86 bhp,5,,,9,Hyundai,i20Active
+6236,Hyundai i10 Magna,Kolkata,2015,46000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,,10,Hyundai,i10Magna
+6239,Hyundai Verna CRDi 1.6 AT SX Plus,Mumbai,2013,66000,Diesel,Automatic,Second,22.0 kmpl,1582 CC,126.2 bhp,5,15.88 Lakh,,12,Hyundai,VernaCRDi
+6245,Hyundai Elantra SX,Ahmedabad,2013,46000,Petrol,Manual,First,16.3 kmpl,1797 CC,147.5 bhp,5,,,12,Hyundai,ElantraSX
+6248,Hyundai Grand i10 Asta Option,Chennai,2017,18000,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,,8,Hyundai,Grandi10
+6253,Hyundai Creta 1.6 CRDi SX,Bangalore,2015,29000,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,,10,Hyundai,Creta1.6
+6258,Hyundai i10 Sportz 1.1L,Pune,2010,77000,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,,15,Hyundai,i10Sportz
+6263,Hyundai Xcent 1.2 Kappa S Option,Mumbai,2015,25000,Petrol,Manual,First,19.1 kmpl,1197 CC,81.86 bhp,5,,,10,Hyundai,Xcent1.2
+6266,Hyundai i10 Era,Jaipur,2009,48725,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,,16,Hyundai,i10Era
+6267,Hyundai Grand i10 1.2 Kappa Sportz,Hyderabad,2013,42500,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,7.19 Lakh,,12,Hyundai,Grandi10
+6268,Hyundai Verna 1.6 SX VTVT (O) AT,Mumbai,2014,35000,Petrol,Automatic,First,17.1 kmpl,1591 CC,121.4 bhp,5,,,11,Hyundai,Verna1.6
+6286,Hyundai Accent GLE 1,Jaipur,2009,77200,Petrol,Manual,Second,13.2 kmpl,1495 CC,94 bhp,5,,,16,Hyundai,AccentGLE
+6290,Hyundai i20 Active SX Diesel,Chennai,2015,62083,Diesel,Manual,First,21.19 kmpl,1396 CC,88.76 bhp,5,11.48 Lakh,,10,Hyundai,i20Active
+6304,Hyundai Verna 1.6 VTVT S,Delhi,2016,27529,Petrol,Manual,Second,17.01 kmpl,1591 CC,121.3 bhp,5,,,9,Hyundai,Verna1.6
+6309,Hyundai EON D Lite Plus,Coimbatore,2015,36933,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,,10,Hyundai,EOND
+6323,Hyundai i20 1.2 Magna,Pune,2011,75000,Petrol,Manual,First,18.5 kmpl,1197 CC,80 bhp,5,,,14,Hyundai,i201.2
+6327,Hyundai Creta 1.6 CRDi SX,Chennai,2015,86247,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,,10,Hyundai,Creta1.6
+6330,Hyundai i20 Asta 1.2,Kolkata,2015,33000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,,10,Hyundai,i20Asta
+6333,Hyundai i20 Asta Option 1.4 CRDi,Chennai,2016,120000,Diesel,Manual,First,22.54 kmpl,1396 CC,88.73 bhp,5,,,9,Hyundai,i20Asta
+6339,Hyundai i20 Asta 1.4 CRDi,Kolkata,2016,30134,Diesel,Manual,First,22.54 kmpl,1396 CC,88.73 bhp,5,,,9,Hyundai,i20Asta
+6352,Hyundai Elite i20 Asta Option,Hyderabad,2015,48000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.86 bhp,5,9.45 Lakh,,10,Hyundai,Elitei20
+6356,Hyundai i20 Magna,Mumbai,2009,85000,Petrol,Manual,First,18.5 kmpl,1197 CC,80 bhp,5,,,16,Hyundai,i20Magna
+6363,Hyundai Grand i10 Sportz,Hyderabad,2015,25160,Petrol,Manual,Second,18.9 kmpl,1197 CC,82 bhp,5,,,10,Hyundai,Grandi10
+6376,Hyundai Creta 1.6 CRDi AT SX Plus,Bangalore,2016,40571,Diesel,Automatic,First,17.01 kmpl,1582 CC,126.2 bhp,5,,,9,Hyundai,Creta1.6
+6380,Hyundai i10 Magna AT,Kochi,2011,39934,Petrol,Automatic,First,19.2 kmpl,1197 CC,80 bhp,5,,,14,Hyundai,i10Magna
+6391,Hyundai i10 Sportz 1.2,Pune,2008,84500,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,,17,Hyundai,i10Sportz
+6396,Hyundai Tucson 2.0 e-VGT 4WD AT GLS,Ahmedabad,2017,25000,Diesel,Automatic,First,16.38 kmpl,1995 CC,182.46 bhp,5,29.9 Lakh,,8,Hyundai,Tucson2.0
+6398,Hyundai i10 Sportz 1.2,Bangalore,2011,20000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,,14,Hyundai,i10Sportz
+6405,Hyundai Creta 1.6 SX Plus Dual Tone Petrol,Coimbatore,2017,22865,Petrol,Manual,First,15.29 kmpl,1591 CC,121.3 bhp,5,,,8,Hyundai,Creta1.6
+6415,Hyundai Verna CRDi ABS,Mumbai,2007,89564,Diesel,Manual,Third,18.1 kmpl,1493 CC,110 bhp,5,,,18,Hyundai,VernaCRDi
+6420,Hyundai Xcent 1.2 Kappa AT SX Option,Kochi,2016,34782,Petrol,Automatic,First,16.9 kmpl,1197 CC,82 bhp,5,,,9,Hyundai,Xcent1.2
+6421,Hyundai i10 Sportz 1.2,Coimbatore,2012,31736,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,,13,Hyundai,i10Sportz
+6432,Hyundai Verna CRDi 1.6 SX Option,Mumbai,2017,28000,Diesel,Manual,First,22.0 kmpl,1582 CC,126.2 bhp,5,15.57 Lakh,,8,Hyundai,VernaCRDi
+6438,Hyundai i10 Sportz 1.2,Mumbai,2011,67000,Petrol,Manual,Second,20.36 kmpl,1197 CC,78.9 bhp,5,,,14,Hyundai,i10Sportz
+6439,Hyundai Santro GLS I - Euro II,Bangalore,2011,43189,Petrol,Manual,First,0.0 kmpl,999 CC,null bhp,5,,,14,Hyundai,SantroGLS
+6454,Hyundai Santro LS zipDrive Euro I,Chennai,2002,120000,Petrol,Manual,Fourth & Above,0.0 kmpl,999 CC,null bhp,5,,,23,Hyundai,SantroLS
+6460,Hyundai Accent GLE,Pune,2008,103000,Petrol,Manual,Second,13.2 kmpl,1495 CC,94 bhp,5,,,17,Hyundai,AccentGLE
+6466,Hyundai Creta 1.6 SX Diesel,Kolkata,2018,15000,Diesel,Manual,First,20.5 kmpl,1582 CC,126.2 bhp,5,15.24 Lakh,,7,Hyundai,Creta1.6
+6476,Hyundai Elantra GT,Hyderabad,2006,88000,Petrol,Manual,First,13.0 kmpl,1795 CC,127 bhp,5,,,19,Hyundai,ElantraGT
+6489,Hyundai Creta 1.6 CRDi SX Option,Hyderabad,2016,41810,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,,9,Hyundai,Creta1.6
+6494,Hyundai i20 1.4 CRDi Magna,Mumbai,2011,68000,Diesel,Manual,First,21.9 kmpl,1396 CC,90 bhp,5,,,14,Hyundai,i201.4
+6497,Hyundai Verna 1.6 VTVT,Delhi,2011,58000,Petrol,Manual,First,17.01 kmpl,1591 CC,121.3 bhp,5,,,14,Hyundai,Verna1.6
+6503,Hyundai EON D Lite Plus,Hyderabad,2014,15322,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,,11,Hyundai,EOND
+6506,Hyundai Accent GLE,Kolkata,2009,46000,Petrol,Manual,First,13.2 kmpl,1495 CC,94 bhp,5,,,16,Hyundai,AccentGLE
+6509,Hyundai Grand i10 CRDi Magna,Hyderabad,2014,56000,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,,11,Hyundai,Grandi10
+6510,Hyundai Getz GVS,Mumbai,2005,35000,Petrol,Manual,First,15.3 kmpl,1341 CC,61 bhp,5,,,20,Hyundai,GetzGVS
+6512,Hyundai Xcent 1.2 CRDi SX,Kolkata,2015,39000,Diesel,Manual,First,25.4 kmpl,1186 CC,73.97 bhp,5,8.85 Lakh,,10,Hyundai,Xcent1.2
+6528,Hyundai Grand i10 Sportz,Jaipur,2016,67310,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,,9,Hyundai,Grandi10
+6550,Hyundai EON 1.0 Kappa Magna Plus,Coimbatore,2016,18592,Petrol,Manual,First,20.3 kmpl,998 CC,68.05 bhp,5,,,9,Hyundai,EON1.0
+6553,Hyundai Verna 1.6 CRDi EX AT,Delhi,2013,37000,Diesel,Automatic,First,22.32 kmpl,1582 CC,126.3 bhp,5,,,12,Hyundai,Verna1.6
+6555,Hyundai i10 Magna 1.2,Coimbatore,2011,45086,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,,14,Hyundai,i10Magna
+6559,Hyundai Verna 1.4 CX,Kolkata,2012,50000,Diesel,Manual,First,23.5 kmpl,1396 CC,88.7 bhp,5,,,13,Hyundai,Verna1.4
+6560,Hyundai i20 Sportz AT 1.4,Pune,2012,76551,Petrol,Automatic,First,15.0 kmpl,1396 CC,98.6 bhp,5,,,13,Hyundai,i20Sportz
+6562,Hyundai Verna 1.6 EX VTVT,Mumbai,2013,58000,Petrol,Manual,First,17.01 kmpl,1591 CC,121.3 bhp,5,,,12,Hyundai,Verna1.6
+6563,Hyundai i20 Magna Optional 1.2,Kolkata,2013,46000,Petrol,Manual,Second,18.5 kmpl,1197 CC,82.9 bhp,5,,,12,Hyundai,i20Magna
+6564,Hyundai Elantra CRDi SX,Bangalore,2014,72017,Diesel,Manual,First,22.7 kmpl,1582 CC,126.24 bhp,5,,,11,Hyundai,ElantraCRDi
+6576,Hyundai Santro LS zipPlus,Kolkata,2002,80000,Petrol,Manual,First,0.0 kmpl,1086 CC,null bhp,5,,,23,Hyundai,SantroLS
+6577,Hyundai EON Era Plus,Delhi,2013,35373,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,,12,Hyundai,EONEra
+6594,Hyundai EON 1.0 Era Plus,Kochi,2015,58469,Petrol,Manual,First,20.3 kmpl,998 CC,68.05 bhp,5,,,10,Hyundai,EON1.0
+6596,Hyundai Elantra 2.0 SX Option AT,Kochi,2018,21127,Petrol,Automatic,First,14.62 kmpl,1999 CC,149.92 bhp,5,21.77 Lakh,,7,Hyundai,Elantra2.0
+6599,Hyundai i20 1.2 Magna Executive,Hyderabad,2018,13664,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,,7,Hyundai,i201.2
+6601,Hyundai Verna VTVT 1.6 SX,Delhi,2014,70428,Petrol,Manual,First,17.0 kmpl,1591 CC,121.3 bhp,5,11.47 Lakh,,11,Hyundai,VernaVTVT
+6602,Hyundai Verna 1.6 CRDI,Bangalore,2012,69010,Diesel,Manual,First,22.32 kmpl,1582 CC,126.3 bhp,5,,,13,Hyundai,Verna1.6
+6611,Hyundai Santro Xing GL Plus,Kolkata,2012,102000,Petrol,Manual,First,17.92 kmpl,1086 CC,62.1 bhp,5,,,13,Hyundai,SantroXing
+6628,Hyundai Grand i10 Asta,Chennai,2016,58000,Petrol,Manual,Second,18.9 kmpl,1197 CC,82 bhp,5,,,9,Hyundai,Grandi10
+6630,Hyundai Verna 1.6 SX,Ahmedabad,2013,60001,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,,,12,Hyundai,Verna1.6
+6644,Hyundai Creta 1.4 CRDi S Plus,Bangalore,2015,68178,Diesel,Manual,First,21.38 kmpl,1396 CC,88.7 bhp,5,,,10,Hyundai,Creta1.4
+6645,Hyundai Getz GLE,Hyderabad,2009,52008,Petrol,Manual,First,15.3 kmpl,1341 CC,83 bhp,5,,,16,Hyundai,GetzGLE
+6648,Hyundai Xcent 1.2 Kappa SX Option,Delhi,2016,100000,Petrol,Manual,First,19.1 kmpl,1197 CC,82 bhp,5,,,9,Hyundai,Xcent1.2
+6654,Hyundai Creta 1.6 CRDi SX,Coimbatore,2016,34224,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,,9,Hyundai,Creta1.6
+6658,Hyundai EON Sportz,Kolkata,2017,4000,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,,8,Hyundai,EONSportz
+6662,Hyundai Grand i10 Sportz,Hyderabad,2015,56000,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,,10,Hyundai,Grandi10
+6669,Hyundai i20 2015-2017 1.2 Magna,Pune,2013,67000,Petrol,Manual,First,18.5 kmpl,1197 CC,80 bhp,5,,,12,Hyundai,i202015-2017
+6672,Hyundai EON Magna Plus,Kolkata,2013,69000,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,,12,Hyundai,EONMagna
+6678,Hyundai i10 Sportz 1.2,Bangalore,2010,69000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,,15,Hyundai,i10Sportz
+6687,Hyundai i20 1.4 CRDi Asta,Pune,2012,98472,Diesel,Manual,First,23.0 kmpl,1396 CC,90 bhp,5,,,13,Hyundai,i201.4
+6688,Hyundai Creta 1.6 CRDi SX,Hyderabad,2016,37800,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,,9,Hyundai,Creta1.6
+6690,Hyundai Verna CRDi SX ABS,Ahmedabad,2011,68000,Diesel,Manual,First,18.1 kmpl,1493 CC,110 bhp,5,,,14,Hyundai,VernaCRDi
+6696,Hyundai i10 Magna,Kolkata,2011,60000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,,14,Hyundai,i10Magna
+6697,Hyundai Santro Xing XL,Jaipur,2007,85000,Petrol,Manual,Second,0.0 kmpl,1086 CC,null bhp,5,,,18,Hyundai,SantroXing
+6705,Hyundai Accent GLX,Pune,2009,60000,Petrol,Manual,Second,13.2 kmpl,1495 CC,94 bhp,5,,,16,Hyundai,AccentGLX
+6707,Hyundai i10 Magna,Chennai,2007,73000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,,18,Hyundai,i10Magna
+6713,Hyundai Santro Xing GLS,Mumbai,2008,65000,Petrol,Manual,Second,17.92 kmpl,1086 CC,62.1 bhp,5,,,17,Hyundai,SantroXing
+6725,Hyundai Grand i10 1.2 CRDi Magna,Jaipur,2018,27000,Diesel,Manual,First,24.0 kmpl,1186 CC,73.97 bhp,5,7.79 Lakh,,7,Hyundai,Grandi10
+6729,Hyundai Verna 1.6 CRDI,Pune,2012,98000,Diesel,Manual,First,22.32 kmpl,1582 CC,126.3 bhp,5,,,13,Hyundai,Verna1.6
+6730,Hyundai EON Era Plus,Coimbatore,2016,47924,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,,9,Hyundai,EONEra
+6732,Hyundai Grand i10 Asta Option,Coimbatore,2017,33601,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,,8,Hyundai,Grandi10
+6733,Hyundai Creta 1.6 SX Automatic Diesel,Pune,2015,85000,Diesel,Automatic,First,17.6 kmpl,1582 CC,126.2 bhp,5,18.32 Lakh,,10,Hyundai,Creta1.6
+6744,Hyundai Verna Transform SX VGT CRDi BS III,Coimbatore,2014,77914,Diesel,Manual,First,16.2 kmpl,1493 CC,110 bhp,5,,,11,Hyundai,VernaTransform
+6748,Hyundai EON 1.0 Kappa Magna Plus,Coimbatore,2016,27039,Petrol,Manual,First,20.3 kmpl,998 CC,68.05 bhp,5,,,9,Hyundai,EON1.0
+6763,Hyundai EON Magna Plus,Jaipur,2015,43000,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,,10,Hyundai,EONMagna
+6769,Hyundai Elantra CRDi SX AT,Jaipur,2016,76681,Diesel,Automatic,First,22.7 kmpl,1582 CC,126.2 bhp,5,,,9,Hyundai,ElantraCRDi
+6773,Hyundai i20 1.2 Era,Kochi,2013,55653,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,,12,Hyundai,i201.2
+6780,Hyundai Xcent 1.2 Kappa S Option,Pune,2016,34000,Petrol,Manual,First,19.1 kmpl,1197 CC,81.86 bhp,5,,,9,Hyundai,Xcent1.2
+6781,Hyundai i20 Magna 1.2,Kolkata,2015,35000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,,10,Hyundai,i20Magna
+6782,Hyundai i20 Sportz 1.2,Mumbai,2013,43000,Petrol,Manual,First,18.5 kmpl,1197 CC,82.85 bhp,5,,,12,Hyundai,i20Sportz
+6783,Hyundai i10 Magna,Hyderabad,2008,63193,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,,17,Hyundai,i10Magna
+6789,Hyundai i20 2015-2017 Sportz AT 1.4,Pune,2014,108000,Petrol,Automatic,First,15.0 kmpl,1396 CC,98.6 bhp,5,,,11,Hyundai,i202015-2017
+6799,Hyundai Verna 1.6 EX VTVT,Kolkata,2014,58000,Petrol,Manual,First,17.01 kmpl,1591 CC,121.3 bhp,5,,,11,Hyundai,Verna1.6
+6800,Hyundai i20 1.4 CRDi Magna,Jaipur,2011,78000,Diesel,Manual,First,21.9 kmpl,1396 CC,90 bhp,5,,,14,Hyundai,i201.4
+6802,Hyundai i10 Sportz 1.2,Hyderabad,2012,54982,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,,13,Hyundai,i10Sportz
+6805,Hyundai Grand i10 Sportz,Mumbai,2015,11206,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,,10,Hyundai,Grandi10
+6806,Hyundai Grand i10 AT Asta,Pune,2015,32100,Petrol,Automatic,First,18.9 kmpl,1197 CC,82 bhp,5,,,10,Hyundai,Grandi10
+6808,Hyundai i20 Magna 1.4 CRDi,Kolkata,2015,36113,Diesel,Manual,First,22.54 kmpl,1396 CC,88.73 bhp,5,,,10,Hyundai,i20Magna
+6813,Hyundai Creta 1.6 SX Plus Diesel,Chennai,2016,62000,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,,9,Hyundai,Creta1.6
+6819,Hyundai i20 1.2 Sportz Option,Pune,2011,35976,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,,14,Hyundai,i201.2
+6822,Hyundai Grand i10 Asta Option,Pune,2014,25000,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,,11,Hyundai,Grandi10
+6834,Hyundai Elantra SX AT,Coimbatore,2017,25132,Petrol,Automatic,First,14.5 kmpl,1797 CC,147.4 bhp,5,,,8,Hyundai,ElantraSX
+6844,Hyundai i20 Asta 1.2,Mumbai,2015,17000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,,10,Hyundai,i20Asta
+6845,Hyundai Verna 1.6 CRDI,Mumbai,2013,42670,Diesel,Manual,First,22.32 kmpl,1582 CC,126.3 bhp,5,,,12,Hyundai,Verna1.6
+6848,Hyundai i20 1.4 Sportz,Kolkata,2016,53416,Diesel,Manual,First,22.54 kmpl,1396 CC,88.73 bhp,5,,,9,Hyundai,i201.4
+6850,Hyundai Sonata Embera 2.0L CRDi MT,Ahmedabad,2008,72002,Diesel,Manual,Second,13.6 kmpl,1991 CC,142 bhp,5,,,17,Hyundai,SonataEmbera
+6860,Hyundai i10 Magna,Chennai,2011,82000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,,14,Hyundai,i10Magna
+6865,Hyundai EON Magna,Jaipur,2012,42285,Petrol,Manual,First,22.0 kmpl,814 CC,55 bhp,5,,,13,Hyundai,EONMagna
+6867,Hyundai i20 1.2 Spotz,Pune,2016,42000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,,9,Hyundai,i201.2
+6868,Hyundai Santro Xing GLS,Kochi,2015,56967,Petrol,Manual,First,17.92 kmpl,1086 CC,62.1 bhp,5,,,10,Hyundai,SantroXing
+6873,Hyundai Elite i20 Petrol Sportz,Delhi,2018,8321,Petrol,Manual,First,18.6 kmpl,1197 CC,81.86 bhp,5,,,7,Hyundai,Elitei20
+6881,Hyundai i20 1.2 Asta,Mumbai,2012,18000,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,,13,Hyundai,i201.2
+6883,Hyundai i20 1.2 Asta,Kochi,2016,24779,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,,9,Hyundai,i201.2
+6894,Hyundai EON D Lite Plus Option,Kolkata,2018,54000,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,,7,Hyundai,EOND
+6905,Hyundai Creta 1.6 CRDi AT SX Plus,Kochi,2017,60739,Diesel,Automatic,First,17.01 kmpl,1582 CC,126.2 bhp,5,,,8,Hyundai,Creta1.6
+6909,Hyundai Grand i10 Sportz,Chennai,2016,20000,Petrol,Manual,Second,18.9 kmpl,1197 CC,82 bhp,5,,,9,Hyundai,Grandi10
+6914,Hyundai i20 1.4 CRDi Magna,Hyderabad,2013,65461,Diesel,Manual,First,21.9 kmpl,1396 CC,90 bhp,5,,,12,Hyundai,i201.4
+6936,Hyundai Elantra 1.6 SX,Mumbai,2013,95000,Diesel,Manual,First,22.54 kmpl,1582 CC,126.2 bhp,5,20.69 Lakh,,12,Hyundai,Elantra1.6
+6943,Hyundai Sonata Embera 2.4L MT,Pune,2006,154000,Petrol,Manual,Third,13.2 kmpl,2359 CC,165 bhp,5,,,19,Hyundai,SonataEmbera
+6946,Hyundai i10 Sportz 1.2,Delhi,2011,48000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,,14,Hyundai,i10Sportz
+6950,Hyundai Verna 1.6 VTVT EX AT,Chennai,2013,55000,Petrol,Automatic,First,17.01 kmpl,1591 CC,121.4 bhp,5,,,12,Hyundai,Verna1.6
+6954,Hyundai Sonata Transform 2.4 GDi AT,Bangalore,2012,44000,Petrol,Automatic,First,12.37 kmpl,2359 CC,198.25 bhp,5,,,13,Hyundai,SonataTransform
+6955,Hyundai Creta 1.4 CRDi S Plus,Bangalore,2015,48000,Diesel,Manual,First,21.38 kmpl,1396 CC,88.7 bhp,5,,,10,Hyundai,Creta1.4
+6959,Hyundai i20 Magna 1.2,Bangalore,2016,20000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,,9,Hyundai,i20Magna
+6961,Hyundai i20 1.4 Sportz,Kochi,2019,17964,Diesel,Manual,First,22.54 kmpl,1396 CC,88.73 bhp,5,,,6,Hyundai,i201.4
+6969,Hyundai i20 1.4 Asta AT (O) with Sunroof,Hyderabad,2009,75000,Petrol,Automatic,First,15.0 kmpl,1396 CC,100 bhp,5,,,16,Hyundai,i201.4
+6970,Hyundai Xcent 1.1 CRDi S,Pune,2016,100000,Diesel,Manual,First,24.4 kmpl,1120 CC,71 bhp,5,,,9,Hyundai,Xcent1.1
+6982,Hyundai Grand i10 1.2 CRDi Sportz,Coimbatore,2019,56371,Diesel,Manual,First,24.0 kmpl,1186 CC,73.97 bhp,5,8.28 Lakh,,6,Hyundai,Grandi10
+6991,Hyundai Santro Xing GLS,Delhi,2014,67320,Petrol,Manual,First,17.92 kmpl,1086 CC,62.1 bhp,5,,,11,Hyundai,SantroXing
+6996,Hyundai i20 Sportz 1.2,Delhi,2014,59577,Petrol,Manual,Second,18.5 kmpl,1197 CC,82.85 bhp,5,,,11,Hyundai,i20Sportz
+7005,Hyundai i10 Sportz 1.1L,Kochi,2015,75383,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,,10,Hyundai,i10Sportz
+7009,Hyundai i20 Magna,Kochi,2015,33544,Petrol,Manual,First,18.5 kmpl,1197 CC,82.85 bhp,5,,,10,Hyundai,i20Magna
+7014,Hyundai Grand i10 1.2 CRDi Magna,Hyderabad,2017,25678,Diesel,Manual,First,24.0 kmpl,1186 CC,73.97 bhp,5,7.9 Lakh,,8,Hyundai,Grandi10
+7018,Hyundai i20 Magna 1.2,Kolkata,2015,20000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,,10,Hyundai,i20Magna
+7021,Hyundai Verna 1.4 CRDi,Pune,2014,86000,Diesel,Manual,First,24.8 kmpl,1396 CC,88.7 bhp,5,,,11,Hyundai,Verna1.4
+7024,Hyundai i10 Magna,Mumbai,2013,49000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,,12,Hyundai,i10Magna
+7026,Hyundai Xcent 1.1 CRDi S,Kolkata,2014,60188,Diesel,Manual,First,24.4 kmpl,1120 CC,71 bhp,5,,,11,Hyundai,Xcent1.1
+7029,Hyundai i20 2015-2017 1.4 CRDi Sportz,Pune,2011,104500,Diesel,Manual,Second,23.0 kmpl,1396 CC,90 bhp,5,,,14,Hyundai,i202015-2017
+7031,Hyundai Creta 1.6 SX Plus Diesel,Coimbatore,2016,26186,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,,9,Hyundai,Creta1.6
+7033,Hyundai i20 1.4 CRDi Sportz,Ahmedabad,2011,62000,Diesel,Manual,First,23.0 kmpl,1396 CC,90 bhp,5,,,14,Hyundai,i201.4
+7035,Hyundai i10 Magna 1.2,Chennai,2009,65000,Petrol,Manual,First,20.36 kmpl,1197 CC,78.9 bhp,5,,,16,Hyundai,i10Magna
+7036,Hyundai Santro Xing GLS,Hyderabad,2008,44379,Petrol,Manual,First,17.92 kmpl,1086 CC,62.1 bhp,5,,,17,Hyundai,SantroXing
+7039,Hyundai Creta 1.6 CRDi AT SX Plus,Pune,2016,57297,Diesel,Automatic,First,17.01 kmpl,1582 CC,126.2 bhp,5,,,9,Hyundai,Creta1.6
+7040,Hyundai Creta 1.6 VTVT Base,Hyderabad,2015,28700,Petrol,Manual,Second,15.29 kmpl,1591 CC,121.3 bhp,5,,,10,Hyundai,Creta1.6
+7046,Hyundai i20 Sportz 1.2,Mumbai,2017,14927,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,,8,Hyundai,i20Sportz
+7054,Hyundai i20 1.2 Sportz,Ahmedabad,2011,76958,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,,14,Hyundai,i201.2
+7065,Hyundai Creta 1.6 CRDi SX Option,Mumbai,2015,19000,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,,10,Hyundai,Creta1.6
+7069,Hyundai Creta 1.6 VTVT S,Jaipur,2016,24000,Petrol,Manual,First,15.29 kmpl,1591 CC,121.3 bhp,5,,,9,Hyundai,Creta1.6
+7071,Hyundai i20 Magna,Ahmedabad,2009,90000,Petrol,Manual,First,18.5 kmpl,1197 CC,80 bhp,5,,,16,Hyundai,i20Magna
+7073,Hyundai Grand i10 CRDi Sportz,Jaipur,2014,62269,Diesel,Manual,First,24.0 kmpl,1120 CC,70 bhp,5,,,11,Hyundai,Grandi10
+7077,Hyundai Grand i10 1.2 Kappa Sportz AT,Kochi,2019,34649,Petrol,Automatic,First,18.9 kmpl,1197 CC,81.86 bhp,5,7.96 Lakh,,6,Hyundai,Grandi10
+7079,Hyundai Grand i10 1.2 Kappa Magna,Jaipur,2015,25043,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,6.54 Lakh,,10,Hyundai,Grandi10
+7087,Hyundai Xcent 1.1 CRDi S Celebration Edition,Jaipur,2017,133000,Diesel,Manual,First,24.4 kmpl,1120 CC,71 bhp,5,,,8,Hyundai,Xcent1.1
+7088,Hyundai Creta 1.6 CRDi SX,Coimbatore,2017,33186,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,,8,Hyundai,Creta1.6
+7092,Hyundai Santro Xing XG AT eRLX Euro III,Coimbatore,2007,64168,Petrol,Automatic,First,17.0 kmpl,1086 CC,null bhp,5,,,18,Hyundai,SantroXing
+7107,Hyundai EON Era Plus,Mumbai,2015,8300,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,,10,Hyundai,EONEra
+7109,Hyundai Creta 1.6 CRDi SX Option,Pune,2016,83500,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,,9,Hyundai,Creta1.6
+7113,Hyundai i20 2015-2017 Magna Optional 1.4 CRDi,Pune,2012,134487,Diesel,Manual,First,21.9 kmpl,1396 CC,88.8 bhp,5,,,13,Hyundai,i202015-2017
+7122,Hyundai Elantra SX AT,Bangalore,2016,25000,Petrol,Automatic,Second,14.5 kmpl,1797 CC,147.4 bhp,5,,,9,Hyundai,ElantraSX
+7135,Hyundai EON Era Plus,Jaipur,2013,60000,Petrol,Manual,Second,21.1 kmpl,814 CC,55.2 bhp,5,,,12,Hyundai,EONEra
+7139,Hyundai i20 1.2 Sportz Option,Kolkata,2012,36200,Petrol,Manual,First,17.0 kmpl,1197 CC,80 bhp,5,,,13,Hyundai,i201.2
+7140,Hyundai Verna 1.4 CRDi,Kolkata,2015,32506,Diesel,Manual,First,24.8 kmpl,1396 CC,88.7 bhp,5,,,10,Hyundai,Verna1.4
+7146,Hyundai Creta 1.6 CRDi SX,Jaipur,2015,65000,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5,,,10,Hyundai,Creta1.6
+7147,Hyundai Santro Xing GLS,Coimbatore,2009,61259,Petrol,Manual,First,17.92 kmpl,1086 CC,62.1 bhp,5,,,16,Hyundai,SantroXing
+7148,Hyundai i20 1.4 Asta (AT),Chennai,2010,50000,Petrol,Automatic,Second,15.0 kmpl,1396 CC,100 bhp,5,,,15,Hyundai,i201.4
+7149,Hyundai Elantra CRDi,Mumbai,2006,183513,Diesel,Manual,Second,14.9 kmpl,1991 CC,112.2 bhp,5,,,19,Hyundai,ElantraCRDi
+7154,Hyundai Verna 1.6 SX VTVT (O) AT,Mumbai,2014,28000,Petrol,Automatic,First,17.1 kmpl,1591 CC,121.4 bhp,5,,,11,Hyundai,Verna1.6
+7158,Hyundai Creta 1.6 SX Plus Petrol Automatic,Coimbatore,2018,32746,Petrol,Automatic,First,13.0 kmpl,1591 CC,121.3 bhp,5,,,7,Hyundai,Creta1.6
+7177,Hyundai Elite i20 Petrol Asta,Kochi,2016,26642,Petrol,Manual,First,18.6 kmpl,1197 CC,81.86 bhp,5,,,9,Hyundai,Elitei20
+7181,Hyundai EON Era,Pune,2012,36317,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,,13,Hyundai,EONEra
+7183,Hyundai Verna CRDi SX,Hyderabad,2009,137711,Diesel,Manual,First,16.8 kmpl,1493 CC,110 bhp,5,,,16,Hyundai,VernaCRDi
+7184,Hyundai Verna VTVT 1.6 AT SX Option,Mumbai,2018,18980,Petrol,Automatic,First,17.0 kmpl,1591 CC,121.3 bhp,5,15.14 Lakh,,7,Hyundai,VernaVTVT
+7185,Hyundai i20 Asta Option 1.2,Mumbai,2015,31293,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,,10,Hyundai,i20Asta
+7189,Hyundai i10 Magna 1.1L,Pune,2011,30000,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,,14,Hyundai,i10Magna
+7195,Hyundai i10 Era 1.1,Chennai,2008,71467,Petrol,Manual,First,19.81 kmpl,1086 CC,68.05 bhp,5,,,17,Hyundai,i10Era
+7201,Hyundai Grand i10 1.2 Kappa Sportz Option,Delhi,2017,25348,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5,,,8,Hyundai,Grandi10
+7202,Hyundai Grand i10 AT Asta,Delhi,2014,54000,Petrol,Automatic,First,18.9 kmpl,1197 CC,82 bhp,5,,,11,Hyundai,Grandi10
+7203,Hyundai i20 Sportz Option 1.2,Bangalore,2015,33000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,,10,Hyundai,i20Sportz
+7211,Hyundai Verna Transform VTVT with Audio,Kolkata,2010,47000,Petrol,Manual,First,16.2 kmpl,1599 CC,103.2 bhp,5,,,15,Hyundai,VernaTransform
+7214,Hyundai i20 Active 1.4 SX,Delhi,2017,14301,Diesel,Manual,First,21.19 kmpl,1396 CC,88.73 bhp,5,,,8,Hyundai,i20Active
+7217,Hyundai Creta 1.6 SX Plus Dual Tone Petrol,Delhi,2017,11000,Petrol,Manual,First,15.29 kmpl,1591 CC,121.3 bhp,5,,,8,Hyundai,Creta1.6
+7226,Hyundai Santro Xing GL,Ahmedabad,2014,41000,Petrol,Manual,First,0.0 kmpl,1086 CC,62 bhp,5,,,11,Hyundai,SantroXing
+7230,Hyundai i20 1.2 Spotz,Pune,2014,30315,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,,,11,Hyundai,i201.2
+7234,Hyundai Verna 1.6 SX VTVT (O),Kochi,2013,42203,Petrol,Manual,First,17.1 kmpl,1591 CC,121.3 bhp,5,,,12,Hyundai,Verna1.6
+7236,Hyundai Elite i20 Magna Plus,Kochi,2018,23955,Petrol,Manual,First,18.6 kmpl,1197 CC,81.86 bhp,5,7.08 Lakh,,7,Hyundai,Elitei20
+7242,Hyundai Grand i10 Asta Option,Kolkata,2015,39000,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,,,10,Hyundai,Grandi10
+7246,Hyundai Grand i10 AT Asta,Coimbatore,2016,18242,Petrol,Automatic,First,18.9 kmpl,1197 CC,82 bhp,5,,,9,Hyundai,Grandi10
+7247,Hyundai EON D Lite Plus,Coimbatore,2015,21190,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,,,10,Hyundai,EOND
